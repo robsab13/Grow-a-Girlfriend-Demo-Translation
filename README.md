@@ -1,14 +1,15 @@
 Hi, and thank you for your interest in translating the game as a volunteer! Here are the steps on how to translate Grow a Girlfriend!
 
-# Step 0: Add your email and the language you will be translating to Active Translations
-Please open go to this document (https://docs.google.com/document/d/1ReVeinGChA440N3xEIY4DcxImOcht0Lt-f_HkQ3Gizw/edit?usp=sharing) and add your email and the language you wish to translate as shown in the example. If you are unable to do so, please email me and I will add it for you. This will allow anybody who is translating the game to check and see what languages are being worked on and potentially collaborate. It's up to you to email someone working the same language as you to join a team and split up the tasks.
+# Step 0: Sign up to the project
+Please open go to this document (https://docs.google.com/document/d/1ReVeinGChA440N3xEIY4DcxImOcht0Lt-f_HkQ3Gizw/edit?usp=sharing) and add your email and the language you wish to translate as shown in the example. If you are unable to do so, please email me and I will add it for you. This will allow anybody who is translating the game to check and see what languages are being worked on and potentially collaborate. It's up to you to email someone working the same language as you, to join a team and split up the tasks.
 
 # Step 1: Download
 Download:
 1. One of the folders in "tl" directory that's in the language you want to translate it into. If it is not listed, please download "other_language" instead. This will be the case for most of you.
 2. "Images"
 
-The simplest way to download the files is to click the green "code" button, and then click the "Download ZIP" button. From there you can access the languages you want to translate as well as the images. Feel free to delete the other language translations once you use the folder you require or you edit the "other languages" folder You can then send me the translated folders and I will incorporate them. If you are familiar with software such as git, you can fork and clone the repository and work in the cloned directory. I will merge any changes back when a pull request is made.
+For those who are new to GitHub: The simplest way to download the files is to click the green "code" button, and then click the "Download ZIP" button. That downloads everything. Extract the folder, then delete the other language folders that you are not using (since this method downloads ALL the language options).
+Otherwise, if you are familiar with software such as git, you can fork and clone the repository and work in the cloned directory. I will merge any changes back when a pull request is made.
    
 # Step 2: Software and set up
 Ensure you have an appropriate editing software (I recommend Notepad++ as it is beginner-friendly, but you can also use Visual Studio Code - the software I use to write the game's code). Opening and saving your progress using Word, for instance, can break the script's format and make it impossible for it to put in the game, so be careful!
