@@ -1,8 +1,10 @@
 Hi, and thank you for your interest in translating the game as a volunteer! Here are the steps on how to translate Grow a Girlfriend!
 
 # Step 1: Download
-Download the appropriate zip file and extract it. If the language you want to translate the game into is not listed in the options, please download "other_language" instead.
-
+Download:
+1. The "tl" folder that's in the language you want to translate it into (If it is not listed, please download "other_language" instead. This will be the case for most of you.)
+2. "Images"
+   
 # Step 2: Software and set up
 Ensure you have an appropriate editing software (I recommend Notepad++ as it is beginner-friendly, but you can also use Visual Studio Code - the software I use to write the game's code). Opening and saving your progress using Word, for instance, can break the script's format and make it impossible for it to put in the game, so be careful!
   
