@@ -21,8 +21,7 @@ A translated line looks like this (I had to use machine translation in my exampl
       "Когда вы просыпаетесь, ваша первая мысль:"
 
 * Notes on text effects: I make some sentences or words bold{b}, italic{i}, shake{sc=1}, sized up/down{size+10}, color {color=#000000}, etc. You can leave these out, however it means that players will not see any text effects for those lines. If you want to include it, it's simple - Just copy and past it however I used it in your translation, like this:
-    
-  # "{sc=4}{i}{color=#000000}SOMEONE IS AT THE DOOR!{/i}{/sc}"
+    #"{sc=4}{i}{color=#000000}SOMEONE IS AT THE DOOR!{/i}{/sc}"
     "{sc=4}{i}{color=#000000}кто-то у двери!{/i}{/sc}"
 
 * Note on the "common.rpy" file. This particular file is mostly for debugging and will likely never been seen by the player. Translating "common.rpy" is entirely optional. You can ignore it, translate some, or all if you want. If you are up to it, I recommend that you only translate the months, days and save/load text (These can be found around line 150, or if you ctrl+F search for old "{#weekday}Monday". This will show on the save and load screen.
