@@ -2,7 +2,7 @@ Hi, and thank you for your interest in translating the game as a volunteer! Here
 
 # Step 1: Download
 Download:
-1. The "tl" folder that's in the language you want to translate it into (If it is not listed, please download "other_language" instead. This will be the case for most of you.)
+1. One of the folders in "tl" directory that's in the language you want to translate it into. If it is not listed, please download "other_language" instead. This will be the case for most of you.
 2. "Images"
    
 # Step 2: Software and set up
