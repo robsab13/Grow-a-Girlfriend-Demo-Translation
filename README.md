@@ -1,7 +1,7 @@
 Hi, and thank you for your interest in translating the game as a volunteer! Here are the steps on how to translate Grow a Girlfriend!
 
 # Step 0: Add your email and the language you will be translating to Active Translations
-Please open go to this document (https://docs.google.com/document/d/1ReVeinGChA440N3xEIY4DcxImOcht0Lt-f_HkQ3Gizw/edit?usp=sharing) and add your email and the language you wish to translate as shown in the example. If you are unable to do so, please email me and I will add it for you. This will allow anybody who is translating the game to check and see what languages are being worked on and potentially collaborate.
+Please open go to this document (https://docs.google.com/document/d/1ReVeinGChA440N3xEIY4DcxImOcht0Lt-f_HkQ3Gizw/edit?usp=sharing) and add your email and the language you wish to translate as shown in the example. If you are unable to do so, please email me and I will add it for you. This will allow anybody who is translating the game to check and see what languages are being worked on and potentially collaborate. It's up to you to email someone working the same language as you to join a team and split up the tasks.
 
 # Step 1: Download
 Download:
@@ -67,4 +67,4 @@ After I play play test it, communicate with you, and solve any issues, I'll add 
 
 If you find any typos after submitting it to me, simply correct it and resend whatever file it was in to me.
 
-For any questions, comment here or email me! I want to help the best I can!
+For any questions, email me! I want to help the best I can!
