@@ -58,7 +58,7 @@ If you choose to translate the images yourself, please save the translated image
 --------------------------------------
    
 # Step 5: Send it to me
-When you have finished translating, preferably create a form and a pull request for my repo so that I can incorporate the changes automatically. Alternatively, if you do not know how to do that please email me at true.blue.eyes@icloud.com with your updated folder. In your email, please include all the volunteers names as they would like it to be shown in the credits. If you want me to edit images for you, please also include the translation for each image.
+When you have finished translating, preferably create a fork and a pull request for my repo so that I can incorporate the changes automatically. Alternatively, if you do not know how to do that please email me at true.blue.eyes@icloud.com with your updated folder. In your email, please include all the volunteers names as they would like it to be shown in the credits. If you want me to edit images for you, please also include the translation for each image.
 
 After I play play test it, communicate with you, and solve any issues, I'll add your translation to the official demo and add you to the credits!
 
