@@ -7,7 +7,7 @@ Translations:
 
 Russian —
 
-French —
+French — anarratone1992@gmail.com
 
 Portuguese —
 
