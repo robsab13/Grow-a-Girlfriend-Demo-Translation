@@ -16,7 +16,7 @@ Ensure you have an appropriate editing software (I recommend Notepad++ as it is 
 
 You will be opening the .rpy (NOT .rpyc) scripts found in the relevant tl folder.
   
-If you downloaded "other_language", please find-and-replace all instances of "other_language" in ALL 5 "rpy" files with the name of the language you will be using, such as "japanese" (Without the quotes). Then, change the name of the folder itself to the same name (They must be identical!). It takes a few minutes, but it's important. What you choose to name it is how it will be displayed in the language selection menu.
+If you downloaded "other_language", please find-and-replace all instances of "other_language" in ALL 5 "rpy" files with the name of the language you will be using, such as "japanese" (Without the quotes). Then, change the name of the folder itself to the same name (**They must be identical!**). It takes a few minutes, but it's important. What you choose to name it is how it will be displayed in the language selection menu.
 
 # Step 3: Translate
 Now for translations! Go through four of the .rpy files ("album.rpy", "options.rpy", "screens.rpy", and "script.rpy") and put your translation where there is a empty "". Please do not use machine translation or AI translation. I trust you to localise it so that a native speaker would find reading it quite natural. I will be checking the quality of all translations.
@@ -58,9 +58,10 @@ The most recent demo game now allows for language testing! To do it:
 1. Download the most recent demo.
 2. Download the "translation_testing.rpy" script from github.
 3. Place that script into the "game" folder of the demo you downloaded. On Steam, the path to game folders is SteamLibrary > steamapps > common > Grow a Girlfriend Demo > game.
-4. Place your language folder into "game/tl". The only other folder in there should be "None", which is English. Do not include Images - the current script does not support image translation testing yet.
-5. Launch the game! On the main menu, there should be a button to change languages from English into your translation - It will have the name of your folder.
-Note: Translate "screens.rpy" before you do this, otherwise the buttons to start the game, etc will disappear, and you'll find yourself stuck on the main menu!
+4. Assuming you are not translating into Russian, open "translation_testing.rpy" and replace all instances of "russian" with the same name of your language folder. This ensures you use a more universal font, else you might see empty squares. (It must be the exact same name as your language as named in the folder!).
+5. Place your language **folder**, containing the 5 scripts you're busing translating, into "game/tl", eg. "game/tl/lithuaninan". The only other folder in there should be "None", which is English. Do not include Images - the current script does not support image translation testing yet.
+6. Launch the game! On the main menu, there should be a button to change languages from English into your translation - It will have the name of your folder.
+Note: Translate "screens.rpy" first, otherwise the buttons to start the game etc. will disappear, and you'll find yourself stuck on the main menu!
 
 # Step 4: Images
 The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, skip this step. I am willing to do it for you once you translate the necessary files!
