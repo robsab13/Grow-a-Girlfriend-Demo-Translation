@@ -14,6 +14,12 @@ init python:
 translate russian style default:
     font "NotoSans-Regular.ttf"
 
+translate russian style check_button_text:
+    font "NotoSans-Regular.ttf"
+
+translate russian style button_text:
+    font "NotoSans-Regular.ttf"
+
 translate russian style say_label:
     size 30
 
