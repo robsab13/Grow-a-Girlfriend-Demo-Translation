@@ -16,7 +16,7 @@ Ensure you have an appropriate editing software (I recommend Notepad++ as it is 
 
 You will be opening the .rpy (NOT .rpyc) scripts found in the relevant tl folder.
   
-If you downloaded "other_language", please find-and-replace all instances of "other_language" in ALL 5 "rpy" files with the name of the language you will be using, such as "japanese" (Without the quotes). It takes a few seconds, but it's important. What you choose to name it is how it will be displayed in the language selection menu.
+If you downloaded "other_language", please find-and-replace all instances of "other_language" in ALL 5 "rpy" files with the name of the language you will be using, such as "japanese" (Without the quotes). Then, change the name of the folder itself to the same name (They must be identical!). It takes a few minutes, but it's important. What you choose to name it is how it will be displayed in the language selection menu.
 
 # Step 3: Translate
 Now for translations! Go through four of the .rpy files ("album.rpy", "options.rpy", "screens.rpy", and "script.rpy") and put your translation where there is a empty "". Please do not use machine translation or AI translation. I trust you to localise it so that a native speaker would find reading it quite natural. I will be checking the quality of all translations.
@@ -53,6 +53,14 @@ Some sentences have text effects like bold{b}, italic{i}, shake{sc=1}, sized up/
 Note on the "common.rpy" file: Translating this file is optional. You can ignore it, translate some, or all if you want. It is mostly for debugging and will likely never been seen by the player. If you are up to it, I recommend that you only translate the months, days and save/load text (These can be found around line 150, or if you ctrl+F search for old "{#weekday}Monday". This will show on the save and load screen.
 
 --------------------------------------
+# Testing:
+The most recent demo game now allows for language testing! To do it:
+1. Download the most recent demo.
+2. Download the "translation_testing.rpy" script from github.
+3. Place that script into the "game" folder of the demo you downloaded. On Steam, the path to game folders is SteamLibrary > steamapps > common > Grow a Girlfriend Demo > game.
+4. Place your language folder into "game/tl". The only other folder in there should be "None", which is English. Do not include Images - the current script does not support image translation testing yet.
+5. Launch the game! On the main menu, there should be a button to change languages from English into your translation - It will have the name of your folder.
+Note: Translate "screens.rpy" before you do this, otherwise the buttons to start the game, etc will disappear, and you'll find yourself stuck on the main menu!
 
 # Step 4: Images
 The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, skip this step. I am willing to do it for you once you translate the necessary files!
