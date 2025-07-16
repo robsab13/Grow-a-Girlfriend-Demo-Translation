@@ -63,6 +63,10 @@ The most recent demo game now allows for language testing! To do it:
 6. Launch the game! On the main menu, there should be a button to change languages from English into your translation - It will have the name of your folder.
 Note: Translate "screens.rpy" first, otherwise the buttons to start the game etc. will disappear, and you'll find yourself stuck on the main menu!
 
+# Common testing problems:
+1. If the game suddenly plays in English in the NotoSans font, you have accidentally deleted a " at the beginning or end of your translations. Adding them back and saving will fix it.
+2. If squares appear instead of letters, the font being used doesn't have the characters for your language! Email me a screenshot of showing the squares and I'll fix that for you.
+
 # Step 4: Images
 The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, skip this step. I am willing to do it for you once you translate the necessary files!
 
