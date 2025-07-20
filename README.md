@@ -68,9 +68,9 @@ Note: Translate "screens.rpy" first, otherwise the buttons to start the game etc
 2. If squares appear instead of letters, the font being used doesn't have the characters for your language! Email me a screenshot of showing the squares and I'll fix that for you.
 
 # Step 4: Images
-The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, skip this step. I am willing to do it for you once you translate the necessary files!
+The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, I am willing to do it for you once you translate the necessary files: All you have to do then is open "Image translation text.txt" and put in the exact translations next to each line.
 
-Else, if you can do it yourself, one way of doing it is opening an image in an image editor, covering all English text with the same colour as the background, inserting translated text on top of it, and saving it so it overwrites the original. Do not change the image's dimensions, else it will not+ display properly.
+Else, if you want to do it yourself, one way of doing it is opening an image in an image editor, covering all English text with the same colour as the background, inserting translated text on top of it, and saving it so it overwrites the original. Do not change the image's dimensions, else it will not display properly.
 
 If you choose to translate the images yourself, please save the translated images WITH THE SAME NAME as its original, and place it in your translation language folder.
 
