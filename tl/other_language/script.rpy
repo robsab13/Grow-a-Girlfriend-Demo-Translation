@@ -1,2242 +1,2242 @@
-﻿# TODO: Translation updated at 2025-07-14 20:26
+﻿# TODO: Translation updated at 2025-07-19
 
 # game/script.rpy:677
 translate other_language start_be4321ac:
 
     # "As you wake up, your first thought is:"
-    ""
+    "Saat Anda bangun tidur, hal pertama yang Anda pikirkan:"
 
 # game/script.rpy:678
 translate other_language start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    ""
+    "{sc=1}{color=#000000}Tekanan{/sc}."
 
 # game/script.rpy:679
 translate other_language start_36532e04:
 
     # "Today is a new day."
-    ""
+    "Hari ini adalah hari yang baru."
 
 # game/script.rpy:680
 translate other_language start_26cb8853:
 
     # "You're supposed to make the most of it."
-    ""
+    "Seharusnya Anda memanfaatkannya sebaik mungkin."
 
 # game/script.rpy:681
 translate other_language start_a4c96fd2:
 
     # "You're supposed to finally exercise."
-    ""
+    "Seharusnya Anda mulai olahraga."
 
 # game/script.rpy:682
 translate other_language start_21e1cd13:
 
     # "Go to lectures again."
-    ""
+    "Pergi kuliah lagi."
 
 # game/script.rpy:683
 translate other_language start_33b03b8c:
 
     # "Make friends."
-    ""
+    "Buat teman."
 
 # game/script.rpy:684
 translate other_language start_53a40e4b:
 
     # "Call your mom."
-    ""
+    "Telpon ibumu."
 
 # game/script.rpy:685
 translate other_language start_f09d318c:
 
     # "Literally achieve any goal."
-    ""
+    "Benar-benar capai tujuanmu."
 
 # game/script.rpy:686
 translate other_language start_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:687
 translate other_language start_468676bd:
 
     # "But you just... {i}can't{/i}."
-    ""
+    "Tapi Anda hanya... {i}tidak bisa{/i}."
 
 # game/script.rpy:688
 translate other_language start_44b3a675:
 
     # "Not today."
-    ""
+    "Tidak hari ini."
 
 # game/script.rpy:689
 translate other_language start_d7508480:
 
     # "Now you're both stressed AND disappointed in yourself."
-    ""
+    "Sekarang Anda merasa stres dan kecewa dengan dirimu sendiri."
 
 # game/script.rpy:693
 translate other_language start_8e41dfce:
 
     # "You need to distract yourself from these feelings. How about an impulse purchase?"
-    ""
+    "Anda perlu mengalihkan dirimu dari perasaan ini. Bagaimana dengan pembelian impulsif?"
 
 # game/script.rpy:694
 translate other_language start_8fd80b70:
 
     # "It's not like you'll need all the money your parents gave you for very long anyway."
-    ""
+    "Lagipula, Anda tidak perlu semua uang yang orang tua Anda beri untuk waktu lama."
 
 # game/script.rpy:697
 translate other_language start_c21eef51:
 
     # m "But... what if I do need it later on?"
-    m ""
+    m "Tapi... bagaimana jika aku perlu memakainya?"
 
 # game/script.rpy:698
 translate other_language start_b480baf0:
 
     # "Hesitant, as always."
-    ""
+    "Ragu, seperti biasa."
 
 # game/script.rpy:699
 translate other_language start_9f4bfce8:
 
     # "Don't worry. It's easier to just shut up and listen to me."
-    ""
+    "Tidak apa-apa. Lebih mudah diam dan dengar perkataanku."
 
 # game/script.rpy:700
 translate other_language start_3413f642:
 
     # "Remember: There's no point to anything anymore."
-    ""
+    "Ingatlah: Semua tidak ada gunanya lagi."
 
 # game/script.rpy:702
 translate other_language start_7681bbef:
 
     # m "I guess so..."
-    m ""
+    m "Aku kira juga..."
 
 # game/script.rpy:703
 translate other_language start_af419542:
 
     # "Maybe get something you can grow. Since you'll never have children of your own anyway."
-    ""
+    "Mungkin beli sesuatu yang dapat tumbuh. Lagipula Anda tidak akan punya anak di masa depan."
 
 # game/script.rpy:704
 translate other_language start_8dac78be:
 
     # "Also low-maintenance. You're not very good at taking care of things."
-    ""
+    "Dan juga mudah dirawat. Anda sangat tidak pandai dalam mengurus sesuatu."
 
 # game/script.rpy:705
 translate other_language start_53d72305:
 
     # "What kind of plant would enjoy your dark, dank, dungeon?"
-    ""
+    "Tumbuhan apa yang suka ruanganmu yang gelap, suram, dan seperti penjara?"
 
 # game/script.rpy:707
 translate other_language start_64d91354:
 
     # m "I don't know."
-    m ""
+    m "Entahlah."
 
 # game/script.rpy:708
 translate other_language start_d2061e25:
 
     # "Huh, so you really ARE an idiot."
-    ""
+    "Heh, Anda memang SANGAT bodoh."
 
 # game/script.rpy:709
 translate other_language start_7cabce7d:
 
     # "How does it feel, knowing that you've wasted your life in school and nothing came out of it?"
-    ""
+    "Bagaimana rasanya, mengetahui bahwa Anda sudah lama beredukasi tetapi tidak menghasilkan apa-apa?"
 
 # game/script.rpy:710
 translate other_language start_6109150a:
 
     # "Think of all the money you've wasted. All of your precious time spent doing something you hated."
-    ""
+    "Pikirkan semua uang yang Anda habiskan. Semua waktu yang Anda pakai untuk hal yang Anda benci."
 
 # game/script.rpy:711
 translate other_language start_d79b8cc8:
 
     # "Go on. Do what idiots do, and go ask the internet mommy for help."
-    ""
+    "Silakan. Lakukanlah kebodohan seperti orang bodoh, dan tanya netizen untuk bantu."
 
 # game/script.rpy:736
 translate other_language buy_mushroom_1f82217c:
 
     # "{size=*2.0}WELL DONE!{size=*2.0}"
-    ""
+    "{size=*2.0}SELAMAT!{size=*2.0}"
 
 # game/script.rpy:737
 translate other_language buy_mushroom_15c5ad6f:
 
     # "You did it! You searched for:"
-    ""
+    "Anda berhasil! Anda mencari:"
 
 # game/script.rpy:738
 translate other_language buy_mushroom_63e3dce0:
 
     # "<what gros in daurk humid palces?>"
-    ""
+    "<Apa yang tinggal di suatu lembab tidak terang?>"
 
 # game/script.rpy:739
 translate other_language buy_mushroom_04cf4a2b:
 
     # "Pathetic."
-    ""
+    "Menyedihkan."
 
 # game/script.rpy:741
 translate other_language buy_mushroom_222d9148:
 
     # m "Oh... mushrooms!"
-    m ""
+    m "Oh... jamur!"
 
 # game/script.rpy:742
 translate other_language buy_mushroom_8474b4a3:
 
     # "Good. Get them."
-    ""
+    "Bagus. Belilah."
 
 # game/script.rpy:743
 translate other_language buy_mushroom_9a377f1d:
 
     # "Look, you can buy a starter-kit there. Surely you couldn't mess this up too, right?"
-    ""
+    "Lihat, anda bisa beli kit pemula disana. Yakinkah Anda tidak akan mengacaukannya?"
 
 # game/script.rpy:749
 translate other_language buy_mushroom_4aa4a1c4:
 
     # m "Which one should I get? Though it's not like I get much of a choice..."
-    m ""
+    m "Mana yang harusku beli? Meskipun tidak banyak pilihan juga..."
 
 # game/script.rpy:750
 translate other_language buy_mushroom_af8e07c0:
 
     # "Ah, just like life: You must resignedly drift down the path forced unto you."
-    ""
+    "Ah, seperti kehidupan: Anda harus pasrah melewati jalan yang sudah dipaksakan kepada Anda."
 
 # game/script.rpy:769
 translate other_language bought_gt_d22ae335:
 
     # m "This one looks weird..."
-    m ""
+    m "Jamur ini keliatan aneh..."
 
 # game/script.rpy:770
 translate other_language bought_gt_deb6353a:
 
     # "Then it would have been a perfect match!"
-    ""
+    "Berarti ini pilihan yang paling terbaik!"
 
 # game/script.rpy:771
 translate other_language bought_gt_5d583721:
 
     # "Unfortunately, the illusion of choice here is too shallow. You have'll to go with the generic, boring mushroom."
-    ""
+    "Sayangnya, ilusi adanya pilihan disini terlalu rendah. Anda terpaksa memilih jamur yang biasa dan membosankan."
 
 # game/script.rpy:772
 translate other_language bought_gt_537684e0:
 
     # "Hmm, maybe that's a good match for you after all!"
-    ""
+    "Hmm, mungkin itu pilihan yang cocok untuk Anda!"
 
 # game/script.rpy:778
 translate other_language bought_red_a1c9d913:
 
     # m "Aren't red mushrooms supposed to be poisonous?"
-    m ""
+    m "Bukannya jamur merah beracun?"
 
 # game/script.rpy:779
 translate other_language bought_red_841bb29e:
 
     # "Maybe you could kill yourself with it! Then everyone will feel bad for you. That DOES sound alluring..."
-    ""
+    "Mungkin Anda bisa bunuh diri dengan itu! Lalu semua orang akan merasa sedih. Itu hal yang menarik..."
 
 # game/script.rpy:780
 translate other_language bought_red_e8a503db:
 
     # "Too bad they're out of stock, huh?"
-    ""
+    "Sayangnya stok jamur tersebut sudah habis, hm?"
 
 # game/script.rpy:793
 translate other_language x_2fafdade:
 
     # "Stalling for time. Your favourite facade of being in control."
-    ""
+    "Mengulur waktu. Kelakuan favorit Anda saat memegang kendali."
 
 # game/script.rpy:797
 translate other_language x_16421445:
 
     # "What? Can't make up your mind?"
-    ""
+    "Bagaimana? Tidak dapat mengambil keputusan?"
 
 # game/script.rpy:829
 translate other_language bought_button_9d025055:
 
     # m "You're kind of...cute."
-    m ""
+    m "Kamu agak... imut."
 
 # game/script.rpy:830
 translate other_language bought_button_ac458a06:
 
     # "Be honest. It's bland, isn't it?"
-    ""
+    "Jujurlah. Jamur itu hambar kan?"
 
 # game/script.rpy:831
 translate other_language bought_button_1513cf83:
 
     # "Well, enjoy those leftovers that no one else wanted."
-    ""
+    "Baiklah, selamat menikmati barang sisa yang orang tidak mau."
 
 # game/script.rpy:833
 translate other_language bought_button_ebfa8efb:
 
     # "Now all you have to do is go back into bed for a day and doomscroll until it arrives."
-    ""
+    "Sekarang Anda hanya perlu untuk bersantai di tempat tidur dan {i}doomscroll{/i} sampai barang datang."
 
 # game/script.rpy:847
 translate other_language bought_button_5dec848b:
 
     # "{sc=4}{i}{color=#000000}SOMEONE IS AT THE DOOR!{/i}{/sc}"
-    ""
+    "{sc=4}{i}{color=#000000}ADA ORANG DI DEPAN PINTU!{/i}{/sc}"
 
 # game/script.rpy:848
 translate other_language bought_button_2011e684:
 
     # "The adrenaline wakes you up, sending your heart hammering as you cover yourself with your sheets."
-    ""
+    "Adrenalis membangunkan Anda, membuat jantung Anda berdebar selagi Anda menutupi diri dengan pakaian."
 
 # game/script.rpy:849
 translate other_language bought_button_dd731022:
 
     # na "Hello? I saw you had a package delivered to the reception, so I thought I'd bring it up to you..."
-    na ""
+    na "Halo? Aku tadi lihat paket kamu di ruang resepsi, jadi aku kira aku bantu bawakan ke kamu."
 
 # game/script.rpy:851
 translate other_language bought_button_0103548d:
 
     # "We both know you can't do this."
-    ""
+    "Kita sudah tau Anda tidak bisa lakukan ini."
 
 # game/script.rpy:853
 translate other_language bought_button_cfa78aa1:
 
     # na "You awake?"
-    na ""
+    na "Anda baru bangun?"
 
 # game/script.rpy:854
 translate other_language bought_button_f3321946:
 
     # m "{size=-15}I'm sorry.{size=+15}"
-    m ""
+    m "{size=-15}Maaf.{size=+15}"
 
 # game/script.rpy:855
 translate other_language bought_button_ddf0fa06:
 
     # na "I'm leaving it by the door. Good luck with your, um... experiment."
-    na ""
+    na "Aku akan tinggalkan di depan pintu. Semoga berhasil dalam, um... eksperimennya."
 
 # game/script.rpy:856
 translate other_language bought_button_fc54e591:
 
     # "You hear your neighbour, who, after nearly a year, you still haven't met, walk away."
-    ""
+    "Anda dengar tetangga Anda yang sudah hampir setahun, juga tidak pernah bertemu, meninggalkan tempat."
 
 # game/script.rpy:857
 translate other_language bought_button_208e905e:
 
     # "How can someone who never leaves their room meet someone?"
-    ""
+    "Bagaimana seseorang yang tidak pernah keluar ruangan bertemu dengan orang lain?"
 
 # game/script.rpy:858
 translate other_language bought_button_071d45d8:
 
     # "Sometimes you can hear the muffled sound of rock music when you're up late. He likes guitars and violins."
-    ""
+    "Kadang Anda bisa sedikit dengar musik rock saat larut malam. Dia suka gitar dan violin."
 
 # game/script.rpy:859
 translate other_language bought_button_ac9da120:
 
     # "Once, you took off your headphones and listened to the whole album."
-    ""
+    "Pernah sekali Anda buka headphone Anda dan dengar seluruh albumnya."
 
 # game/script.rpy:860
 translate other_language bought_button_cb2c7e99:
 
     # "It made you feel less lonely and more inspired than any lofi beat ever had."
-    ""
+    "Itu membuat Anda merasa tidak sendiri dan lebih terinspirasi daripada mendengarkan lofi hip hop apapun."
 
 # game/script.rpy:861
 translate other_language bought_button_e00fcc48:
 
     # "You wish you had the courage to say hi."
-    ""
+    "Anda berharap Anda punya keberanian untuk menyapa."
 
 # game/script.rpy:875
 translate other_language bought_button_508a4fa8:
 
     # "Now that's it here, I'm getting kind of excited! Opening a box is like getting a present!"
-    ""
+    "Sekarang dengan paket ditangan, Saya agak bersemangat! Membuka box ini seperti sebuah hadiah!"
 
 # game/script.rpy:881
 translate other_language bought_button_121d1f5b:
 
     # "Can't you feel it!? This is NEW! It could change EVERYTHING! It could be THE SOLUTION!"
-    ""
+    "Apakah Anda bisa merasakannya? Ini hal BARU! SEMUA bisa berubah! Ini bisa jadi SOLUSINYA!"
 
 # game/script.rpy:886
 translate other_language bought_button_5dd86061:
 
     # "Inside the box is...!"
-    ""
+    "Di dalam box ini adalah...!"
 
 # game/script.rpy:893
 translate other_language bought_button_4ca20022:
 
     # "... another box. Wow. That's disappointing."
-    ""
+    "Box lainnya. Hebat. Ini mengecewakan."
 
 # game/script.rpy:899
 translate other_language bought_button_cbe146f0:
 
     # "Oh, there's a note too. Let's see..."
-    ""
+    "Oh, ada instruksi didalamnya. Mari kita lihat..."
 
 # game/script.rpy:908
 translate other_language bought_button_1fcb52ea:
 
     # m "Bright? Huhhhh?"
-    m ""
+    m "Terang? Hahhh?"
 
 # game/script.rpy:909
 translate other_language bought_button_9d935913:
 
     # m "Is this right? It's like... the exact opposite of what I thought a mushroom is supposed to like."
-    m ""
+    m "Apakah ini benar? Ini seperti... kebalikannya dari apa yang aku kira jamur seharusnya suka."
 
 # game/script.rpy:913
 translate other_language bought_button_819fe5d3:
 
     # m "Do I follow the instructions? Or..." nointeract
-    m "" nointeract
+    m "Apa aku ikuti instruksinya? Atau..." nointeract
 
 # game/script.rpy:916
 translate other_language bought_button_c8d3c634:
 
     # m "Yeah, this makes no sense."
-    m ""
+    m "Iya, ini tidak masuk akal."
 
 # game/script.rpy:917
 translate other_language bought_button_45c06818:
 
     # m "Someone must have screwed up this note."
-    m ""
+    m "Seseorang pasti salah tulis instruksi ini."
 
 # game/script.rpy:933
 translate other_language bought_button_9db1564f:
 
     # "You set up the kit on your table, you spray it for the first time for the day, and you wait..."
-    ""
+    "Anda siapkan kit di atas meja, Anda semprotkan pertama kali pada hari itu, dan Anda tunggu..."
 
 # game/script.rpy:939
 translate other_language bought_button_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:940
 translate other_language bought_button_8dabefc6:
 
     # ".."
-    ""
+    ".."
 
 # game/script.rpy:941
 translate other_language bought_button_d7edd024:
 
     # "."
-    ""
+    "."
 
 # game/script.rpy:949
 translate other_language bought_button_5bbf1306:
 
     # "Wow! Those five weeks pass terrifyingly fast! You try not to think of what you've accomplished during them."
-    ""
+    "Hebat! Lima minggu sudah lewat sangat amat cepat! Anda coba untuk tidak pikirkan apa Anda sudah capai di minggu-minggu sebelumnya."
 
 # game/script.rpy:951
 translate other_language bought_button_750a9270:
 
     # "You stand in front of the mushroom kit."
-    ""
+    "Anda berdiri di depan kit jamur tersebut."
 
 # game/script.rpy:952
 translate other_language bought_button_2edd7b98:
 
     # "Would you look at that? Well, you can't. There's nothing to see. The damn thing didn't grow."
-    ""
+    "Apakah Anda melihat itu? Nah, anda tidak bisa. Tidak ada yang Anda bisa lihat. Tidak ada apapun yang tumbuh."
 
 # game/script.rpy:954
 translate other_language bought_button_8a348ac6:
 
     # "Secretly, you'd been getting excited. How foolish of you."
-    ""
+    "Dengan rahasia, Anda sudah bersemangat. Betapa bodohnya Anda."
 
 # game/script.rpy:955
 translate other_language bought_button_a2acadd2:
 
     # "Now it's yet another disappointment."
-    ""
+    "Sekarang ini kekecewaan baru."
 
 # game/script.rpy:957
 translate other_language bought_button_78e643a7:
 
     # m "Please grow."
-    m ""
+    m "Tolonglah tumbuh."
 
 # game/script.rpy:958
 translate other_language bought_button_8f1fb92a:
 
     # m "Please. Just for me."
-    m ""
+    m "Tolong. Hanya untuk aku."
 
 # game/script.rpy:960
 translate other_language bought_button_39609ffc:
 
     # m "I promise I'll do better."
-    m ""
+    m "Aku janji aku akan berlaku lebih baik."
 
 # game/script.rpy:962
 translate other_language bought_button_f629315a:
 
     # m "I'm sorry you're stuck with me. I'm sorry I suck."
-    m ""
+    m "Aku minta maaf kamu terjebak denganku. Maaf karena aku payah."
 
 # game/script.rpy:964
 translate other_language bought_button_5ab3e070:
 
     # m "I'm just sorry. Please grow."
-    m ""
+    m "Aku mohon maaf. Tolonglah tumbuh."
 
 # game/script.rpy:966
 translate other_language bought_button_22a6e2ce:
 
     # m "Are you thirsty? What do you need? How can I help?"
-    m ""
+    m "Apakah kamu haus? Apa yang kamu butuh? Bagaimana aku bisa bantu?"
 
 # game/script.rpy:967
 translate other_language bought_button_535c8093:
 
     # "You're hilarious!"
-    ""
+    "Anda lelucon!"
 
 # game/script.rpy:969
 translate other_language bought_button_be2522ab:
 
     # "YOU CAN'T DO ANYTHING RIGHT." with sshake
-    "" with sshake
+    "ANDA TIDAK BISA BERBUAT APAPUN DENGAN BENAR." with sshake
 
 # game/script.rpy:972
 translate other_language bought_button_a7ca2a53:
 
     # "Nothing ever grew. Neither the mushroom, nor your hopes."
-    ""
+    "Tidak ada apapun yang tumbuh. Tidak jamur, maupun harapanmu."
 
 # game/script.rpy:996
 translate other_language bought_button_5a0ad9d0:
 
     # m "I'm no mycologist. Why am I acting as if I know better?"
-    m ""
+    m "Aku bukan ahli mikologi. Kenapa aku bertingkah seperti orang pintar?"
 
 # game/script.rpy:997
 translate other_language bought_button_9153eb8f:
 
     # m "I'll just follow it step by step."
-    m ""
+    m "aku akan jalani setiap langkah-langkahnya."
 
 # game/script.rpy:1001
 translate other_language bought_button_35603f6e:
 
     # "Ventilation means air flow. That means... you FINALLY have to open up those curtains!"
-    ""
+    "Ventilasi artinya arus angin. Berarti... Anda HARUS membuka jendela Anda!"
 
 # game/script.rpy:1003
 translate other_language bought_button_740482c2:
 
     # m "Ughhhhhhhhh."
-    m ""
+    m "Ughhhhhhhh."
 
 # game/script.rpy:1004
 translate other_language bought_button_13257646:
 
     # "How are you STILL scared? You do realise that people have better things to do than look at your sorry ass, right?"
-    ""
+    "Kenapa Anda MASIH takut? Apa Anda sadar kalau orang ada kegiatan yang lebih penting daripada melihat muka bodohmu?"
 
 # game/script.rpy:1005
 translate other_language bought_button_d70c0857:
 
     # m "Mmmmmmm..."
-    m ""
+    m "Mmmmmmm..."
 
 # game/script.rpy:1006
 translate other_language bought_button_8bea17a5:
 
     # "HAHAHAHAHA!"
-    ""
+    "HAHAHAHAHA!"
 
 # game/script.rpy:1007
 translate other_language bought_button_6acd509f:
 
     # "YOU. CAN'T. DO. IT."
-    ""
+    "ANDA. TIDAK. BISA."
 
 # game/script.rpy:1044
 translate other_language opened_curtained_5649adea:
 
     # m "MY RETINAS! OW OW OW!"
-    m ""
+    m "RETINAKU! AW AW AW!"
 
 # game/script.rpy:1046
 translate other_language opened_curtained_6d25419f:
 
     # m "Whoa, it's actually a pretty nice day outside..."
-    m ""
+    m "Wow. di luar keliatan lumayan cerah..."
 
 # game/script.rpy:1048
 translate other_language opened_curtained_9b9b3184:
 
     # "Stop getting excited. You know you won't be getting out of here anytime soon."
-    ""
+    "Hentikan semangatmu. Anda tau Anda tidak akan keluar dari sini dalam waktu dekat."
 
 # game/script.rpy:1049
 translate other_language opened_curtained_15aa139a:
 
     # "Actually, you should feel {i}worse{/i}, now that you know what you're missing out on."
-    ""
+    "Sebenarnya, And seharusnya merasa lebih buruk, sekarang Anda tau apa yang Anda lewatkan."
 
 # game/script.rpy:1050
 translate other_language opened_curtained_2bc2f21f:
 
     # "Everyone's having a great day, doing their stuff. But you're going to stay inside and do nothing."
-    ""
+    "Semua orang merasa senang, melakukan kegiatan mereka. Tetapi Anda hanya akan tinggal di dalam sini dan berdiam diri."
 
 # game/script.rpy:1051
 translate other_language opened_curtained_9881a16e:
 
     # "Go on, feel worse."
-    ""
+    "Silakan, rasakan lebih buruk"
 
 # game/script.rpy:1052
 translate other_language opened_curtained_d405c0d7:
 
     # "Feel worse!"
-    ""
+    "Rasakan lebih buruk!"
 
 # game/script.rpy:1054
 translate other_language opened_curtained_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1055
 translate other_language opened_curtained_2c113387:
 
     # m "{sc=2}{color=#000000}Focus. Focus."
-    m ""
+    m "{sc=2}{color=#000}Fokus. Fokus.{/color}{/sc}"
 
 # game/script.rpy:1056
 translate other_language opened_curtained_969a3ae8:
 
     # "You take a deep breath in and out (as if that'll ever shut me up), then place the kit on the table."
-    ""
+    "Anda menarik dan menghembuskan napas dalam-dalam (seolah-olah itu akan menutup mulutku), lalu menaruh kit tersebut di atas meja."
 
 # game/script.rpy:1057
 translate other_language opened_curtained_6b889f5a:
 
     # "Nice and toasty by the laptop."
-    ""
+    "Nyaman dan hangat dekat laptop."
 
 # game/script.rpy:1068
 translate other_language opened_curtained_0c1454b0:
 
     # "Now, the hard part. Watering."
-    ""
+    "Sekarang bagian yang sulit. Menyirami."
 
 # game/script.rpy:1069
 translate other_language opened_curtained_14d35af5:
 
     # "Think you can do that, you little shit?"
-    ""
+    "Anda pikir Anda bisa melakukannya, kotoran bodoh?"
 
 # game/script.rpy:1099
 translate other_language day1_watered_4a2e75e4:
 
     # m "Nice and wet."
-    m ""
+    m "Nyaman dan basah."
 
 # game/script.rpy:1101
 translate other_language day1_watered_4a6c2fed:
 
     # m "Heh. That's what she said."
-    m ""
+    m "Heh. Itu yang wanita katakan."
 
 # game/script.rpy:1102
 translate other_language day1_watered_172c224d:
 
     # m "Hehe."
-    m ""
+    m "Hehe."
 
 # game/script.rpy:1104
 translate other_language day1_watered_0219ea28:
 
     # m "So stupid..."
-    m ""
+    m "Sungguh bodoh..."
 
 # game/script.rpy:1131
 translate other_language day1_watered_2bbb0b65:
 
     # "Well, would you look at that? You woke up in the actual morning!"
-    ""
+    "Nah, maukan Anda lihat itu? Anda benar bangun pada pagi hari!"
 
 # game/script.rpy:1132
 translate other_language day1_watered_4837c2e7:
 
     # m "Shit sleep schedule got so bad, it went full circle."
-    m ""
+    m "Jadwal tidur yang buruk terus memburuk, akhirnya balik ke semula."
 
 # game/script.rpy:1133
 translate other_language day1_watered_ea1b190e:
 
     # "What shall we do first? Spend an hour in bed on your phone? Regret your decisions? Dread the day ahead?"
-    ""
+    "Apa yang sebaiknya kita lakukan pertama? Gunakan jam pertama di kasur dengan smartphonemu? Takut menghadapi hari kedepan?"
 
 # game/script.rpy:1135
 translate other_language day1_watered_86d894ed:
 
     # m "(Nope. First thing I always do: spray the mushrooms.)"
-    m ""
+    m "(Tidak. Hal pertama yang selalu aku lakukan: menyemprot jamur.)"
 
 # game/script.rpy:1136
 translate other_language day1_watered_6b439c03:
 
     # m "Hey little guy, did you get a good night sleep? Are you-"
-    m ""
+    m "Hey orang kecil, apakah kamu tidur dengan lelap? Apakah kamu-"
 
 # game/script.rpy:1139
 translate other_language day1_watered_36b88e84:
 
     # na "{size=-8}I don't sleep, but thanks! Also, I'm kinda stuck... Could you pull me out?{size=+8}"
-    na ""
+    na "{size=-8}Aku tidak tidur, tapi terima kasih! Aku juga sedikit terperangkap... Apa kamu bisa bantu tarik aku?{size=+8}"
 
 # game/script.rpy:1141
 translate other_language day1_watered_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1142
 translate other_language day1_watered_ef60e22b:
 
     # na "{size=-8}Helloooo? Help? Please?{size=+8}"
-    na ""
+    na "{size=-8}Haloooooo? Tolong? Mohon?{size=+8}"
 
 # game/script.rpy:1143
 translate other_language day1_watered_ce6f7c66:
 
     # na "{size=-8}I'd reeeeeeally like to get out of here! It'd be nice to actually SEE something{size=+8}."
-    na ""
+    na "{size=-8}Aku sangat ingin keluar dari sini! Akan lebih baik kalau aku bisa LIHAT sesuatu{size=+8}."
 
 # game/script.rpy:1144
 translate other_language day1_watered_4541e72d:
 
     # m "(Oh my God. There's something talking to me from inside the box!)"
-    m ""
+    m "(Yatuhan. Ada sesuatu yang berbicara kepadaku dari dalam box itu!)"
 
 # game/script.rpy:1145
 translate other_language day1_watered_ea7c7490:
 
     # "You are NOT ready for unexpected social interaction. But it's in your room, so you can't even run away!"
-    ""
+    "Anda TIDAK siap untuk interaksi sosial yang dadakan. Tetapi ini di dalam ruanganmu, jadi Anda tidak bisa lari!"
 
 # game/script.rpy:1146
 translate other_language day1_watered_c407f030:
 
     # "This has got to be the WORST random social situation you've EVER encountered."
-    ""
+    "Ini pasti interaksi sosial yang TERBURUK yang pernah kamu alami SEUMUR HIRUPMU."
 
 # game/script.rpy:1155
 translate other_language day1_watered_fdbe9d78:
 
     # m "{sc=4}{color=#000000}NOPE{/sc}. I am NOT dealing with this."
-    m ""
+    m "{sc=4}{color=#000000}TIDAK{/sc}. Aku TIDAK mau berurusan dengan ini."
 
 # game/script.rpy:1158
 translate other_language day1_watered_b1664c86:
 
     # "Grabbing the monstrous abomination by the box, you pull back your arm and throw it out the window at full speed!"
-    ""
+    "Mengambil box yang berisi monster menakutkan, Anda menarik tangan ke belakang kepala dan melemparnya keluar jendela sekencang mungkin."
 
 # game/script.rpy:1161
 translate other_language day1_watered_2f3822e5:
 
     # na "AaaaaAAaaaAAAaaAAAAaAAAAA!!!"
-    na ""
+    na "AaaaaAAaaaAAAaaAAAAaAAAAA!!!"
 
 # game/script.rpy:1163
 translate other_language day1_watered_8f48ee87:
 
     # m "No one socialises with me without warning."
-    m ""
+    m "Tidak boleh ada seorang bersosialisasi denganku tanpa peringatan."
 
 # game/script.rpy:1180
 translate other_language day1_watered_6c23688f:
 
     # m "No one."
-    m ""
+    m "Tidak seorangpun."
 
 # game/script.rpy:1181
 translate other_language day1_watered_3f423276:
 
     # m "Back to bed."
-    m ""
+    m "Kembali ke kasur."
 
 # game/script.rpy:1205
 translate other_language day1_watered_4290edc5:
 
     # "\"Please\": The magic word that makes you do something you don't want to do."
-    ""
+    "\"Mohon\": Kata sihir yang membuatmu melakukan sesuatu yang Anda tidak mau."
 
 # game/script.rpy:1207
 translate other_language day1_watered_2bd9afea:
 
     # m "I-um- so I just... do what exactly?"
-    m ""
+    m "Aku- uh- jadi Aku hanya... melakukan apa sebenarnya?"
 
 # game/script.rpy:1208
 translate other_language day1_watered_a0e6ef29:
 
     # na "{size=-8}Just grab my head and pull! Real hard!{size=+8}"
-    na ""
+    na "{size=-8}Hanya pegang kepalaku dan tarik! Sangat kencang!{size=+8}"
 
 # game/script.rpy:1213
 translate other_language day1_watered_6dd9d2b5:
 
     # "You put the box on the floor, scrunch up your oversized hoodie arms and get a good grip on that mushroom top."
-    ""
+    "Anda taruh box tersebut di atas lantai, naikan lengan hoodiemu yang besar, dan tarik topi jamur dengan kencang."
 
 # game/script.rpy:1243
 translate other_language day1_watered_331f52e7:
 
     # na "Phew~ Thanks for that!"
-    na ""
+    na "Aah~ Terima kasih bantuannya!"
 
 # game/script.rpy:1245
 translate other_language day1_watered_d2c479fe:
 
     # m "Oh... my... God."
-    m ""
+    m "Oh... Tuhan..."
 
 # game/script.rpy:1247
 translate other_language day1_watered_780266d2:
 
     # na "It was sooooooo tight in there! Ugh! And really muffled, you know?"
-    na ""
+    na "Disana terlalu sempit! Agh! Dan juga sangat terendam tau!"
 
 # game/script.rpy:1248
 translate other_language day1_watered_f5684dcc:
 
     # m "H-How did you even FIT in that box!?"
-    m ""
+    m "B-Bagaimana kamu bisa MUAT di dalam box itu?"
 
 # game/script.rpy:1250
 translate other_language day1_watered_f2f61ec5:
 
     # na "Aaah, so THIS is what it looks like outside...!"
-    na ""
+    na "Aaah, jadi seperti INI yang terlihat di luar...!"
 
 # game/script.rpy:1252
 translate other_language day1_watered_f5ed70a7:
 
     # na "I like your environment!"
-    na ""
+    na "Aku suka lingkunganmu!"
 
 # game/script.rpy:1253
 translate other_language day1_watered_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1255
 translate other_language day1_watered_763c1ca9:
 
     # m "You're a {sc=2}{color=#000000}talking mushroom{/sc}!"
-    m ""
+    m "Kamu {sc=2}{color=#000000}jamur yang berbicara{/sc}!"
 
 # game/script.rpy:1257
 translate other_language day1_watered_fd7baf41:
 
     # na "And you're my master!"
-    na ""
+    na "Dan kamu adalah tuanku!"
 
 # game/script.rpy:1259
 translate other_language day1_watered_1a5f425b:
 
     # m "Your {sc=2}{color=#000000}WHAT-!?"
-    m ""
+    m "Kamu {sc=2}{color=#000000}APA-!?"
 
 # game/script.rpy:1261
 translate other_language day1_watered_58a4ad3c:
 
     # na "So what's your name?"
-    na ""
+    na "Jadi namamu siapa?"
 
 # game/script.rpy:1263
 translate other_language day1_watered_a0a4efe5:
 
     # m "Uh... my name... (I wasn't ready to socialise! I'm forgetting my NAME!)"
-    m ""
+    m "Uh... Namaku... (Aku tidak siap untuk bersosialisasi! Aku melupakan NAMAKU sendiri!)"
 
 # game/script.rpy:1274
 translate other_language name_9d6d09a6:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1276
 translate other_language name_80d32b28:
 
     # na "{sc=3}{color=#000000}MANLY!?{/sc}"
-    na ""
+    na "{sc=3}{color=#000000}MANLY!?{/sc}"
 
 # game/script.rpy:1277
 translate other_language name_5a35eb72:
 
     # na "That name is BADASS! You must be a really cool person!"
-    na ""
+    na "Nama yang BADASS! Kamu pasti seorang yang sangat keren!"
 
 # game/script.rpy:1279
 translate other_language name_e9dfd27d:
 
     # m "I am cool, I think?"
-    m ""
+    m "Aku keren, menurutku?"
 
 # game/script.rpy:1284
 translate other_language name_be80047c:
 
     # na "Pick something else!"
-    na ""
+    na "Pilih nama yang lain!"
 
 # game/script.rpy:1287
 translate other_language name_9d6d09a6_1:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1289
 translate other_language name_0c7f2035:
 
     # na "..."
-    na ""
+    na "..."
 
 # game/script.rpy:1290
 translate other_language name_5cfe43b9:
 
     # na "Nope, that's not gonna work."
-    na ""
+    na "Tidak, nama itu tidak boleh dipakai."
 
 # game/script.rpy:1292
 translate other_language name_3fb350c5:
 
     # m "But that's my name!"
-    m ""
+    m "Tapi itu namaku!"
 
 # game/script.rpy:1294
 translate other_language name_0c7f2035_1:
 
     # na "..."
-    na ""
+    na "..."
 
 # game/script.rpy:1295
 translate other_language name_8c90e795:
 
     # m "Ok, ok..."
-    m ""
+    m "Ok, ok..."
 
 # game/script.rpy:1299
 translate other_language name_29e73008:
 
     # "What? Can't even think of a name by yourself?"
-    ""
+    "Apa? Tidak bisa pikir namamu sendiri?"
 
 # game/script.rpy:1300
 translate other_language name_f8b1da71:
 
     # "You really are hopeless."
-    ""
+    "Anda memang sungguh tidak punya harapan."
 
 # game/script.rpy:1301
 translate other_language name_61ca9909:
 
     # "Fine, I'll make one up for you. Let's go with your dead family fish."
-    ""
+    "Baiklah, Saya kan buatkan satu untukmu. Mari pakai nama ikan peliharaan keluargamu yang sudah mati."
 
 # game/script.rpy:1304
 translate other_language name_9d6d09a6_2:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1308
 translate other_language name_9d6d09a6_3:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1310
 translate other_language name_f8936afe:
 
     # na "Well then, %(player_name)s..."
-    na ""
+    na "Baiklah, ...%(player_name)s..."
 
 # game/script.rpy:1312
 translate other_language name_972fe69c:
 
     # na "{size=*1.5}THANK YOU FOR RAISING ME!{size=*1.0}" with sshake
-    na "" with sshake
+    na "{size=*1.5}TERIMA KASIH SUDAH MEMBESARKAN AKU!{size=*1.0}" with sshake
 
 # game/script.rpy:1314
 translate other_language name_987cde6e:
 
     # m "Urk... {size=-8}not... {size=-5}so... {size=-3}loud... {size=-2}please...{size=+18}"
-    m ""
+    m "Uhh... {size=-8}mohon... {size=-5}tidak... {size=-3}terlalu... {size=-2}kencang...{size=+18}"
 
 # game/script.rpy:1316
 translate other_language name_636fc77b:
 
     # na "Whoopsie! Got carried away there and blew a hole into your eardrums, hehe."
-    na ""
+    na "Oops! Aku terbawa suasana dan membuat lobang di telingamu, hehe."
 
 # game/script.rpy:1318
 translate other_language name_67a1d878:
 
     # m "I-it's fine."
-    m ""
+    m "T-Tidak apa."
 
 # game/script.rpy:1320
 translate other_language name_41252412:
 
     # na "Sorry~"
-    na ""
+    na "Maaf~"
 
 # game/script.rpy:1322
 translate other_language name_2ea96ccc:
 
     # m "Please don't apologise..."
-    m ""
+    m "Tolong untuk tidak minta maaf..."
 
 # game/script.rpy:1324
 translate other_language name_a82dc20b:
 
     # na "Alright, I won't. Sorry retracted. Let's start over, calmer this time."
-    na ""
+    na "Baiklah, Aku tidak akan. Permintaan maaf kutarik. Mari ulangi lagi, lebih tenang sekarang."
 
 # game/script.rpy:1326
 translate other_language name_89bcc2f8:
 
     # na "Dearest %(player_name)s, thank you oh so much."
-    na ""
+    na "Yang terhormat, %(player_name)s, terima kasih sangat amat banyak."
 
 # game/script.rpy:1327
 translate other_language name_ae2922b8:
 
     # na "Thank you for raising me..."
-    na ""
+    na "Terima kasih sudah membesarkan Saya."
 
 # game/script.rpy:1328
 translate other_language name_e4057397:
 
     # na "Thank you for talking to me every day..."
-    na ""
+    na "Terima kasih sudah berbicara kepadaku setiap hari..."
 
 # game/script.rpy:1329
 translate other_language name_00447401:
 
     # na "And {i}most importantly{/i}, thank you..."
-    na ""
+    na "Dan yang terpenting, terima kasih..."
 
 # game/script.rpy:1330
 translate other_language name_92b5313f:
 
     # na "For-"
-    na ""
+    na "untuk-"
 
 # game/script.rpy:1333
 translate other_language name_7cddeb5d:
 
     # na "*Cough*"
-    na ""
+    na "*Uhuk*"
 
 # game/script.rpy:1334
 translate other_language name_2a24860f:
 
     # na "*Cough, cough, COUGH!*"
-    na ""
+    na "*Uhuk, uhuk, UHUK!*"
 
 # game/script.rpy:1336
 translate other_language name_fb9db078:
 
     # m "...?"
-    m ""
+    m "...?"
 
 # game/script.rpy:1339
 translate other_language name_51d6f5f8:
 
     # na "Cough - WATER - cough."
-    na ""
+    na "Uhuk - Air - uhuk."
 
 # game/script.rpy:1364
 translate other_language day1_watered_2_2c037fc6:
 
     # "You hurriedly spray water right at her. That seems to work."
-    ""
+    "Dengan cepat Anda menymprot air kepadanya. Sepertinya bekerja."
 
 # game/script.rpy:1374
 translate other_language day1_watered_2_954dfa72:
 
     # m "Better?"
-    m ""
+    m "Merasa lebih baik?"
 
 # game/script.rpy:1376
 translate other_language day1_watered_2_c9376117:
 
     # na "Muuuuuch better, thanks!"
-    na ""
+    na "Saaaaangat baik, terima kasih!"
 
 # game/script.rpy:1378
 translate other_language day1_watered_2_9dfcf05f:
 
     # m "... Um, not to change the topic but-"
-    m ""
+    m "... Um, tidak ingin mengganti topik, tapi-"
 
 # game/script.rpy:1380
 translate other_language day1_watered_2_e6bf458e:
 
     # m "How are you TALKING!? What ARE you!? How did you get so... BIG?"
-    m ""
+    m "Bagaimana kamu bisa BERBICARA!? Kamu itu APA!? Bagaimana kamu bisa tumbuh dengan... CEPAT?"
 
 # game/script.rpy:1382
 translate other_language day1_watered_2_b153433e:
 
     # na "I dunno. I was pretty much just born, so I don't know anything."
-    na ""
+    na "Entahlah. Aku baru saja lahir, jadi aku tidka tau apa-apa."
 
 # game/script.rpy:1383
 translate other_language day1_watered_2_942a87d1:
 
     # na "Wasn't I supposed to be this way?"
-    na ""
+    na "Bukankah aku seharusnya seperti ini?"
 
 # game/script.rpy:1385
 translate other_language day1_watered_2_7eb446d3:
 
     # m "{size=+10}NO!"
-    m ""
+    m "{size=+10}TIDAK!"
 
 # game/script.rpy:1387
 translate other_language day1_watered_2_092e25df:
 
     # m "You were supposed to be small and many and non-talking!"
-    m ""
+    m "Kamu seharusnya berukuran kecil, banyak, dan tidak berbicara!"
 
 # game/script.rpy:1389
 translate other_language day1_watered_2_632b2ea7:
 
     # m "You're almost as big as me! I'm still amazed that you fit in that box."
-    m ""
+    m "Kamu hampir sebesar aku! Aku masih kagum kamu bisa muat di dalam box itu."
 
 # game/script.rpy:1391
 translate other_language day1_watered_2_cc121d2f:
 
     # na "But I like how I am now. It feels right!"
-    na ""
+    na "Tapi aku suka dengan diriku sekarang. Ini rasanya benar!"
 
 # game/script.rpy:1392
 translate other_language day1_watered_2_9a7c1d15:
 
     # ba "As for WHAT I am... I've already got a name: Agaricus bisporus."
-    ba ""
+    ba "Untuk APA aku ini... Aku sudah ada nama: Agaricus bisporus."
 
 # game/script.rpy:1393
 translate other_language day1_watered_2_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1395
 translate other_language day1_watered_2_2ecaf8cb:
 
     # m "Not to be rude, but it's spilling over the text box."
-    m ""
+    m "Tidak bermaksud kasar, tapi teksnya melewati box."
 
 # game/script.rpy:1397
 translate other_language day1_watered_2_50c09d53:
 
     # b "Eh, then just call me Button."
-    b ""
+    b "Eh? Panggil aku Button saja."
 
 # game/script.rpy:1398
 translate other_language day1_watered_2_262fbda8:
 
     # m "Okaaaaay..."
-    m ""
+    m "Okeeeeeei..."
 
 # game/script.rpy:1400
 translate other_language day1_watered_2_1e261406:
 
     # "Suddenly, it hits you-"
-    ""
+    "Tiba-tiba, Anda sadar-"
 
 # game/script.rpy:1401
 translate other_language day1_watered_2_ed42964b:
 
     # "This situation is {i}ABNORMAL{/i}!"
-    ""
+    "Situasi ini {i}ABNORMAL{/i}!"
 
 # game/script.rpy:1402
 translate other_language day1_watered_2_a21244c1:
 
     # "You're talking to a {i}mushroom{/i}! Are you non-ironically insane?"
-    ""
+    "Anda berbicara dengan {i}jamur{/i}! Apakah Anda sudah gila?"
 
 # game/script.rpy:1404
 translate other_language day1_watered_2_9419d9eb:
 
     # m "Hold on... I need to check something on my laptop."
-    m ""
+    m "Tunggu dulu... Aku perlu cek sesuatu di laptopku."
 
 # game/script.rpy:1408
 translate other_language day1_watered_2_2e0cc64b:
 
     # b "Sure, sure... I'll just wait here. Again."
-    b ""
+    b "Baik, baiklah... Aku akan tunggu disini. Lagi."
 
 # game/script.rpy:1438
 translate other_language buy_mushroom2_98666e83:
 
     # m "I should've checked what this website was \"about\" from the very beginning..."
-    m ""
+    m "Aku seharusnya periksa website ini tentang \"apa\" sejak awal..."
 
 # game/script.rpy:1466
 translate other_language about_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1468
 translate other_language about_3d9610f5:
 
     # m "{sc=3}{color=#000000}WHAT THE HELL????\nWHAT KINDA MESSED UP WEBSITE IS THIS?"
-    m ""
+    m "{sc=3}{color=#000000}APA INI????\nWEBSITE KACAU APA INI?"
 
 # game/script.rpy:1469
 translate other_language about_1f3f412d:
 
     # m "Button!"
-    m ""
+    m "Button!"
 
 # game/script.rpy:1471
 translate other_language about_96d33fef:
 
     # b "Yeeeeees?"
-    b ""
+    b "Iyaaaaa?"
 
 # game/script.rpy:1473
 translate other_language about_87f376f0:
 
     # m "Is this true?"
-    m ""
+    m "Apakah ini benar?"
 
 # game/script.rpy:1475
 translate other_language about_11e19858:
 
     # b "I can't read. I've just been born?"
-    b ""
+    b "Aku tidak bisa baca. Baru saja aku lahir."
 
 # game/script.rpy:1477
 translate other_language about_5da2af95:
 
     # m "It says..."
-    m ""
+    m "Disini ditulis..."
 
 # game/script.rpy:1479
 translate other_language about_c02174c7:
 
     # "You're suddenly reminded of that time you messed up reading a passage during class."
-    ""
+    "Seketika Anda diingatkan waktu Anda gagal membaca sebagian teks di depan kelas."
 
 # game/script.rpy:1480
 translate other_language about_a3afc8d1:
 
     # "You'll never forget the muffled laughter that followed your recital."
-    ""
+    "Anda tidak akan pernah lupa tertawaan kelas setelah Anda baca."
 
 # game/script.rpy:1481
 translate other_language about_08b2edcb:
 
     # m "Nevermind. It's just messed up!"
-    m ""
+    m "Tidak jadi. Ini kacau saja!"
 
 # game/script.rpy:1483
 translate other_language about_ff80278c:
 
     # b "Alas, I shall never know..."
-    b ""
+    b "Akhirnya, aku tidak akan tau..."
 
 # game/script.rpy:1485
 translate other_language about_f0718cc2:
 
     # b "Come on! Just tell me!"
-    b ""
+    b "Ayolah! Beritau aku!"
 
 # game/script.rpy:1486
 translate other_language about_38930f18:
 
     # m "Maybe I can give you a summary..."
-    m ""
+    m "Mungkin aku bisa kasih simpulannya..."
 
 # game/script.rpy:1487
 translate other_language about_5b2dc09e:
 
     # m "The people who made you... they say stuff like..."
-    m ""
+    m "Orang yang membuatmu... mereka bilang sesuatu seperti..."
 
 # game/script.rpy:1489
 translate other_language about_5a5075d7:
 
     # m "*Ahem*"
-    m ""
+    m "*Ehem*"
 
 # game/script.rpy:1491
 translate other_language about_a4e58715:
 
     # m "They made you for... perverted things!... And to be {i}eaten{/i}."
-    m ""
+    m "Mereka membuatmu untuk... hal-hal mesum!... Dan untuk {i}dimakan{/i}."
 
 # game/script.rpy:1493
 translate other_language about_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1495
 translate other_language about_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1496
 translate other_language about_19b6a0db:
 
     # m "I know, it's-"
-    m ""
+    m "Aku tau, itu-"
 
 # game/script.rpy:1498
 translate other_language about_91fb2e0a:
 
     # b "That doesn't sound so bad!"
-    b ""
+    b "Itu kedengarannya tidak buruk!"
 
 # game/script.rpy:1500
 translate other_language about_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1502
 translate other_language about_907048eb:
 
     # b "I just wanna have fun!"
-    b ""
+    b "Aku hanya mau bersenang-senang!"
 
 # game/script.rpy:1503
 translate other_language about_d6abce0f:
 
     # b "And I am a mushroom, so..."
-    b ""
+    b "Dan aku hanya sebuah jamur, jadi..."
 
 # game/script.rpy:1505
 translate other_language about_d910b8af:
 
     # b "Eat me WHENEVER you want!" with sshake
-    b "" with sshake
+    b "Makan aku KAPANPUN kamu mau!" with sshake
 
 # game/script.rpy:1507
 translate other_language about_15ca5996:
 
     # b "Grilled with butter and cheese, in a saucy pasta, a soup, on a pizza, in a salad or a burger..."
-    b ""
+    b "Panggang dengan mentega dan keju, di dalam pasta bersaus, sup, di atas pizza, di dalam salad, atau burger..."
 
 # game/script.rpy:1508
 translate other_language about_99ea035e:
 
     # b "Not to mention how nutritious I am! Low in calories, containing protein, fiber, and antioxidants!"
-    b ""
+    b "Belum juga kusebut nutrisiku! Rendah kalori, memiliki protein, fiber, dan antioksidan!"
 
 # game/script.rpy:1509
 translate other_language about_95c0408d:
 
     # b "Some studies even show that I can reduce risks of Alzheimer's and cancer!"
-    b ""
+    b "Beberapa studi menunjukkan bahwa memakanku bisa menurunkan risiko Alzheimer dan kanker!"
 
 # game/script.rpy:1511
 translate other_language about_231c5121:
 
     # b "Isn't it wonderful how versatile my body is? I just can't wait to be consumed!"
-    b ""
+    b "Bukankah hebat tubuhku ini yang serbaguna? Aku tidak sabar untuk dimakan!"
 
 # game/script.rpy:1513
 translate other_language about_de5ef238:
 
     # m "Pretty random facts you know there, for someone who's \"just\" been born!"
-    m ""
+    m "Fakta cukup {i}random{/i} yang kamu tau, untuk seorang yang \"baru\" lahir!"
 
 # game/script.rpy:1515
 translate other_language about_f62f440a:
 
     # b "It's just in my head... All these facts about mushrooms..."
-    b ""
+    b "Itu semua sudah ada di kepalaku... Semua faktu mengenai jamur..."
 
 # game/script.rpy:1517
 translate other_language about_c30b50cc:
 
     # m "How are you just... fine with getting eaten!? YOU'RE SAPIENT!"
-    m ""
+    m "Bagaimana kamu hanya... baik-baik saja untuk dimakan!? KAMU ORANG!"
 
 # game/script.rpy:1519
 translate other_language about_fa049442:
 
     # b "Weren't you planning to eat me from the start anyway?"
-    b ""
+    b "Bukannya kamu sudah berencana untuk memakanku dari awal?"
 
 # game/script.rpy:1521
 translate other_language about_3d0d61b0:
 
     # m "Well yeah, maybe, but...."
-    m ""
+    m "Ya, mungkin saja, tapi..."
 
 # game/script.rpy:1541
 translate other_language about_6bf0ab21:
 
     # "But... this is more than you were prepared to handle."
-    ""
+    "Tapi... situasi ini lebih dari yang Anda siap untuk tangani."
 
 # game/script.rpy:1542
 translate other_language about_df909661:
 
     # "It's kind of funny how you got yourself into this mess."
-    ""
+    "Sedikit lucu Anda bisa terjerumus di kekacauan ini."
 
 # game/script.rpy:1543
 translate other_language about_14cf17b6:
 
     # "You didn't even bother to check what you were ACTUALLY buying!"
-    ""
+    "Anda tidak peduli untuk mengecek apa yang Anda SESUNGGUHNYA beli!"
 
 # game/script.rpy:1545
 translate other_language about_34f92eeb:
 
     # m "You were the one who made me do it!"
-    m ""
+    m "Kamu sendiri yang membuatku untuk beli!"
 
 # game/script.rpy:1547
 translate other_language about_e2d4ba97:
 
     # b "?"
-    b ""
+    b "?"
 
 # game/script.rpy:1548
 translate other_language about_84a584c0:
 
     # "?"
-    ""
+    "?"
 
 # game/script.rpy:1549
 translate other_language about_9e0c71bd:
 
     # "Haha! You can't blame {i}me{/i}. You're the one in control."
-    ""
+    "Haha! Anda tidak bisa menyalahkan {i}Saya{/i}. Hanya Anda yang punya kendali."
 
 # game/script.rpy:1550
 translate other_language about_39959b1b:
 
     # "Does it really matter now anyway?"
-    ""
+    "Apakah semua itu penting untuk dibahas sekarang?"
 
 # game/script.rpy:1551
 translate other_language about_3c5bc4b4:
 
     # "You can't just rot in your bed anymore. You've brought sapient life into this world!"
-    ""
+    "Anda tidak bisa hanya tidur selamanya di kasurmu. Anda sudah membawa orang hidup di dunia ini!"
 
 # game/script.rpy:1552
 translate other_language about_efdf5eb6:
 
     # "You saw that website right? Only alive for three days... yikes. You'd HATE if that were you."
-    ""
+    "Anda sudah lihat di website kan? Hanya hidup selama tiga hari... Eww. Anda akan BENCI jika itu dirimu."
 
 # game/script.rpy:1554
 translate other_language about_2fbb820b:
 
     # "Here I'll keep a little counter for you so you're constantly reminded of her time left."
-    ""
+    "Sini Saya buatkan penghitung buatmu jadi Anda selalu diingatkan sisa waktu dia hidup."
 
 # game/script.rpy:1556
 translate other_language about_3c6732e7:
 
     # m "(No! I don't want that!)"
-    m ""
+    m "(Tidak! Aku tidak mau itu!)"
 
 # game/script.rpy:1557
 translate other_language about_76cf3194:
 
     # m "Ugh... What mess have I gotten myself into?"
-    m ""
+    m "Ugh... Kekacauan apa yang sedang aku alami?"
 
 # game/script.rpy:1559
 translate other_language about_505fa703:
 
     # b "Am I doing something wrong?"
-    b ""
+    b "Apa aku melakukan kesalahan?"
 
 # game/script.rpy:1561
 translate other_language about_c5781b57:
 
     # m "N-not at all! Just hold on."
-    m ""
+    m "T-Tidak sama sekali! Tunggu dulu saja."
 
 # game/script.rpy:1563
 translate other_language about_bb6bcc55:
 
     # m "(I can't kick it out. I raised it! I talked to it for over a month!)"
-    m ""
+    m "(Aku tidak bisa mengusirnya. Aku yang merawatnya! Aku berbicara dengannya selama sebulan lebih!)"
 
 # game/script.rpy:1564
 translate other_language about_8fdc5687:
 
     # m "(Screw it! This'll be good for me. I know I need a friend. It's short-term anyway...)"
-    m ""
+    m "(Arrgh, baiklah! Ini suatu hal yang akan baik untukku. Aku tau aku butuh seorang pacar. Ini juga untuk sementara waktu...)"
 
 # game/script.rpy:1579
 translate other_language about_2941e2cb:
 
     # b "Whoaaaa... why is it changing colour outside!?"
-    b ""
+    b "Whooaaa... Kenapa di luar berubah warna!?"
 
 # game/script.rpy:1581
 translate other_language about_3f41e3d6:
 
     # m "Yeah. It's the sunset. It does that. Um..."
-    m ""
+    m "Iya. Itu matahari terbenam. Memang seperti itu. Um..."
 
 # game/script.rpy:1583
 translate other_language about_1bab172a:
 
     # m "So look..."
-    m ""
+    m "Jadi lihat..."
 
 # game/script.rpy:1584
 translate other_language about_4e9689c9:
 
     # m "Do you want to be..."
-    m ""
+    m "Apakah kamu ingin menjadi..."
 
 # game/script.rpy:1586
 translate other_language about_61f64626:
 
     # b "Lovers?"
-    b ""
+    b "Kekasih?"
 
 # game/script.rpy:1588
 translate other_language about_b36608e9:
 
     # m "{size=+40}{i}FRIENDS!{/i}{size=-40}"
-    m ""
+    m "{size=+40}{i}TEMAN!{/i}{size=-40}"
 
 # game/script.rpy:1590
 translate other_language about_503c1395:
 
     # b "Awwww..."
-    b ""
+    b "Awwww..."
 
 # game/script.rpy:1592
 translate other_language about_21576464:
 
     # m "Ok, I get it. Haha."
-    m ""
+    m "Ok, aku ngerti. Haha."
 
 # game/script.rpy:1594
 translate other_language about_ecc5261a:
 
     # b "I mean... I'm not joking, you know..."
-    b ""
+    b "Maksudku... Aku tidak bercanda tau..."
 
 # game/script.rpy:1595
 translate other_language about_17a51668:
 
     # b "Romance can be pretty tasty."
-    b ""
+    b "Romansa bisa cukup nikmat."
 
 # game/script.rpy:1597
 translate other_language about_2c109297:
 
     # m "(That website really wasn't kidding, huh?)"
-    m ""
+    m "(Hm, website ini tidak bercanda)"
 
 # game/script.rpy:1598
 translate other_language about_a903aac9:
 
     # m "(They really are making and selling edible short-term lovers.)"
-    m ""
+    m "(Mereka benar-benar membuat dan menjual kekasih sementara yang bisa dimakan.)"
 
 # game/script.rpy:1599
 translate other_language about_8ac59d30:
 
     # "Imagine being so unappealing that only a mushroom would date you."
-    ""
+    "Bayangkan jika Anda begitu tidak menarik hingga hanya jamur yang mau berkencan dengan Anda."
 
 # game/script.rpy:1601
 translate other_language about_d24f34b5:
 
     # "She doesn't even care for you. She'd take {i}anyone{/i}."
-    ""
+    "Dia bahwa tidak peduli dengan Anda. Dia akan berkencan dengan {i}siapapun{/i}."
 
 # game/script.rpy:1602
 translate other_language about_ae61ce8b:
 
     # "{sc=1}{color=#000000}You're not special."
-    ""
+    "{sc=1}{color=#000000}Anda tidak spesial."
 
 # game/script.rpy:1603
 translate other_language about_750b8baf:
 
     # m "(Shut up.)"
-    m ""
+    m "(Diam.)"
 
 # game/script.rpy:1604
 translate other_language about_4b4f9664:
 
     # "Nah. You're not good enough at ignoring your thoughts yet."
-    ""
+    "Tidak. Anda tidak cukup untuk mengabaikan pikiranmu."
 
 # game/script.rpy:1605
 translate other_language about_c9781391:
 
     # m "{sc=2}{color=#000000}(Focus!)"
-    m ""
+    m "{sc=2}{color=#000000}(Fokus!)"
 
 # game/script.rpy:1607
 translate other_language about_14cf8db3:
 
     # m "I don't understand how copulation would even work! You're a MUSHROOM!"
-    m ""
+    m "Aku tidak mengerti bagaimana cara kerja kopulasi! Kamu hanya sebuah JAMUR!"
 
 # game/script.rpy:1609
 translate other_language about_7e308a17:
 
     # m "You're part of a completely separate evolutionary branch from me!"
-    m ""
+    m "Kamu berada di cabang evolusi yang sama sekali berbeda denganku!"
 
 # game/script.rpy:1611
 translate other_language about_a42467a6:
 
     # b "Don't think about it THAT hard!"
-    b ""
+    b "Jangan pikir terlalu KERAS!"
 
 # game/script.rpy:1612
 translate other_language about_427db7a8:
 
     # b "When a man and a mushroom love each other very mu-"
-    b ""
+    b "Saat lelaki dan jamur sangat cinta dengan sesam-"
 
 # game/script.rpy:1614
 translate other_language about_2f49e897:
 
     # m "Nevermind."
-    m ""
+    m "Tidak jadi."
 
 # game/script.rpy:1615
 translate other_language about_01dfb594:
 
     # m "I'm not interested."
-    m ""
+    m "Aku tidak tertarik."
 
 # game/script.rpy:1616
 translate other_language about_3ca4d2f3:
 
     # "Aaaaand there it goes. Your only opportunity to get laid. Byeeeee~!"
-    ""
+    "Daaaaan tamatlah sudah. Satu-satunya kesempatan Anda untuk bercinta. Sampai jumpaaaa~!"
 
 # game/script.rpy:1617
 translate other_language about_e544a718:
 
     # m "(I don't care!)"
-    m ""
+    m "(Aku tidak peduli!)"
 
 # game/script.rpy:1619
 translate other_language about_40e5cb71:
 
     # m "Friends? Yes or no?"
-    m ""
+    m "Teman? Iya apa tidak?"
 
 # game/script.rpy:1621
 translate other_language about_21ee2012:
 
     # b "Eh, sure. I'm open to pretty much anything."
-    b ""
+    b "Eh, boleh. Aku terbuka untuk hampir apapun."
 
 # game/script.rpy:1622
 translate other_language about_8d4f5fc8:
 
     # "From what I remember, when you have friends, you need to constantly analyse how they react to what you say."
-    ""
+    "Dari apa yang Saya ingat, saat Anda punya teman, Anda harus selalu menganalisa bagaimana reaksi mereka dari perkataanmu."
 
 # game/script.rpy:1625
 translate other_language about_fb040ebc:
 
     # "I'll make you remember how much Button loves or, more likely, hates you."
-    ""
+    "Saya akan membuat Anda ingat betapa Button suka atau, kemungkin besar, benci Anda."
 
 # game/script.rpy:1627
 translate other_language about_89d93bf9:
 
     # b "So what do you wanna do, {i}friend{/i} ?"
-    b ""
+    b "Jadi apa yang kamu mau lakukan, {i}teman{/i}?"
 
 # game/script.rpy:1629
 translate other_language about_2abae1ee:
 
     # m "I don't know..."
-    m ""
+    m "Aku tidak tau..."
 
 # game/script.rpy:1631
 translate other_language about_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1632
 translate other_language about_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1634
 translate other_language about_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1636
 translate other_language about_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1638
 translate other_language about_12791339:
 
     # b "O-kay... I'll take the lead then, shy boy."
-    b ""
+    b "O-Okei... Aku yang akan memimpin, bocah pemalu."
 
 # game/script.rpy:1639
 translate other_language about_364976db:
 
     # b "Well one thing I really wanna know about you is..."
-    b ""
+    b "Satu hal yang aku ingin tau darimu adalah..."
 
 # game/script.rpy:1641
 translate other_language about_caf4866b:
 
     # b "What do you think of my form? Do I look pretty?"
-    b ""
+    b "Apa pendapatmu tentang penampilanku? Apakah aku terlihat cantik?"
 
 # game/script.rpy:1643
 translate other_language about_7d72bc5a:
 
     # m "This crap again? I told you-"
-    m ""
+    m "Omong kosong ini lagi? Aku sudah bilang kamu-"
 
 # game/script.rpy:1645
 translate other_language about_649534eb:
 
     # b "No no! It's not flirting, I promise. It's just like when you tell your homies they're looking good."
-    b ""
+    b "Bukan bukan! Ini bukan godaan, aku janji. Ini hanya seperti saat kamu bilang ke teman dekatmu kalau penampilannya bagus."
 
 # game/script.rpy:1647
 translate other_language about_eacfb1ff:
 
     # "How sweet. She thinks you have 'homies'!"
-    ""
+    "Betama manisnya. Dia pikir Anda punya teman dekat!"
 
 # game/script.rpy:1649
 translate other_language about_79190279:
 
     # m "Ugh, I'll try..."
-    m ""
+    m "Ugh, aku akan coba lagi."
 
 # game/script.rpy:1654
 translate other_language about_cde791bd:
 
     # m "It doesn't matter..."
-    m ""
+    m "Itu tidak penting..."
 
 # game/script.rpy:1657
 translate other_language about_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1658
 translate other_language about_e209609e:
 
     # b "Damn."
-    b ""
+    b "Sial."
 
 # game/script.rpy:1660
 translate other_language about_cd14328b:
 
     # m "What? It's just how I am. Appearance doesn't matter. No one gets to choose it anyway."
-    m ""
+    m "Apa? Memang begitulah aku. Penampilan itu tidak penting. Tidak ada orang yang dapat memilihnya."
 
 # game/script.rpy:1662
 translate other_language about_c4aa29c1:
 
     # m "My mom would say the same thing."
-    m ""
+    m "Ibuku juga berkata hal yang sama."
 
 # game/script.rpy:1663
 translate other_language about_91039d40:
 
     # "You really think you should use your mom as an example? After everything?"
-    ""
+    "Anda pikir Anda sebaiknya memakai ibumu sebagai contoh? Setelah semuanya?"
 
 # game/script.rpy:1665
 translate other_language about_6c6bd2ac:
 
     # m "A-Actually, nevermind. I don't know why I said that."
-    m ""
+    m "S-Sebenarnya, tidak jadi. Aku tidak tau kenapa aku berbicara tentang itu."
 
 # game/script.rpy:1667
 translate other_language about_303dfd8e:
 
     # b "No. It's ok to have an opinion."
-    b ""
+    b "Tidak. Tidak apa-apa untuk memiliki pendapat."
 
 # game/script.rpy:1669
 translate other_language about_9e4eca09:
 
     # b "The problem is-!"
-    b ""
+    b "Masalahnya adalah-!"
 
 # game/script.rpy:1671
 translate other_language about_8ed1e1e0:
 
     # b "When I ask if I look good, it's an opportunity to build my confidence! Not DISMISS me!"
-    b ""
+    b "Saat aku bertanya jika aku berpenampilan bagus, itu kesempatanmu untuk meningkatkan kepercayaan diriku! Bukan MENGABAIKANKU!"
 
 # game/script.rpy:1673
 translate other_language about_bc52595f:
 
     # b "Otherwise, I'll just think I'm not good enough."
-    b ""
+    b "Sebaliknya, aku hanya akan berpikir penamilanku kurang bagus."
 
 # game/script.rpy:1674
 translate other_language about_fef6c9ea:
 
     # b "You raised me and everything..."
-    b ""
+    b "Kamu yang membersarkanku dan semunya..."
 
 # game/script.rpy:1675
 translate other_language about_a1c729cf:
 
     # b "I just... wanted to hear you were proud of me..."
-    b ""
+    b "Aku hanya... ingin mendengar bahwa kamu bangga denganku..."
 
 # game/script.rpy:1677
 translate other_language about_20c902ac:
 
     # m "No! You're good! I'm sorry!"
-    m ""
+    m "Bukan! Kamu kelihatan bagus! Aku minta maaf!"
 
 # game/script.rpy:1678
 translate other_language about_c97c54d0:
 
     # m "You're pretty, okay?"
-    m ""
+    m "Kamu cantik, ok?"
 
 # game/script.rpy:1680
 translate other_language about_896ca50d:
 
     # m "Ugh, this is why I don't like talking! I can't do it!"
-    m ""
+    m "Ugh, ini alasannya aku tidak suka berbicara! Aku tidak bisa!"
 
 # game/script.rpy:1682
 translate other_language about_24491324:
 
     # b "Hey..."
-    b ""
+    b "Hei..."
 
 # game/script.rpy:1684
 translate other_language about_49ff46a8:
 
     # b "It's ok. You didn't mean to hurt me. I'm a forgiving kind of mushy!"
-    b ""
+    b "Tidak apa-apa. Kamu tidak ingin menyakitiku. Aku seorang jamur yang pemaaf!"
 
 # game/script.rpy:1685
 translate other_language about_c2de9534:
 
     # b "So don't beat yourself up! I still love you!"
-    b ""
+    b "Jadi jangan sakiti kamu sendiri! Aku masih cinta kamu!"
 
 # game/script.rpy:1687
 translate other_language about_bf55a615:
 
     # m "If you say so..."
-    m ""
+    m "Baiklah jika kamu bilang begitu..."
 
 # game/script.rpy:1688
 translate other_language about_02dfdd52:
 
     # b "Ok, here's your opportunity to redeem yourself."
-    b ""
+    b "Ok, ini kesempatan untuk menebuskan dirimu sendiri."
 
 # game/script.rpy:1690
 translate other_language about_5bc708f2:
 
     # "Or another opportunity to disappoint her!"
-    ""
+    "atau kesempatan lain untuk mengecewakan dia!"
 
 # game/script.rpy:1696
 translate other_language about_efd669fd:
 
     # m "Heh."
-    m ""
+    m "Heh."
 
 # game/script.rpy:1697
 translate other_language about_5b4ec15d:
 
     # m "One could say you're...a-as..."
-    m ""
+    m "Seorang bisa saja menyebutmu... s-sebagai..."
 
 # game/script.rpy:1700
 translate other_language about_83d70ab2:
 
     # m "...Nevermind."
-    m ""
+    m "...Tidak jadi."
 
 # game/script.rpy:1702
 translate other_language about_2fe3751f:
 
     # b "You can do it! Try to say every word in order clearly."
-    b ""
+    b "Kamu pasti bisa! Coba untuk mengungkapkan semua kata berurutan secara jelas."
 
 # game/script.rpy:1704
 translate other_language about_55d84bd1:
 
     # m "But I'm going to say something stupid!"
-    m ""
+    m "Tapi aku akan mengatakan suatu hal yang bodoh!"
 
 # game/script.rpy:1706
 translate other_language about_e7d95b4b:
 
     # b "Say it! Who am I going to tell? No one!"
-    b ""
+    b "Katakanlah! Siapa yang bisa kukasih tau? Tidak siapapun!"
 
 # game/script.rpy:1709
 translate other_language about_a3bce6ec:
 
     # m "Ugh."
-    m ""
+    m "Ugh."
 
 # game/script.rpy:1710
 translate other_language about_47f11f34:
 
     # m "One could say..."
-    m ""
+    m "Seorang bisa saja menyebutmu"
 
 # game/script.rpy:1712
 translate other_language about_e1dab11c:
 
     # m "... you're as c-cute..."
-    m ""
+    m "...sebagai sebuah..."
 
 # game/script.rpy:1714
 translate other_language about_50a79452:
 
     # m "as a button! There!"
-    m ""
+    m "...button yang lucu! Selesai!"
 
 # game/script.rpy:1717
 translate other_language about_502770b2:
 
     # b "Eeeek! How unexpectedly adorable of you!"
-    b ""
+    b "Eeeee! Betapa mengemaskannya kamu!"
 
 # game/script.rpy:1718
 translate other_language about_069170db:
 
     # "How \"{sc=2}{color=#000000}ADORABLE\"{/sc} you are!? HAHAHAHAHAH! Your fragile masculinity REALLY didn't want to hear that!"
-    ""
+    "Betapa \"{sc=2}{color=#000}MENGEMASKANNYA{/sc}\" kamu!? HAHAHAHAHAH! Maskulinitasmu yang rapuh SANGAT tidak mau mendengarkan itu!"
 
 # game/script.rpy:1720
 translate other_language about_a951b22b:
 
     # m "Ugh..."
-    m ""
+    m "Ugh..."
 
 # game/script.rpy:1721
 translate other_language about_fc042cbe:
 
     # m "(At least she looks happy.)"
-    m ""
+    m "(Paling tidak dia terlihat senang.)"
 
 # game/script.rpy:1722
 translate other_language about_ad2f1516:
 
     # b "Now I'm excited to ask you something else!"
-    b ""
+    b "Sekarang aku bersemangat untuk bertanya hal lainnya!"
 
 # game/script.rpy:1727
 translate other_language about_caae98f3:
 
     # m "G-go ahead."
-    m ""
+    m "S-Silakan."
 
 # game/script.rpy:1729
 translate other_language about_ffa3bcc8:
 
     # b "Fun fact!"
-    b ""
+    b "Fakta mengasyikkan!"
 
 # game/script.rpy:1732
 translate other_language about_4995aacc:
 
     # b "Did you know that button mushrooms are some of the most widely-consumed mushroom types in the world?"
-    b ""
+    b "Apakah kamu tau bahwa jamur kancing merupakan jenis jamur yang paling dikonsumsi di dunia?"
 
 # game/script.rpy:1738
 translate other_language about_86782f79:
 
     # m "Why?"
-    m ""
+    m "Kenapa?"
 
 # game/script.rpy:1741
 translate other_language about_74ceebcc:
 
     # b "Why...?"
-    b ""
+    b "Kenapa...?"
 
 # game/script.rpy:1743
 translate other_language about_e5b34447:
 
     # m "Yeah... I mean... I prefer Shiitake mushrooms so I'm genuinely curious."
-    m ""
+    m "Iya... Maksudku... Aku lebih suka jamur berangan, jadi aku benar-benar penasaran."
 
 # game/script.rpy:1745
 translate other_language about_8db47d35:
 
     # b "SHIITAKE!?"
-    b ""
+    b "BERANGAN!?"
 
 # game/script.rpy:1748
 translate other_language about_b41ed2c0:
 
     # b "How could you compare us!?"
-    b ""
+    b "Bagaimana kamu bisa membandingkannya dengan kami!?"
 
 # game/script.rpy:1750
 translate other_language about_0c5a4557:
 
     # b "I'm versatile! A CLASSIC!"
-    b ""
+    b "Aku serbaguna! Jamur klasik!"
 
 # game/script.rpy:1752
 translate other_language about_bfda46a3:
 
     # m "Isn't that just your opinion?"
-    m ""
+    m "Bukannya itu hanya pendapatmu?"
 
 # game/script.rpy:1754
 translate other_language about_b5de57f6:
 
     # m "Just like you said earlier, you're entitled to your opinion. As am I."
-    m ""
+    m "Hanya seperti yang kamu bilang sebelumnya, kamu berhak atas pendapatmu. Aku juga."
 
 # game/script.rpy:1756
 translate other_language about_9e37a248:
 
     # b "You chose ME. That speaks for itself."
-    b ""
+    b "Kamu pilih AKU. Seharusnya itu sudah menjawab."
 
 # game/script.rpy:1758
 translate other_language about_4fc5eef3:
 
     # m "Well actually I chose you because-"
-    m ""
+    m "Sesungguhnya aku memilihmu karena-"
 
 # game/script.rpy:1764
 translate other_language about_0d9f4a27:
 
     # m "I guess that's pretty cool..."
-    m ""
+    m "Aku kira jamur kancing itu keren..."
 
 # game/script.rpy:1766
 translate other_language about_d7eb1eb8:
 
     # b "Yeah!"
-    b ""
+    b "Tentu saja!"
 
 # game/script.rpy:1768
 translate other_language about_acb5feca:
 
     # m "But like also... don't you feel weird about it? You're talking about... consuming mushrooms."
-    m ""
+    m "Tetapi juga... bukan kah kamu merasa aneh? Kamu berbicara tentang... memakan jamur."
 
 # game/script.rpy:1770
 translate other_language about_eebae672:
 
     # m "That's like... discussing murder to you, isn't it?"
-    m ""
+    m "Itu seperti... diskusi pembunuhan denganmu kan?"
 
 # game/script.rpy:1772
 translate other_language about_58213909:
 
     # b "I'm meant to be eaten, what can I say? I'm delicious!"
-    b ""
+    b "Aku untuk dimakan, apa yang bisa kukatakan? Aku nikmat!"
 
 # game/script.rpy:1774
 translate other_language about_409852c1:
 
     # m "But still, are you really ok with dying?"
-    m ""
+    m "Tapi tetap saja, apa kamu tidak masalah dengan kematian?"
 
 # game/script.rpy:1776
 translate other_language about_504425a5:
 
     # b "Yup! There's no need to think about it!"
-    b ""
+    b "Tentu! Tidak ada gunanya untuk memikirkan itu!"
 
 # game/script.rpy:1777
 translate other_language about_198b7240:
 
     # b "Either I dry up and wither away, or I get to be a tasty meal for a love-"
-    b ""
+    b "Antara aku mengering dan layu, atau aku menjadi santapan yang nikmat untuk seorang kekas-"
 
 # game/script.rpy:1778
 translate other_language about_398a7de9:
 
     # b "I mean friend!"
-    b ""
+    b "Maksudku teman!"
 
 # game/script.rpy:1780
 translate other_language about_57e0a7dd:
 
     # m "...Wow."
-    m ""
+    m "... Wow."
 
 # game/script.rpy:1781
 translate other_language about_dae2345f:
 
     # m "I'm honestly impressed."
-    m ""
+    m "Aku jujur kagum."
 
 # game/script.rpy:1783
 translate other_language about_b448f8c5:
 
     # m "You're just following life's design. I don't even know what my purpose is..."
-    m ""
+    m "Kamu hanya menjalani desainnya hidup. Aku saja tidak tau apa tujuan hidupku..."
 
 # game/script.rpy:1785
 translate other_language about_76243c27:
 
     # b "Purpose? Why are you thinking about that? Can't you just be happy doing stuff you like?"
-    b ""
+    b "Tujuan? Kenapa kamu berpikir tentang itu? Kenapa kamu tidak bisa hanya melakukan hal-hal yang menyenangkan?"
 
 # game/script.rpy:1787
 translate other_language about_74ec14c3:
 
     # m "Nope."
-    m ""
+    m "Tidak."
 
 # game/script.rpy:1789
 translate other_language about_ce6dba70:
 
     # b "Why?"
-    b ""
+    b "Kenapa?"
 
 # game/script.rpy:1790
 translate other_language about_863955de:
 
     # m "You... really wanna know?"
-    m ""
+    m "Kamu... sangat ingin tau?"
 
 # game/script.rpy:1792
 translate other_language about_b57d1211:
 
     # b "Of course! I want to know all about you!"
-    b ""
+    b "Tentu saja! Aku ingin tau semua hal tentangmu!"
 
 # game/script.rpy:1802
 translate other_language about_9ae05b76:
 
     # m "Uh... maybe that's a little too heavy..."
-    m ""
+    m "Uh... mungkin itu hal yang terlalu berat."
 
 # game/script.rpy:1804
 translate other_language about_bd196130:
 
     # m "Let's just say... I overthink."
-    m ""
+    m "Anggap saja... Aku berpikir terlalu banyak."
 
 # game/script.rpy:1806
 translate other_language about_3485dc5b:
 
     # b "That's silly."
-    b ""
+    b "Itu konyol."
 
 # game/script.rpy:1808
 translate other_language about_661769cd:
 
     # b "Just don't overthink! Then you'll be happy like me!"
-    b ""
+    b "Jangan berpikir banyak! Lalu kamu akan menjadi senang seperti aku!"
 
 # game/script.rpy:1809
 translate other_language about_396ca757:
 
     # "Yeah, don't overthink about how much you should ---- --------, and you'll be happy! Like her!"
-    ""
+    "Iya, jangan berpikir banyak tentang betapa besarnya Anda ingin ----- ----, dan Anda akan senang! Seperti dia!"
 
 # game/script.rpy:1810
 translate other_language about_e67c9152:
 
     # "Sounds like everyone you've ever confided in."
-    ""
+    "Kedengarannya seperti semua orang yang pernah Anda ceritakan."
 
 # game/script.rpy:1812
 translate other_language about_e612037c_4:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1814
 translate other_language about_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1816
 translate other_language about_c5157f72:
