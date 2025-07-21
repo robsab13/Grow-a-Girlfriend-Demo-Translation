@@ -2242,349 +2242,349 @@ translate other_language about_850ef128_5:
 translate other_language about_c5157f72:
 
     # b "Um, so... speaking of living life to its fullest..."
-    b ""
+    b "Um, jadi... ngomong-ngomong hidup dengan sepenuhnya..."
 
 # game/script.rpy:1817
 translate other_language about_930e9b15:
 
     # b "Can we go do something? Outside with the pretty sunset?"
-    b ""
+    b "Apa kita bisa melakukan sesuatu? Keluar dengan matahari terbenam?"
 
 # game/script.rpy:1819
 translate other_language about_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Karena ruangan ini kecil sekaaaali dan aku sudah mulai sangaaaaaat bosan."
 
 # game/script.rpy:1825
 translate other_language explain_0031be47:
 
     # m "Hah... Ok then. It could be nice to vent. Where do I start?"
-    m ""
+    m "Hah... Baiklah. Mungkin lebih baik untuk melampiaskan emosi. Mulai dari mana ya?"
 
 # game/script.rpy:1827
 translate other_language explain_4f3e4413:
 
     # m "My biggest struggle is probably the concept of death."
-    m ""
+    m "Perjuangan terberatku mungkin untuk mengerti konsep kematian."
 
 # game/script.rpy:1829
 translate other_language explain_6f39adae:
 
     # m "Because one day - poof! You're alive, whether you wanted to be or not."
-    m ""
+    m "Karena suatu hari - poof! Kamu hidup, saat kamu mau atau tidak."
 
 # game/script.rpy:1830
 translate other_language explain_68369c73:
 
     # m "Then you figure out pretty soon that you'll die and disappear, and there's nothing you can do about it. You're just expected to accept it and enjoy life, but-"
-    m ""
+    m "Kemudian kamu sadar tidak lama kemudian kamu akan mati dan hilang, dan tidak ada yang bisa kamu lakukan. Kamu hanya diekspektasikan untuk menerima itu dan menikmati hidup, tapi-"
 
 # game/script.rpy:1832
 translate other_language explain_8a79504e:
 
     # m "Every second is counting down to death. How can you just relax?"
-    m ""
+    m "Setiap detik itu menuju kematian. Bagaimana kamu bisa santai?"
 
 # game/script.rpy:1834
 translate other_language explain_8371a175:
 
     # m "Sometimes I wonder why everybody isn't screaming."
-    m ""
+    m "Terkadang aku berpikir kenapa tidak semua orang berteriak."
 
 # game/script.rpy:1835
 translate other_language explain_de9e63f2:
 
     # m "As a kid, I was healthy and young, so didn't worry about it. I thought scientists would have discovered immortality by the time I got older and we'd all be fine."
-    m ""
+    m "Saat aku kecil, aku seorang yang sehat dan muda, jadi tidak kawatir tentang itu. Aku kita ilmuan akan manamukan keabadian saat aku sudah tua dan semuanya akan baik-baik saja."
 
 # game/script.rpy:1836
 translate other_language explain_12c223cf:
 
     # m "But now I know that's not going to happen. The world's too corrupt, and everyone else has given up. So I have too. I'm gonna die and that's that."
-    m ""
+    m "Tapi sekarang aku tidak atau apa yang akan terjadi. Dunia ini terlalu hancur, dan semua orang sudah menyerah. Jadi aku juga. Aku akan mati dan semua selesai."
 
 # game/script.rpy:1838
 translate other_language explain_6496054e:
 
     # m "If I try to remember what it was like before I was born, that stillness and nothingness... I think death will be like that."
-    m ""
+    m "Kalau aku coba mengingat sebelum aku lahir, kekosongan dan keheningan... Aku pikir kematian akan seperti itu."
 
 # game/script.rpy:1839
 translate other_language explain_4ddb639f:
 
     # m "Maybe it won't be that bad, but it's still terrifying to disappear."
-    m ""
+    m "Mungkin itu bukan suatu hal yang buruk, tapi masih menyerikan untuk menghilang."
 
 # game/script.rpy:1842
 translate other_language explain_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1843
 translate other_language explain_a5145b77:
 
     # m "It puts you under a lot of pressure to make the most of every day, especially when you can't do the bare minimum and leave your room."
-    m ""
+    m "Itu yang selalu menekan aku setiap hari, apalagi saat kamu tidak bisa melakukan hal yang kecil dan keluar dari ruangananmu."
 
 # game/script.rpy:1844
 translate other_language explain_37583720:
 
     # m "Life is a random fucking miracle in a soup of possibility. It's so weird, but I'm still scared to die, because I won't get another chance."
-    m ""
+    m "Hidup adalah keajaiban yang sangat acak di dalam sup kemungkinan. Memang benar-benar aneh, tapi aku masih takut untuk mati, karena aku tidak akan mendapatkan kesempatan lainnya."
 
 # game/script.rpy:1845
 translate other_language explain_bfd6edac:
 
     # m "So many things to do. Money, passion, skills, friendships, love, family, health..."
-    m ""
+    m "Banyak sekali yang bisa dilakukan. Uang, gairah, keahlian, pertemanan, cinta, keluarga, kesehatan..."
 
 # game/script.rpy:1847
 translate other_language explain_8cbc511a:
 
     # m "After a certain point of stress... doing \"happy\" things isn't enough anymore."
-    m ""
+    m "Setelah suatu titik stres... melakukan hal yang \"menyenangkan\" tidak cukup lagi."
 
 # game/script.rpy:1851
 translate other_language explain_1bbc3fb9:
 
     # m "Sorry if I overshared. I don't know why-"
-    m ""
+    m "Maaf jika aku bercerita banyak. Aku gak tau kenapa-"
 
 # game/script.rpy:1853
 translate other_language explain_a30dcfef:
 
     # m "Oh, are you ok?"
-    m ""
+    m "Oh, kamu baik-baik saja?"
 
 # game/script.rpy:1854
 translate other_language explain_fc8b09fe:
 
     # b "I don't know... this sudden feeling of dread just came over me."
-    b ""
+    b "Aku gak tau... perasaan takut ini tiba-tiba datang di depanku."
 
 # game/script.rpy:1855
 translate other_language explain_b3fdf777:
 
     # b "What you said... will we really just... disappear? I won't be able to do anything anymore?"
-    b ""
+    b "Apa yang kamu bilang... kita hanya akan... menghilang? Aku tidak akan bisa melakukan apapun lagi?"
 
 # game/script.rpy:1857
 translate other_language explain_670ab928:
 
     # m "Well, what did you think was going to happen? It's natural."
-    m ""
+    m "Yaa, apa yang kamu pikirkan akan terjadi? Semua itu natural."
 
 # game/script.rpy:1859
 translate other_language explain_53ddc7dc:
 
     # b "I didn't..."
-    b ""
+    b "Aku tadi tidak..."
 
 # game/script.rpy:1860
 translate other_language explain_391ee2b2:
 
     # m "Welp, sorry. I didn't mean to make you miserable."
-    m ""
+    m "Ooh, maaf. Aku tidak bermaksud untuk membuatmu sengsara."
 
 # game/script.rpy:1862
 translate other_language explain_d33eefcf:
 
     # m "Especially when you probably won't be living for very long."
-    m ""
+    m "Apalagi ketika kamu tidak akan hidup begitu lama."
 
 # game/script.rpy:1863
 translate other_language explain_5f907a0a:
 
     # m "Just stay happy and ignorant."
-    m ""
+    m "Hanya hidup senang dan tidak tau apa-apa."
 
 # game/script.rpy:1865
 translate other_language explain_73cca4bc:
 
     # b "Maybe that's for the best."
-    b ""
+    b "Mungkin itu pilihan yang terbaik."
 
 # game/script.rpy:1866
 translate other_language explain_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1868
 translate other_language explain_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1870
 translate other_language explain_78f8aea0:
 
     # b "It's hard to stop thinking!"
-    b ""
+    b "Sulit untuk tidak kipikirkan!"
 
 # game/script.rpy:1871
 translate other_language explain_d7ad6608:
 
     # b "Why am I alive?"
-    b ""
+    b "Kenapa aku hidup?"
 
 # game/script.rpy:1873
 translate other_language explain_0b0926e5:
 
     # m "Um... because I watered you?"
-    m ""
+    m "Um... karena aku yang menyiramimu?"
 
 # game/script.rpy:1875
 translate other_language explain_3e18e670:
 
     # b "Then why did you choose me?"
-    b ""
+    b "Lalu kenapa kamu pilih aku?"
 
 # game/script.rpy:1876
 translate other_language explain_adfa6854:
 
     # b "Why ME?"
-    b ""
+    b "Kenapa AKU?"
 
 # game/script.rpy:1886
 translate other_language why_choose_d6446515:
 
     # m "Well, you looked small and cute."
-    m ""
+    m "Kamu keliatan kecil dan imut."
 
 # game/script.rpy:1887
 translate other_language why_choose_96d08afa:
 
     # m "If I actually managed to get you to grow, I would be happy."
-    m ""
+    m "Kalau aku berhasil menumbuhmu, aku akan menjadi senang."
 
 # game/script.rpy:1889
 translate other_language why_choose_8b3a2bcb:
 
     # b "So you're happy now?"
-    b ""
+    b "Jadi apakah kamu senang sekarang?"
 
 # game/script.rpy:1891
 translate other_language why_choose_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1893
 translate other_language why_choose_5f0622c5:
 
     # m "I'm happier."
-    m ""
+    m "Aku merasa lebih senang."
 
 # game/script.rpy:1895
 translate other_language why_choose_8092e173:
 
     # b "Then I'm happy too."
-    b ""
+    b "Kalau begitu aku juga senang."
 
 # game/script.rpy:1898
 translate other_language why_choose_cc6ff25e:
 
     # b "Also I got to hear you call me cute TWICE today! That's a win for sure."
-    b ""
+    b "Lagipula aku dapat dengar kamu panggil aku imut dua kali hari ini! Itu suatu keberhasilan pastinya."
 
 # game/script.rpy:1900
 translate other_language why_choose_af2f2be0:
 
     # b "Also you called me cute too. I'm as happy as a shroom on a log!"
-    b ""
+    b "Lagipula kamu juga memanggil aku imut. Aku senang seperti jamur di atas batang pohon!"
 
 # game/script.rpy:1902
 translate other_language why_choose_aeed40a2:
 
     # m "Interesting... choice of words..."
-    m ""
+    m "Pilihan kata yang... menarik..."
 
 # game/script.rpy:1904
 translate other_language why_choose_602fa659:
 
     # m "(She got distracted really quickly. That's good.)"
-    m ""
+    m "(Dia sangat mudah untuk dialihkan perhatian. Baguslah.)"
 
 # game/script.rpy:1905
 translate other_language why_choose_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1907
 translate other_language why_choose_0495076d:
 
     # b "Talking is fun. But also... I'm kinda bored."
-    b ""
+    b "Berbicara menyenangkan. Tapi... aku agak bosan."
 
 # game/script.rpy:1908
 translate other_language why_choose_1200bcc0:
 
     # b "Can we do something fun? Like... explore the outside a bit and see the sunset more?"
-    b ""
+    b "Apa kita bisa melakukan sesuatu yang menyenangkan? Seperti... pergi keluar dan melihat matahari terbenam sejenak?"
 
 # game/script.rpy:1909
 translate other_language why_choose_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Karena ruangan ini kecil sekaaaali dan aku sudah mulai sangaaaaaat bosan."
 
 # game/script.rpy:1917
 translate other_language why_choose_eeee6177:
 
     # m "Well, everything else was out of stock. You were the only thing still left over."
-    m ""
+    m "Ehm, stok lainnya sudah habis. Hanya kamu yang dapat dibeli."
 
 # game/script.rpy:1920
 translate other_language why_choose_17dc2a59:
 
     # b "Just..."
-    b ""
+    b "Hanya..."
 
 # game/script.rpy:1922
 translate other_language why_choose_b97923bb:
 
     # b "...a {i}left over{/i}?"
-    b ""
+    b "...barang {i}sisa{/i}?"
 
 # game/script.rpy:1923
 translate other_language why_choose_5dbc5bd1:
 
     # "Wow. Are you TRYING to be this bad?"
-    ""
+    "Wow. Apakah Anda SENGAJA untuk berbuat jahat?"
 
 # game/script.rpy:1925
 translate other_language why_choose_c0afc7da:
 
     # m "(I'm just being honest! I hate sugar-coating.)"
-    m ""
+    m "(Aku hanya berkata jujur! Aku benci basa-basi.)"
 
 # game/script.rpy:1930
 translate other_language why_choose_b9517bb0:
 
     # b "My thoughts are being loud again!"
-    b ""
+    b "Pikiranku berbicara lantang lagi!"
 
 # game/script.rpy:1932
 translate other_language why_choose_7a8e4972:
 
     # m "Well, what do they say?"
-    m ""
+    m "Hm, apa yang dibicarakan?"
 
 # game/script.rpy:1934
 translate other_language why_choose_dbdf7d0f:
 
     # b "That I'm going to die soon!"
-    b ""
+    b "Aku akan mati sebentar lagi!"
 
 # game/script.rpy:1935
 translate other_language why_choose_7312db5d:
 
     # b "I-I'm feeling really panicked! I don't like this! How do I make the thoughts stop?"
-    b ""
+    b "A-Aku merasa sangat panik! Aku tidak suka ini! Bagaimana caranya aku bisa hentikan pikiran ini?"
 
 # game/script.rpy:1938
 translate other_language why_choose_508cb228:
