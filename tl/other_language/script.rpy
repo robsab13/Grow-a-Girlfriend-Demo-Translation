@@ -2590,331 +2590,331 @@ translate other_language why_choose_7312db5d:
 translate other_language why_choose_508cb228:
 
     # "This is why your friends hated you. You're just an infectious, miserable disease."
-    ""
+    "Ini alasannya kenapa teman-teman Anda benci Anda. Anda hanyalah penyakit yang menular dan menyedihkan."
 
 # game/script.rpy:1940
 translate other_language why_choose_b04f5131:
 
     # m "Calm down. I know something that might help."
-    m ""
+    m "Tenang. Aku tau sesuatu yang mungkin dapat membantu."
 
 # game/script.rpy:1942
 translate other_language why_choose_e184d142:
 
     # b "What is it?"
-    b ""
+    b "Apa itu?"
 
 # game/script.rpy:1944
 translate other_language why_choose_dddb5409:
 
     # m "Let's go outside."
-    m ""
+    m "Mari kita pergi keluar."
 
 # game/script.rpy:1945
 translate other_language why_choose_7a0ada2e:
 
     # m "There's a field I know. It's a nice place... especially at sunset."
-    m ""
+    m "Ada lapangan yang aku tau. Tempat itu indah... apalagi saat matahari terbenam."
 
 # game/script.rpy:1946
 translate other_language why_choose_29915be0:
 
     # m "Usually not too busy either. Nice if you want some peace."
-    m ""
+    m "Biasanya tidak terlalu ramai juga. Pas jika kamu mau ketenangan."
 
 # game/script.rpy:1948
 translate other_language why_choose_e5a1f361:
 
     # m "It used to be my... um... \"calming down\" spot."
-    m ""
+    m "Biasanya itu tempatku untuk... \"berteduh\"."
 
 # game/script.rpy:1950
 translate other_language why_choose_6d231c4b:
 
     # b "That sounds... really nice!"
-    b ""
+    b "Itu kedengarannya... sangat baik!"
 
 # game/script.rpy:1952
 translate other_language why_choose_ac31f2bd:
 
     # b "I want to see it!"
-    b ""
+    b "Aku mau lihat!"
 
 # game/script.rpy:1954
 translate other_language why_choose_36662477:
 
     # m "(Distracted already? I'm jealous how easy it is for you.)"
-    m ""
+    m "(Sudah teralih? Aku cemburu betapa mudahnya untuk kamu.)"
 
 # game/script.rpy:1956
 translate other_language why_choose_b7cc068a:
 
     # m "Fine, let's go. Stay quiet and follow me."
-    m ""
+    m "Baiklah, mari pergi. Berdiamlah dan ikuti aku."
 
 # game/script.rpy:1958
 translate other_language why_choose_edccf69e:
 
     # b "As you wish, Master!"
-    b ""
+    b "Seperti yang kamu inginkan, tuan!"
 
 # game/script.rpy:1960
 translate other_language why_choose_e175c34a:
 
     # m "Just %(player_name)s, please!"
-    m ""
+    m "Tolong hanya %(player_name)s!"
 
 # game/script.rpy:1964
 translate other_language why_choose_48e03842:
 
     # b "I don't know if it's intentional, but you're kinda hurtful sometimes."
-    b ""
+    b "Aku tidak tau kalau kamu sengaja, tapi kamu terkadang mengakitiku."
 
 # game/script.rpy:1965
 translate other_language why_choose_ac7d4372:
 
     # "Oh, it's all unintentional. This is just what happens when he's his natural self."
-    ""
+    "Oh, semua itu tidak disengaja. Inilah yang terjadi ketika dia menjadi dirinya sendiri."
 
 # game/script.rpy:1967
 translate other_language why_choose_defc6a73:
 
     # m "Sorry, sorry."
-    m ""
+    m "Maaf, maaf."
 
 # game/script.rpy:1969
 translate other_language why_choose_6a8ee07c:
 
     # b "Make it up to me!"
-    b ""
+    b "Tebuskan kesalahanmu!"
 
 # game/script.rpy:1971
 translate other_language why_choose_46663d92:
 
     # m "How?"
-    m ""
+    m "Bagaimana?"
 
 # game/script.rpy:1973
 translate other_language why_choose_27bf3b54:
 
     # b "Take me out somewhere! I'm already bored of this biscuit of a room!"
-    b ""
+    b "Bawa aku ke suatu tempat! Aku sudah bosan di ruang kecil seperti biskuit ini!"
 
 # game/script.rpy:1978
 translate other_language bored_5b38d3d9:
 
     # "Outside? She wants to go OUTSIDE with you? Oh, it's time to show Button how pathetic you really are."
-    ""
+    "Keluar? Dia mau KELUAR denganmu? Oh, waktunya menunjukkan ke Button betama menyedihkannya Anda."
 
 # game/script.rpy:1980
 translate other_language bored_e6798436:
 
     # b "Come on! Aren't you bored in here too?"
-    b ""
+    b "Ayolah! Bukan kah kamu juga bosan di ruangan ini?"
 
 # game/script.rpy:1982
 translate other_language bored_da16c840:
 
     # "You'd rather be bored, than afraid."
-    ""
+    "Anda lebih baik merasa bosan daripada takut."
 
 # game/script.rpy:1987
 translate other_language bored_fe65175f:
 
     # "You fear leaving the safe confines of your home, especially with such a conspicuous-looking person."
-    ""
+    "Anda takut keluar dari rumahmu yang aman ini, apalagi bersama dengan seseorang yang berpenampilan mencolok."
 
 # game/script.rpy:1988
 translate other_language bored_f3b8ca2c:
 
     # "However..."
-    ""
+    "Tetapi..."
 
 # game/script.rpy:1989
 translate other_language bored_5026130a:
 
     # "You have to help her make the most of her short life."
-    ""
+    "Anda harus membantu memanfaatkan waktu hidupnya yang singkat."
 
 # game/script.rpy:1990
 translate other_language bored_3db0acec:
 
     # "It's always been easier to put the needs of others above your own."
-    ""
+    "Selalu mudah untuk mengutamakan kebutuhan orang lain daripada dirimu sendiri."
 
 # game/script.rpy:1991
 translate other_language bored_78f84d45:
 
     # "Miraculously, you are able to brush your fears aside today."
-    ""
+    "Ajaibnya, Anda bisa menghapus rasa takut itu hari ini."
 
 # game/script.rpy:1993
 translate other_language bored_3a54c8d7:
 
     # m "UUUUUUUGH- OK!"
-    m ""
+    m "UUUUUUUGH- OK!"
 
 # game/script.rpy:1995
 translate other_language bored_20dc3d69:
 
     # m "Let's just go to this place I know. It's close. Hardly anyone else goes there, so I can handle it."
-    m ""
+    m "Mari kita pergi ke tempat yang aku tau. Tempatnya dekat. Jarang orang lain kesana, jadi aku bisa menghadapinya."
 
 # game/script.rpy:1997
 translate other_language bored_9353ac11:
 
     # m "I just hope no one stares at us..."
-    m ""
+    m "Aku hanya berharap tidak ada orang yang melihat kita..."
 
 # game/script.rpy:1999
 translate other_language bored_4075cec0:
 
     # b "YAAAAAY!"
-    b ""
+    b "YEEEEII!"
 
 # game/script.rpy:2007
 translate other_language bored_1344ad5d:
 
     # "In times like this, you tend to imagine how it would all happen:"
-    ""
+    "Di waktu seperti ini, Anda cenderung berimajinasi bagaimana semuanya akan terjadi:"
 
 # game/script.rpy:2009
 translate other_language bored_d53584ec:
 
     # "You and Button would walk out the door."
-    ""
+    "Anda dan Button akan jalan keluar pintu."
 
 # game/script.rpy:2011
 translate other_language bored_fa1c4e9c:
 
     # "People would stare."
-    ""
+    "Orang-orang akan menatap kalian."
 
 # game/script.rpy:2012
 translate other_language bored_fe6cc16f:
 
     # "The warden would approach."
-    ""
+    "Petugas akan datang dan kemudian bertanya."
 
 # game/script.rpy:2013
 translate other_language bored_1e5a3b52:
 
     # "\"Who is she? Why didn't you sign her in? How long has she been living here?\""
-    ""
+    "\"Siapa perempuan ini? Kenapa Anda tidak lapor petugas? Sudah berapa lama dia tinggal disini?\""
 
 # game/script.rpy:2014
 translate other_language bored_08eb04eb:
 
     # "The honest truth would make him chuckle, then he'll ask for the REAL answer."
-    ""
+    "Kenyataan yang terjadi akan membuatnya ketawa, kemudian dia akan meminta jawaban yang SEBENARNYA."
 
 # game/script.rpy:2015
 translate other_language bored_bf3480f1:
 
     # "You'd freeze to the spot. You already did!"
-    ""
+    "Anda akan membeku di tempat. Anda sudah membeku saat ini."
 
 # game/script.rpy:2016
 translate other_language bored_8d2f5d8f:
 
     # "Are you ready to lie to his face?"
-    ""
+    "Apakah Anda siap untuk berbohon di depan mukanya?"
 
 # game/script.rpy:2017
 translate other_language bored_29b26f92:
 
     # "You'd stumble. You'd panic."
-    ""
+    "Kamu akan terbata-bata. Kamu akan panik."
 
 # game/script.rpy:2018
 translate other_language bored_31c86ad7:
 
     # "Maybe they wouldn't even allow Button back."
-    ""
+    "Mungkin mereka tidak akan membiarkan Button kembali."
 
 # game/script.rpy:2019
 translate other_language bored_838b0c1f:
 
     # "All this, without even making it through the front door."
-    ""
+    "Semua, tanpa melangkah keluar pintu depan."
 
 # game/script.rpy:2024
 translate other_language bored_a471cbaf:
 
     # "Everything is overwhelming."
-    ""
+    "Semua ini terlalu berat."
 
 # game/script.rpy:2028
 translate other_language bored_7746fc31:
 
     # m "I can't! What if someone realises what you are!?"
-    m ""
+    m "Aku tidak bisa! Bagaimana jika seseorang sadar kamu apa!?"
 
 # game/script.rpy:2029
 translate other_language bored_64de92e0:
 
     # m "You're weird! You're conspicuous! What if they try to TALK to us!?"
-    m ""
+    m "Kamu aneh! Terlalu mencolok! Bagaimana jika mereka ingin BERBICARA dengan kita!?"
 
 # game/script.rpy:2031
 translate other_language bored_af671f4e:
 
     # b "No problem, I'm happy to talk."
-    b ""
+    b "Tidak apa. Aku senang untuk berbicara."
 
 # game/script.rpy:2033
 translate other_language bored_fbddf676:
 
     # m "What will you tell them? You think they'll let you go if you tell them THAT YOU'RE A MUSHROOM!?"
-    m ""
+    m "Apa yang akan kamu katakan? Kamu pikir mereka akan pergi jika kamu kasih tau kalau KAMU SEBUAH JAMUR!?"
 
 # game/script.rpy:2035
 translate other_language bored_6a0400d9:
 
     # b "I doubt anyone would care anyway! No one would-"
-    b ""
+    b "Lagipula, aku ragu siapapun akan peduli! Tidak ada seorangpun yang-"
 
 # game/script.rpy:2039
 translate other_language bored_280cfa51:
 
     # m "BUT WHAT IF THEY DO!? THEY WON'T BELIEVE YOU! EVEN IF WE TELL THEM THE TRUTH! THEY'LL LAUGH!"
-    m ""
+    m "TAPI BAGAIMANA JIKA MEREKA PEDULI!? MEREKA TIDAK AKAN PERCAYA KAMU! WALAUPUN KAMU BERBICARA KEBENARANNYA! MEREKA AKAN TERTAWA!"
 
 # game/script.rpy:2041
 translate other_language bored_5da9289e:
 
     # b "Stop interrupting me-"
-    b ""
+    b "Berhenti menyela aku-"
 
 # game/script.rpy:2043
 translate other_language bored_6f9c4da2:
 
     # m "WHAT DO YOU KNOW!? YOU'VE JUST BEEN BORN!"
-    m ""
+    m "APA YANG KAMU TAU!? KAMU BARU SAJA LAHIR!"
 
 # game/script.rpy:2045
 translate other_language bored_ec60ada7:
 
     # b "%(player_name)s-"
-    b ""
+    b "%(player_name)s-"
 
 # game/script.rpy:2047
 translate other_language bored_56f10bdc:
 
     # m "{size=+40}I'M NOT GOING OUTSIDE!{size=-40}" with sshake
-    m "" with sshake
+    m "{size=+40}AKU TIDAK AKAN PERGI KELUAR!{size=-40}" with sshake
 
 # game/script.rpy:2050
 translate other_language bored_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2052
 translate other_language bored_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2055
 translate other_language bored_00440fe4:
