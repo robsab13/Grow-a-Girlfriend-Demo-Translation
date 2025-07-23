@@ -3184,61 +3184,61 @@ translate other_language fakechoseychoice_3dab6ca9:
 translate other_language leavehouse_98ff3a29:
 
     # "You and Button leave the dormitory without incident, and stroll down the sidewalk to the nearby field."
-    ""
+    "Anda dan Button pergi keluar dari asramamu tanpa insiden, dan berjalan di pinggir jalan menuju ke lapangan."
 
 # game/script.rpy:2260
 translate other_language leavehouse_8e775b82:
 
     # "She stares at EVERYTHING - buildings, sidewalks, recycling bins, cars... she even smiles and waves to passing people! Ugh."
-    ""
+    "Dia melihat ke SEGALANYA - bagunan, pinggiran jalan, tong sampah, mobil... dia juga senyum dan melambai ke orang yang lewat! Ugh."
 
 # game/script.rpy:2261
 translate other_language leavehouse_6a701210:
 
     # "It's too obvious. It's embarrassing."
-    ""
+    "Itu sangahlah jelas. Sungguh memalukan."
 
 # game/script.rpy:2262
 translate other_language leavehouse_c15826b1:
 
     # "You don't talk to her, and you keep an appropriate distance so you could pass off as strangers."
-    ""
+    "Anda tidak berbicara dengannya, dan menjaga jarak sehingga Anda dianggap hanya sebagai orang asing."
 
 # game/script.rpy:2263
 translate other_language leavehouse_4e261b0f:
 
     # "One passerby compliments her \"cosplay\". She beams back confusedly. You'll have to explain the concept later."
-    ""
+    "Satu pejalan kaki memujinya untuk \"cosplaynya\". Dia menoleh bingung. Anda harus menjelaskan konsep tersebut nanti."
 
 # game/script.rpy:2264
 translate other_language leavehouse_7e2c269a:
 
     # "You're just grateful nobody talks to YOU."
-    ""
+    "Anda hanya bersyukur tidak ada seorangpun yang berbicara denganMU."
 
 # game/script.rpy:2274
 translate other_language leavehouse_870d826d:
 
     # "Finally, you arrive at the field. There're only two kids and a dog, playing at the opposite end of the field."
-    ""
+    "Akhirnya, Anda sampai di lapangan. Disana hanya terdapat dua anak kecil dan seekor anjing, bermain di ujung lapangan yang berlawanan."
 
 # game/script.rpy:2275
 translate other_language leavehouse_8cc85c82:
 
     # "As you gaze up at the orange-tinted sky, you feel a hint of peace, but you're also continuously keeping an anxious eye on Button."
-    ""
+    "Saat Anda melihat ke atas langit yang jingga, Anda merasa sedikit kedamaian, tapi juga Anda terus mengawasi Button dengan cemas."
 
 # game/script.rpy:2276
 translate other_language leavehouse_3bf8734f:
 
     # "She watches the children from afar and mimics their play, rolling around on the hills and screaming with delight."
-    ""
+    "Dua melihat anak-anak tersebut dan mencoba meniru permainan mereka, bergelinding di atas perbukitan dan berteriak kegirangan."
 
 # game/script.rpy:2277
 translate other_language leavehouse_c32f17ee:
 
     # "Gradually, you're able to relax your worries."
-    ""
+    "Secara perlahan, Anda mulai bisa melepas kecemasanmu."
 
 # game/script.rpy:2282
 translate other_language leavehouse_fd718669:
