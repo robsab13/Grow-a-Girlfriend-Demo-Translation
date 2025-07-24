@@ -3244,781 +3244,781 @@ translate other_language leavehouse_c32f17ee:
 translate other_language leavehouse_fd718669:
 
     # b "Come roll with me, %(player_name)s!"
-    b ""
+    b "Ayo bergelinding bersamaku, %(player_name)s!"
 
 # game/script.rpy:2284
 translate other_language leavehouse_15911943:
 
     # m "Your clothes are going to get dirty."
-    m ""
+    m "Pakaianmu akan menjadi kotor."
 
 # game/script.rpy:2286
 translate other_language leavehouse_eb809b9f:
 
     # b "Then get dirty WITH ME!"
-    b ""
+    b "Kalau begitu, jadilah kotor BERSAMAKU!"
 
 # game/script.rpy:2287
 translate other_language leavehouse_bbb136c8:
 
     # "She tugs on your hoodie forcibly, and you tumble sideways with her."
-    ""
+    "Dia menarik kencang hoodieku, dan Anda jatuh di samping dia."
 
 # game/script.rpy:2291
 translate other_language leavehouse_f8a4e96c:
 
     # "Yup... You're dirty now, so you may as well join in..."
-    ""
+    "Yap... Anda kotor sekarang, sekalian saja ikut..."
 
 # game/script.rpy:2292
 translate other_language leavehouse_11ae7d6f:
 
     # "The both of you roll down the hill. Despite your initial dislike of the childish activity, you've got to admit:"
-    ""
+    "Anda berdua bergelinding ke bawah bukit. Walaupun Anda awalnya tidak suka aktivitas kenakan-kanakan ini, Anda harus mengakui:"
 
 # game/script.rpy:2293
 translate other_language leavehouse_39777f36:
 
     # "It's pretty fun!"
-    ""
+    "Ini lumayan menyenangkan!"
 
 # game/script.rpy:2295
 translate other_language leavehouse_579279ea:
 
     # "Then, while you're both lying down catching your breath, the dog you noticed earlier comes over and sniffs Button cautiously."
-    ""
+    "Lalu, saat kalian berdua berbaring untuk mengambil napas, anjing yang tadi Anda lihat datang dan mengendus Button secara hati-hati."
 
 # game/script.rpy:2301
 translate other_language leavehouse_55565e81:
 
     # b "{sc=4}{color=#000000}HELP! IT'S EATING ME!!! I DON'T WANT TO DIE YET!"
-    b ""
+    b "{sc=4}{color=#000000}TOLONG! DIA SEDANG MEMAKANKU!!! AKU TIDAK MAU MATI DULU!"
 
 # game/script.rpy:2303
 translate other_language leavehouse_9661d7fa:
 
     # m "Calm down! It's not dangerous, I promise! He just sniffing you."
-    m ""
+    m "Tenang! Anjing itu tidak berbahaya, aku janji! Dia hanya mengendus kamu."
 
 # game/script.rpy:2308
 translate other_language leavehouse_c3372dc8:
 
     # b "Eeeek! It's eating me! {sc=4}{color=#000000}HELP!"
-    b ""
+    b "Aaaaah! Dia sedang memakanku! {sc=4}{color=#000000}TOLONG!"
 
 # game/script.rpy:2310
 translate other_language leavehouse_8e798c79:
 
     # m "No, it's just sniffing. Look."
-    m ""
+    m "Tidak, dia hanya mengendus. Lihat."
 
 # game/script.rpy:2312
 translate other_language leavehouse_ecafd323:
 
     # "You hold out your hand, and the dog gives it a quick sniff too, before returning to Button."
-    ""
+    "Anda menyodorkan tanganmu, dan anjing itu memberikan endusan juga sebelum kembali ke Button."
 
 # game/script.rpy:2314
 translate other_language leavehouse_51436d61:
 
     # b "What is it...?"
-    b ""
+    b "Apa ini...?"
 
 # game/script.rpy:2315
 translate other_language leavehouse_3de7d0f3:
 
     # m "Just a friendly dog. Try pet him."
-    m ""
+    m "Hanya seekor anjing yang ramah. Coba untuk mengelusnya."
 
 # game/script.rpy:2317
 translate other_language leavehouse_5f28383c:
 
     # b "Oooh! It's so... fluffy?"
-    b ""
+    b "Oooh! Sangat... lembut?"
 
 # game/script.rpy:2319
 translate other_language leavehouse_bbee761e:
 
     # b "Why's he sniffing so much!? Hehe!"
-    b ""
+    b "Kenapa dia mengendus banyak!? Hehe!"
 
 # game/script.rpy:2321
 translate other_language leavehouse_e0216305:
 
     # m "He's probably not sure what you are... haha."
-    m ""
+    m "Mungkin dia tidak yakin kamu itu apa... haha."
 
 # game/script.rpy:2324
 translate other_language leavehouse_2fad6346:
 
     # "Eventually, the dog's owners call him back and he trots away. You both leave soon after."
-    ""
+    "Tidak lama kemudian, pemilik anjing memanggilnya dan dia berlari pergi. Kalian berdua pergi juga setelahnya."
 
 # game/script.rpy:2361
 translate other_language leavehouse_2bf3bbf1:
 
     # b "The outside is AMAZING!"
-    b ""
+    b "Luar sangatlah HEBAT!"
 
 # game/script.rpy:2363
 translate other_language leavehouse_383bd91f:
 
     # b "How often a day do you usually go?"
-    b ""
+    b "Seberapa sering kamu pergi keluar di satu hari?"
 
 # game/script.rpy:2365
 translate other_language leavehouse_838b670d:
 
     # m "How often a DAY? Um..."
-    m ""
+    m "Seberapa sering di satu hari? Um..."
 
 # game/script.rpy:2367
 translate other_language leavehouse_3f6e235a:
 
     # b "Ughh, I just wanna go out again!"
-    b ""
+    b "Ughh, Aku mau pergi keluar lagi!"
 
 # game/script.rpy:2369
 translate other_language leavehouse_1635c1cc:
 
     # m "(She looks happier.)"
-    m ""
+    m "(Dia terlihat lebih senang.)"
 
 # game/script.rpy:2371
 translate other_language leavehouse_63ca3b20:
 
     # m "(And less depressed. That's good.)"
-    m ""
+    m "(Dan kurang tertekan. Itu hal yang baik.)"
 
 # game/script.rpy:2372
 translate other_language leavehouse_87db3568:
 
     # m "I'm glad you had a good time..."
-    m ""
+    m "Aku senang kamu bersenang-senang..."
 
 # game/script.rpy:2375
 translate other_language leavehouse_28c414aa:
 
     # b "What do you wanna do now?"
-    b ""
+    b "Apa yang kamu ingin lakukan sekarang?"
 
 # game/script.rpy:2377
 translate other_language leavehouse_3b89fb22:
 
     # m "(She STILL wants to do something? Man, can't she just leave already?)"
-    m ""
+    m "(Dia MASIH mau melakukan sesuatu? Aah, tidak bisakah dia pergi begitu saja?)"
 
 # game/script.rpy:2379
 translate other_language leavehouse_50fa5fcb:
 
     # m "Now?... Um, just lie down and recharge, honestly. If that's ok."
-    m ""
+    m "Sekarang?... Um, hanya berbaring dan {i}recharge{/i}, sejujurnya. Jika itu ok untukmu."
 
 # game/script.rpy:2381
 translate other_language leavehouse_898e97f4:
 
     # b "You're sleepy?"
-    b ""
+    b "Kamu mengantuk?"
 
 # game/script.rpy:2383
 translate other_language leavehouse_78f1208b:
 
     # m "More like... I need to relax for a while after all the excitement."
-    m ""
+    m "Lebih seperti... Aku butuh rileks untuk sesaat setelah semua kegirangan."
 
 # game/script.rpy:2385
 translate other_language leavehouse_72517409:
 
     # b "Then let's lie down together! A lil snuggie will help you recharge!"
-    b ""
+    b "Kalau begitu mari berbaring bersama! Sedikit meringkuk akan membantumu {i}recharge{/i}!"
 
 # game/script.rpy:2387
 translate other_language leavehouse_28bd1877:
 
     # m "What? Ugh... I told you-"
-    m ""
+    m "Apa? Ugh... Aku sudah bilang ke kamu-"
 
 # game/script.rpy:2389
 translate other_language leavehouse_f53e8b7a:
 
     # b "Just as homies! Promise!"
-    b ""
+    b "Hanya sebagai teman dekat! Janji!"
 
 # game/script.rpy:2391
 translate other_language leavehouse_36f8716d:
 
     # m "I don't have the energy for this..."
-    m ""
+    m "Aku tidak punya energi untuk ini..."
 
 # game/script.rpy:2392
 translate other_language leavehouse_873fffe4:
 
     # "But before you can walk away, Button stops you."
-    ""
+    "Tapi sebelum kamu pergi, Button menghentikanmu."
 
 # game/script.rpy:2394
 translate other_language leavehouse_e5fff30b:
 
     # b "Wait..."
-    b ""
+    b "Tunggu..."
 
 # game/script.rpy:2395
 translate other_language leavehouse_99838781:
 
     # b "There's something I need to ask you."
-    b ""
+    b "Ada seautu yang aku butuh tanya ke kamu."
 
 # game/script.rpy:2397
 translate other_language leavehouse_e9a00f13:
 
     # m "What?"
-    m ""
+    m "Apa?"
 
 # game/script.rpy:2399
 translate other_language leavehouse_f65082e1:
 
     # b "You're probably hungry after going out, huh?"
-    b ""
+    b "Kemungkinan kamu sudah lapar setelah pergi keluar, kan?"
 
 # game/script.rpy:2400
 translate other_language leavehouse_8b3db82d:
 
     # b "So I wanted to ask... are you planning to eat me tonight?"
-    b ""
+    b "Jadi aku mau tanya... apakah kamu akan memakanku malam ini?"
 
 # game/script.rpy:2407
 translate other_language leavehouse_0815eac5:
 
     # "You are feeling pretty hungry after all of that rolling."
-    ""
+    "Kamu merasa lumayan lapar setelah bergelinding hari ini."
 
 # game/script.rpy:2409
 translate other_language leavehouse_29cf8eeb:
 
     # m "But... is that really ok with you?"
-    m ""
+    m "Tapi... apakah kamu benar-benar yakin?"
 
 # game/script.rpy:2412
 translate other_language leavehouse_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2414
 translate other_language leavehouse_8a30337d:
 
     # b "I don't know anymore."
-    b ""
+    b "Aku tidak tau lagi."
 
 # game/script.rpy:2415
 translate other_language leavehouse_ba512a91:
 
     # b "It's kind of scary..."
-    b ""
+    b "Itu agak menakutkan..."
 
 # game/script.rpy:2417
 translate other_language leavehouse_f0e65af4:
 
     # b "Could you... not...? Is that ok?"
-    b ""
+    b "Bisakah kamu... tidak...? Apakah itu ok?"
 
 # game/script.rpy:2419
 translate other_language leavehouse_c9f79871:
 
     # m "Hey, I'm not a psychopath. Of course it's ok."
-    m ""
+    m "Hei, aku bukan psikopat. Tentu saja itu ok."
 
 # game/script.rpy:2421
 translate other_language leavehouse_d8e6231a:
 
     # b "YAAAAAAAY!~" with sshake
-    b "" with sshake
+    b "YEEEEEEEEI!~" with sshake
 
 # game/script.rpy:2422
 translate other_language leavehouse_9af82a0c:
 
     # b "I get to live!"
-    b ""
+    b "Aku bisa terus hidup!"
 
 # game/script.rpy:2424
 translate other_language leavehouse_ea318c94:
 
     # m "If you were gonna be THAT relieved, you shouldn't have offered in the first place."
-    m ""
+    m "Kalau kamu bakal SELEGA itu, kamu seharusnya tidak menawarkannya dari awal."
 
 # game/script.rpy:2426
 translate other_language leavehouse_5b3538f9:
 
     # b "Ahh... now I can look forward to going out more and seeing everything outside! There's so much! I can't wait!"
-    b ""
+    b "Ahh.... Sekarang aku bisa menantikan untuk pergi dan melihat semua hal di luar sana! Ada banyak sekali hal! Aku tidak sabar!"
 
 # game/script.rpy:2428
 translate other_language leavehouse_84088558:
 
     # m "Whoa whoa whoa... We never discussed this."
-    m ""
+    m "Tunggu tunggu tunggu... Kita tidak pernah berbicara tentang itu."
 
 # game/script.rpy:2430
 translate other_language leavehouse_64590162:
 
     # m "I'm drained after today."
-    m ""
+    m "Aku sudah lelah setelah hari ini."
 
 # game/script.rpy:2431
 translate other_language leavehouse_76f04785:
 
     # m "I'd prefer if you could just... take yourself out, so I could rest tomorrow."
-    m ""
+    m "Aku lebih suka jika kamu bisa... pergi keluar sendiri, jadi aku bisa istirahat besok."
 
 # game/script.rpy:2433
 translate other_language leavehouse_c5c6e918:
 
     # b "But... didn't you like it?"
-    b ""
+    b "Tapi... bukannya kamu suka pergi?"
 
 # game/script.rpy:2435
 translate other_language leavehouse_e36a0e06:
 
     # m "I did. But still. Tiring."
-    m ""
+    m "Iya. Tapi tetap saja. Melelahkan."
 
 # game/script.rpy:2437
 translate other_language leavehouse_ef0da038:
 
     # b "But..."
-    b ""
+    b "Tapi..."
 
 # game/script.rpy:2438
 translate other_language leavehouse_0265a6bd:
 
     # b "It's... lonely..."
-    b ""
+    b "aku akan... kesepian..."
 
 # game/script.rpy:2440
 translate other_language leavehouse_5b775aa9:
 
     # m "Can't you just TRY it first before deciding how you're going to feel?"
-    m ""
+    m "Bisa kah kamu COBA terlebih dahulu sebelum memutuskan bagaimana perasaanmu nanti?"
 
 # game/script.rpy:2443
 translate other_language leavehouse_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2445
 translate other_language leavehouse_e1e80e52:
 
     # b "You raised me. You're supposed to take care of me!"
-    b ""
+    b "Kamu membesarkanku. Kamu seharusnya yang memperhatikanku!"
 
 # game/script.rpy:2446
 translate other_language leavehouse_0b1049d5:
 
     # b "I can't just go out there on my own! I need you!"
-    b ""
+    b "Aku tidak bisa keluar dengan diriku sendiri! Aku butuh kamu!"
 
 # game/script.rpy:2448
 translate other_language leavehouse_1c23497a:
 
     # m "What about MY needs? Aren't you being too forceful? I think you can do something as simple as walk around by yourself."
-    m ""
+    m "Bagaimana dengan kebutuhanKU? Bukankah kamu terlalu memaksa? Aku pikir kamu bisa melakukan hal simpel seperti berkeliling sekitar rumah."
 
 # game/script.rpy:2450
 translate other_language leavehouse_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2452
 translate other_language leavehouse_06c8fae4:
 
     # b "Oh."
-    b ""
+    b "Oh."
 
 # game/script.rpy:2453
 translate other_language leavehouse_8634939d:
 
     # b "I {i}am{/i} being needy."
-    b ""
+    b "Aku {i}sedang{/i} terlalu membutuhkan."
 
 # game/script.rpy:2456
 translate other_language leavehouse_33a9b25c:
 
     # b "I'm sorry."
-    b ""
+    b "Aku maaf."
 
 # game/script.rpy:2457
 translate other_language leavehouse_c6bb5a2f:
 
     # b "I'm just scared to be alone...."
-    b ""
+    b "Aku hanya takut sendirian..."
 
 # game/script.rpy:2458
 translate other_language leavehouse_693179a9:
 
     # b "I'm sorry for... being bad at this."
-    b ""
+    b "Aku minta maaf karena... buruk dalam ini."
 
 # game/script.rpy:2460
 translate other_language leavehouse_5b49266f:
 
     # "Wow. She's about to cry."
-    ""
+    "Wow. Dia sebentar lagi akan menangis."
 
 # game/script.rpy:2466
 translate other_language leavehouse_c25c841b:
 
     # b "Yup! I'm ready anytime you want to eat me!"
-    b ""
+    b "Yap! Aku bersedia kapanpun kamu mau makan aku!"
 
 # game/script.rpy:2468
 translate other_language leavehouse_6861974f:
 
     # b "I'm delicious AND nutritious!"
-    b ""
+    b "Aku nikmat DAN bernutrisi!"
 
 # game/script.rpy:2470
 translate other_language leavehouse_8abc0fe7:
 
     # m "...You sure?"
-    m ""
+    m "...Kamu yakin?"
 
 # game/script.rpy:2472
 translate other_language leavehouse_e89226b7:
 
     # b "Yup... It's part of life. I'm already so lucky to have been able to spend a day with you, so-"
-    b ""
+    b "Yup... Itu bagian dari hidupku. Aku sudah sangat beruntung telah menghabiskan satu hari denganmu, jadi..."
 
 # game/script.rpy:2473
 translate other_language leavehouse_a4dc9ef5:
 
     # b "Please, go ahead!"
-    b ""
+    b "Tolong, silakan lakukan!"
 
 # game/script.rpy:2475
 translate other_language leavehouse_b6029a46:
 
     # m "Hah... Well... Ok."
-    m ""
+    m "Hah... Baiklah... Ok."
 
 # game/script.rpy:2477
 translate other_language leavehouse_be8efcc5:
 
     # m "Thanks for the fun day."
-    m ""
+    m "Terima kasih untuk hari yang menyenangkan ini."
 
 # game/script.rpy:2481
 translate other_language leavehouse_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:2482
 translate other_language leavehouse_feca35af:
 
     # m "I'm really doing it."
-    m ""
+    m "Aku benar-benar melaukannya."
 
 # game/script.rpy:2483
 translate other_language leavehouse_61201179:
 
     # m "Frying up bits of seasoned mushroom with egg, tomato and cheese."
-    m ""
+    m "Menggoreng sebagian dari jamur dengan talur, tomat, dan keju."
 
 # game/script.rpy:2484
 translate other_language leavehouse_a828fc20:
 
     # "Once it's diced up, you really can't tell it used to be her face."
-    ""
+    "Setelah sudah dipotong dadu, Anda tidak bisa membedakan dengan wajahnya yang dulu."
 
 # game/script.rpy:2485
 translate other_language leavehouse_205eea19:
 
     # "Isn't this messed up?"
-    ""
+    "Bukankah ini suatu yang kacau?"
 
 # game/script.rpy:2486
 translate other_language leavehouse_43d63a0a:
 
     # m "Maybe so, but..."
-    m ""
+    m "Mungkin saja, tapi..."
 
 # game/script.rpy:2516
 translate other_language leavehouse_ae0c3400:
 
     # m "She wasn't lying! This is freaking delicious!"
-    m ""
+    m "Dia tidak bohong! Ini sungguh nikmat!"
 
 # game/script.rpy:2539
 translate other_language leavehouse_236fef67:
 
     # m "Honestly? I don't feel that hungry..."
-    m ""
+    m "Sejujurnya? Aku tidak merasa lapar..."
 
 # game/script.rpy:2541
 translate other_language leavehouse_1dc04a7c:
 
     # b "Another day of life for me! Yay!"
-    b ""
+    b "Hari berikutnya untukku! Yey!"
 
 # game/script.rpy:2542
 translate other_language leavehouse_f90dd2c1:
 
     # b "Does this mean we can go somewhere else tomorrow? Please please please?"
-    b ""
+    b "Apakah artinya ini kita bisa pergi ke tempat lain besok? Plis plis plis?"
 
 # game/script.rpy:2544
 translate other_language leavehouse_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "Ahhh..."
 
 # game/script.rpy:2546
 translate other_language leavehouse_a191e100:
 
     # m "Can't you just go by yourself?"
-    m ""
+    m "Bisakah kamu pergi sendiri?"
 
 # game/script.rpy:2548
 translate other_language leavehouse_a087efad:
 
     # b "What? Where's the fun in that? I need my companion with me to protect me and play with me!"
-    b ""
+    b "Apa? Apa serunya dengan itu? Aku membutuhkan teman saya untuk melindungiku dan bermain bersamaku!"
 
 # game/script.rpy:2550
 translate other_language leavehouse_bfd285da:
 
     # m "Ah. I see..."
-    m ""
+    m "Ah. Begitu..."
 
 # game/script.rpy:2552
 translate other_language leavehouse_2ec7f18c:
 
     # b "Please please please come with me? I don't wanna get lonely..."
-    b ""
+    b "Mohon mohon mohon pergi bersamaku? Aku tidak mau kesepian..."
 
 # game/script.rpy:2554
 translate other_language leavehouse_c0a0acde:
 
     # m "...Wow, those are some puppy eyes..."
-    m ""
+    m "...Waw, dia sangat ingin pergi sekali..."
 
 # game/script.rpy:2556
 translate other_language leavehouse_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:2558
 translate other_language leavehouse_0882e5d4:
 
     # m "Ah, fine. I've done it once already, so it should be ok..."
-    m ""
+    m "Ah, baiklah. "
 
 # game/script.rpy:2560
 translate other_language leavehouse_fb5b2863:
 
     # b "Really? Thank you. You sure?"
-    b ""
+    b "Benarkah? Terima kasih. Kamu yakin?"
 
 # game/script.rpy:2562
 translate other_language leavehouse_91261a08:
 
     # b "You promise you can go out with me?"
-    b ""
+    b "Kamu janji kamu akan pergi keluar bersamaku?"
 
 # game/script.rpy:2564
 translate other_language leavehouse_c9c5c175:
 
     # m "It's just a few days anyway..."
-    m ""
+    m "Ini hanya untuk beberapa hari saja juga..."
 
 # game/script.rpy:2568
 translate other_language leavehouse_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2569
 translate other_language leavehouse_6fc80148:
 
     # b "Yeah."
-    b ""
+    b "Iya."
 
 # game/script.rpy:2572
 translate other_language leavehouse_3da56454:
 
     # b "It's already night time. My first day is already over."
-    b ""
+    b "Sekarang sudah malam. Hari pertamaku sudah selesai."
 
 # game/script.rpy:2573
 translate other_language leavehouse_2558b009:
 
     # b "I didn't realise how quickly time would pass."
-    b ""
+    b "Aku tidak sadar cepatnya waktu bergerak."
 
 # game/script.rpy:2575
 translate other_language leavehouse_a4773cab:
 
     # b "I understand what you meant earlier now."
-    b ""
+    b "Aku mengerti apa yang kamu maksud sebelumnya."
 
 # game/script.rpy:2576
 translate other_language leavehouse_374c3956:
 
     # b "Even if I have fun, even if I don't, it doesn't matter in the end. It's getting closer!"
-    b ""
+    b "Setelah aku sudah merasa senang, ataupun jika aku tidak, semua sia-sia di akhir. Waktuku semakin mendekat!"
 
 # game/script.rpy:2579
 translate other_language leavehouse_c750c84e:
 
     # m "I'm... I'm so sorry for saying all that."
-    m ""
+    m "Aku... Aku minta maaf sudah memberitau semua itu."
 
 # game/script.rpy:2581
 translate other_language leavehouse_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:2582
 translate other_language leavehouse_52dcef3c:
 
     # b "I..."
-    b ""
+    b "..."
 
 # game/script.rpy:2587
 translate other_language leavehouse_24e21341:
 
     # b "{sc=2}{color=#000000}{size=+20}I don't want to die!{/sc}{size=-20}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}{size=+20}Aku tidak mau mati!{/sc}{size=-20}" with sshake
 
 # game/script.rpy:2588
 translate other_language leavehouse_dc6e11f0:
 
     # b "I've only just been {sc=2}{color=#000000}born!{/sc} Why can't I live longer like you!?"
-    b ""
+    b "Aku baru saja {sc=2}{color=#000000}lahir!{/sc} Kepapa aku tidak bisa hidup lebih lama seperti kamu!?"
 
 # game/script.rpy:2590
 translate other_language leavehouse_0a7d542b:
 
     # b "{sc=2}{color=#000000}IT'S NOT FAIR! I DON'T WANT TO DIE YET!!!{/sc}" with sshake
-    b "" with sshake
+    b "{sc=2}{color=#000000}INI TIDAK ADIL! AKU TIDAK MAU MATI DULU!!!{/sc}" with sshake
 
 # game/script.rpy:2592
 translate other_language leavehouse_2d349f8a:
 
     # "Are you just going to just sit there and watch her have a panic attack?"
-    ""
+    "Apakah Anda hanya akan duduk dan menonton dia mengalami serangan panik?"
 
 # game/script.rpy:2600
 translate other_language leavehouse_d95c0745:
 
     # m "I-I've got you. Just-"
-    m ""
+    m "A-Aku mengerti. Hanya-"
 
 # game/script.rpy:2601
 translate other_language leavehouse_9890ad83:
 
     # b "{sc=2}{color=#000000}NOTHING MATTERS! I CAN'T-"
-    b ""
+    b "{sc=2}{color=#000000}SEMUA SIA-SIA! AKU TIDAK BISA-"
 
 # game/script.rpy:2602
 translate other_language leavehouse_0cca2f64:
 
     # m "It's going to be ok-"
-    m ""
+    m "Semua akan baik-"
 
 # game/script.rpy:2603
 translate other_language leavehouse_f5513030:
 
     # b "{sc=2}{color=#000000}IT'S NOT!"
-    b ""
+    b "{sc=2}{color=#000000}TIDAK!"
 
 # game/script.rpy:2605
 translate other_language leavehouse_2e86419b:
 
     # b "{sc=2}{color=#000000}I'VE ONLY GOT TWO DAYS LEFT!"
-    b ""
+    b "{sc=2}{color=#000000}AKU HANYA PUNYA DUA HARI LAGI!"
 
 # game/script.rpy:2606
 translate other_language leavehouse_3e5e1084:
 
     # b "{sc=2}{color=#000000}I DON'T WANT TO DISAPPEAR! PLEASE HELP ME!"
-    b ""
+    b "{sc=2}{color=#000000}AKU TIDAK MAU MENGHILANG! TOLONG BANTU AKU!"
 
 # game/script.rpy:2607
 translate other_language leavehouse_ffac3f77:
 
     # m "Ok... First calm down."
-    m ""
+    m "Ok... Pertama-tama tenang dulu."
 
 # game/script.rpy:2608
 translate other_language leavehouse_29dda217:
 
     # b "{sc=2}{color=#000000}BUT I CAN'T! IT'S GETTING CLOSER!"
-    b ""
+    b "{sc=2}{color=#000000}TAPI AKU TIDAK BISA! WAKTUKU SEMAKIN DEKAT!"
 
 # game/script.rpy:2609
 translate other_language leavehouse_bf9acf0c:
 
     # m "Let's breathe together, ok? Just breathe in deeply when I say go, and hold it for eight seconds."
-    m ""
+    m "Mari bernapas bersama, ok? Hanya bernapas dalam-dalam saat aku bilang mulai, dan tahan selama delapan detik."
 
 # game/script.rpy:2610
 translate other_language leavehouse_b9ed8af5:
 
     # m "Go. Inhale and hold~"
-    m ""
+    m "Mulai. Napas dan tahan~"
 
 # game/script.rpy:2612
 translate other_language leavehouse_319026a4:
 
     # b "{sc=1}{color=#000000}..."
-    b ""
+    b "{sc=1}{color=#000000}..."
 
 # game/script.rpy:2614
 translate other_language leavehouse_2c1dff99:
 
     # "One{w=1.0}{nw}"
-    ""
+    "Satu{w=1.0}{nw}"
 
 # game/script.rpy:2615
 translate other_language leavehouse_22d8c32c:
 
     # "Two{w=1.0}{nw}"
-    ""
+    "Dua{w=1.0}{nw}"
 
 # game/script.rpy:2616
 translate other_language leavehouse_92f89d82:
 
     # "Three{w=1.0}{nw}"
-    ""
+    "Tiga{w=1.0}{nw}"
 
 # game/script.rpy:2617
 translate other_language leavehouse_e5887f64:
 
     # "Four{w=1.0}{nw}"
-    ""
+    "Empat{w=1.0}{nw}"
 
 # game/script.rpy:2618
 translate other_language leavehouse_aa22ed83:
 
     # "Five{w=1.0}{nw}"
-    ""
+    "Lima{w=1.0}{nw}"
 
 # game/script.rpy:2619
 translate other_language leavehouse_1a955283:
 
     # "Six{w=1.0}{nw}"
-    ""
+    "Enam{w=1.0}{nw}"
 
 # game/script.rpy:2620
 translate other_language leavehouse_82f5a21f:
 
     # m "And exhale~ phew"
-    m ""
+    m "Dan hembuskan~ Pheuu"
 
 # game/script.rpy:2621
 translate other_language leavehouse_26e15393:
