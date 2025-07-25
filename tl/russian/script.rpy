@@ -4,385 +4,385 @@
 translate russian start_be4321ac:
 
     # "As you wake up, your first thought is:"
-    ""
+    "Как только ты проснулся, первое о чём ты думаешь это:"
 
 # game/script.rpy:678
 translate russian start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    ""
+    "{sc=1}{color=#000000}Давление{/sc}."
 
 # game/script.rpy:679
 translate russian start_36532e04:
 
     # "Today is a new day."
-    ""
+    "Сегодня — новый день."
 
 # game/script.rpy:680
 translate russian start_26cb8853:
 
     # "You're supposed to make the most of it."
-    ""
+    "И ты должен выжать из него максимум."
 
 # game/script.rpy:681
 translate russian start_a4c96fd2:
 
     # "You're supposed to finally exercise."
-    ""
+    "Ты должен наконец поупражняться."
 
 # game/script.rpy:682
 translate russian start_21e1cd13:
 
     # "Go to lectures again."
-    ""
+    "Сходить снова на лекции."
 
 # game/script.rpy:683
 translate russian start_33b03b8c:
 
     # "Make friends."
-    ""
+    "Завести друзей."
 
 # game/script.rpy:684
 translate russian start_53a40e4b:
 
     # "Call your mom."
-    ""
+    "Позвонить своей маме."
 
 # game/script.rpy:685
 translate russian start_f09d318c:
 
     # "Literally achieve any goal."
-    ""
+    "Добиться хоть чего-нибудь сегодня."
 
 # game/script.rpy:686
 translate russian start_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:687
 translate russian start_468676bd:
 
     # "But you just... {i}can't{/i}."
-    ""
+    "Но ты просто... {i}не можешь{/i}."
 
 # game/script.rpy:688
 translate russian start_44b3a675:
 
     # "Not today."
-    ""
+    "Не сегодня."
 
 # game/script.rpy:689
 translate russian start_d7508480:
 
     # "Now you're both stressed AND disappointed in yourself."
-    ""
+    "Теперь ты не только напряжён, НО и разочарован в себе."
 
 # game/script.rpy:693
 translate russian start_8e41dfce:
 
     # "You need to distract yourself from these feelings. How about an impulse purchase?"
-    ""
+    "Тебе нужно отвлечься от этих мыслей. Как насчёт импульсивной покупки?"
 
 # game/script.rpy:694
 translate russian start_8fd80b70:
 
     # "It's not like you'll need all the money your parents gave you for very long anyway."
-    ""
+    "Тебе в любом случае вряд ли надолго понадобятся все эти деньги, которые тебе дали твои родители."
 
 # game/script.rpy:697
 translate russian start_c21eef51:
 
     # m "But... what if I do need it later on?"
-    m ""
+    m "Но... что если они мне всё же понадобятся?"
 
 # game/script.rpy:698
 translate russian start_b480baf0:
 
     # "Hesitant, as always."
-    ""
+    "Нерешительный, как обычно."
 
 # game/script.rpy:699
 translate russian start_9f4bfce8:
 
     # "Don't worry. It's easier to just shut up and listen to me."
-    ""
+    "Не волнуйся. Намного легче будет просто заткнуться и послушать меня."
 
 # game/script.rpy:700
 translate russian start_3413f642:
 
     # "Remember: There's no point to anything anymore."
-    ""
+    "Запомни: больше ни в чём нет смысла."
 
 # game/script.rpy:702
 translate russian start_7681bbef:
 
     # m "I guess so..."
-    m ""
+    m "Ну наверное да..."
 
 # game/script.rpy:703
 translate russian start_af419542:
 
     # "Maybe get something you can grow. Since you'll never have children of your own anyway."
-    ""
+    "Можешь попробовать найти что-нибудь что ты можешь вырастить. У тебя в любом случае никогда не будет своих детей."
 
 # game/script.rpy:704
 translate russian start_8dac78be:
 
     # "Also low-maintenance. You're not very good at taking care of things."
-    ""
+    "А ну и конечно же что-нибудь, за чем не нужно много ухаживать. Ты не особо хорош в ухаживании за вещами."
 
 # game/script.rpy:705
 translate russian start_53d72305:
 
     # "What kind of plant would enjoy your dark, dank, dungeon?"
-    ""
+    "Какому же растению понравится твоё тёмное, сырое подземелье?"
 
 # game/script.rpy:707
 translate russian start_64d91354:
 
     # m "I don't know."
-    m ""
+    m "Я не знаю."
 
 # game/script.rpy:708
 translate russian start_d2061e25:
 
     # "Huh, so you really ARE an idiot."
-    ""
+    "Так ты всё же реально ИДИОТ."
 
 # game/script.rpy:709
 translate russian start_7cabce7d:
 
     # "How does it feel, knowing that you've wasted your life in school and nothing came out of it?"
-    ""
+    "Каково это — осознавать, что ты потратил свою жизнь в школе впустую, так ничего и не приобретя?"
 
 # game/script.rpy:710
 translate russian start_6109150a:
 
     # "Think of all the money you've wasted. All of your precious time spent doing something you hated."
-    ""
+    "Просто подумай: все эти потраченные деньги... Всё твое драгоценное время, убитое на то, что ты ненавидишь."
 
 # game/script.rpy:711
 translate russian start_d79b8cc8:
 
     # "Go on. Do what idiots do, and go ask the internet mommy for help."
-    ""
+    "Давай, продолжай. Делай то, что делают идиоты, и попроси у интернет-мамочки помощи."
 
 # game/script.rpy:736
 translate russian buy_mushroom_1f82217c:
 
     # "{size=*2.0}WELL DONE!{size=*2.0}"
-    ""
+    "{size=*2.0}МАЛАДЕС!{size=*2.0}"
 
 # game/script.rpy:737
 translate russian buy_mushroom_15c5ad6f:
 
     # "You did it! You searched for:"
-    ""
+    "Ты сделал это! Ты ввёл в поиске:"
 
 # game/script.rpy:738
 translate russian buy_mushroom_63e3dce0:
 
     # "<what gros in daurk humid palces?>"
-    ""
+    "что расёт в тёмнывх влажных мстетах?"
 
 # game/script.rpy:739
 translate russian buy_mushroom_04cf4a2b:
 
     # "Pathetic."
-    ""
+    "Как же ты жалок."
 
 # game/script.rpy:741
 translate russian buy_mushroom_222d9148:
 
     # m "Oh... mushrooms!"
-    m ""
+    m "О... грибы!"
 
 # game/script.rpy:742
 translate russian buy_mushroom_8474b4a3:
 
     # "Good. Get them."
-    ""
+    "Хорошо. Закажи их."
 
 # game/script.rpy:743
 translate russian buy_mushroom_9a377f1d:
 
     # "Look, you can buy a starter-kit there. Surely you couldn't mess this up too, right?"
-    ""
+    "Смотри, ты можешь купить набор для начинающих здесь. Ты же ведь можешь хоть это сделать нормально?"
 
 # game/script.rpy:749
 translate russian buy_mushroom_4aa4a1c4:
 
     # m "Which one should I get? Though it's not like I get much of a choice..."
-    m ""
+    m "Какой мне следует выбрать? Хотя у меня не то чтобы большой выбор..."
 
 # game/script.rpy:750
 translate russian buy_mushroom_af8e07c0:
 
     # "Ah, just like life: You must resignedly drift down the path forced unto you."
-    ""
+    "Ах, прям как в жизни: ты должен покорно дрейфовать по навязанному тебе пути."
 
 # game/script.rpy:769
 translate russian bought_gt_d22ae335:
 
     # m "This one looks weird..."
-    m ""
+    m "Этот выглядит как то странно...."
 
 # game/script.rpy:770
 translate russian bought_gt_deb6353a:
 
     # "Then it would have been a perfect match!"
-    ""
+    "Ну тогда вы были бы идеальной парой!"
 
 # game/script.rpy:771
 translate russian bought_gt_5d583721:
 
     # "Unfortunately, the illusion of choice here is too shallow. You have'll to go with the generic, boring mushroom."
-    ""
+    "К сожалению, иллюзия выбора здесь слишком поверхностна. Тебе придётся взять обычный, скучный гриб."
 
 # game/script.rpy:772
 translate russian bought_gt_537684e0:
 
     # "Hmm, maybe that's a good match for you after all!"
-    ""
+    "Хмм, может быть это всё же идеальный выбор для тебя!"
 
 # game/script.rpy:778
 translate russian bought_red_a1c9d913:
 
     # m "Aren't red mushrooms supposed to be poisonous?"
-    m ""
+    m "Разве красные грибы не ядовитые?"
 
 # game/script.rpy:779
 translate russian bought_red_841bb29e:
 
     # "Maybe you could kill yourself with it! Then everyone will feel bad for you. That DOES sound alluring..."
-    ""
+    "Тогда наверное ты смог бы убить себя с помощью него! Тогда все будут тебе сочувствовать. Это звучит довольно заманчиво."
 
 # game/script.rpy:780
 translate russian bought_red_e8a503db:
 
     # "Too bad they're out of stock, huh?"
-    ""
+    "Но увы и ах, их нет в наличии."
 
 # game/script.rpy:793
 translate russian x_2fafdade:
 
     # "Stalling for time. Your favourite facade of being in control."
-    ""
+    "Тянешь время. Так ты создаёшь иллюзию контроля — твой любимый трюк."
 
 # game/script.rpy:797
 translate russian x_16421445:
 
     # "What? Can't make up your mind?"
-    ""
+    "Что? Не можешь сделать выбор?"
 
 # game/script.rpy:829
 translate russian bought_button_9d025055:
 
     # m "You're kind of...cute."
-    m ""
+    m "Ты довольно... милый."
 
 # game/script.rpy:830
 translate russian bought_button_ac458a06:
 
     # "Be honest. It's bland, isn't it?"
-    ""
+    "Будь честен. Он ничем не выделяется, правда ведь?"
 
 # game/script.rpy:831
 translate russian bought_button_1513cf83:
 
     # "Well, enjoy those leftovers that no one else wanted."
-    ""
+    "Ну, наслаждайся этими остатками, которые больше никому не были нужны."
 
 # game/script.rpy:833
 translate russian bought_button_ebfa8efb:
 
     # "Now all you have to do is go back into bed for a day and doomscroll until it arrives."
-    ""
+    "Теперь тебе всего лишь остаётся снова лечь в кровать и думскроллить до тех пор, пока тебе не доставят эти грибы."
 
 # game/script.rpy:847
 translate russian bought_button_5dec848b:
 
     # "{sc=4}{i}{color=#000000}SOMEONE IS AT THE DOOR!{/i}{/sc}"
-    ""
+    "{sc=4}{i}{color=#000000}КТО-ТО У ДВЕРИ!{/i}{/sc}"
 
 # game/script.rpy:848
 translate russian bought_button_2011e684:
 
     # "The adrenaline wakes you up, sending your heart hammering as you cover yourself with your sheets."
-    ""
+    "Адреналин будит тебя, заставляет твоё сердце биться пока ты прячешься под одеялом."
 
 # game/script.rpy:849
 translate russian bought_button_dd731022:
 
     # na "Hello? I saw you had a package delivered to the reception, so I thought I'd bring it up to you..."
-    na ""
+    na "Привет? Я заметил что тебе доставили какую-то посылку, так что я решил отнести её тебе..."
 
 # game/script.rpy:851
 translate russian bought_button_0103548d:
 
     # "We both know you can't do this."
-    ""
+    "Мы оба знаем что ты не можешь сделать это."
 
 # game/script.rpy:853
 translate russian bought_button_cfa78aa1:
 
     # na "You awake?"
-    na ""
+    na "Ты там не спишь?"
 
 # game/script.rpy:854
 translate russian bought_button_f3321946:
 
     # m "{size=-15}I'm sorry.{size=+15}"
-    m ""
+    m "{size=-15}Простите меня.{size=+15}"
 
 # game/script.rpy:855
 translate russian bought_button_ddf0fa06:
 
     # na "I'm leaving it by the door. Good luck with your, um... experiment."
-    na ""
+    na "Я тогда оставлю её у твоей двери. Удачи с твоим... экспериментом."
 
 # game/script.rpy:856
 translate russian bought_button_fc54e591:
 
     # "You hear your neighbour, who, after nearly a year, you still haven't met, walk away."
-    ""
+    "Ты слышишь как твой сосед, которого ты уже в течении года так ни разу и не встретил, уходит."
 
 # game/script.rpy:857
 translate russian bought_button_208e905e:
 
     # "How can someone who never leaves their room meet someone?"
-    ""
+    "Как тот, кто никогда не выходит из своей комнаты, может встретить кого-либо?"
 
 # game/script.rpy:858
 translate russian bought_button_071d45d8:
 
     # "Sometimes you can hear the muffled sound of rock music when you're up late. He likes guitars and violins."
-    ""
+    "Иногда ты слышишь приглушённый звук рок-музыки когда ты не спишь до поздна. Ему нравятся гитары и скрипки."
 
 # game/script.rpy:859
 translate russian bought_button_ac9da120:
 
     # "Once, you took off your headphones and listened to the whole album."
-    ""
+    "Ты даже однажды снял свои наушники и прослушал целый альбом."
 
 # game/script.rpy:860
 translate russian bought_button_cb2c7e99:
 
     # "It made you feel less lonely and more inspired than any lofi beat ever had."
-    ""
+    "Она намного лучше заставляет меня чувствовать себя менее одиноким и более вдохновлённым, чем любая другая lofi-музыка которую я когда-либо слушал."
 
 # game/script.rpy:861
 translate russian bought_button_e00fcc48:
 
     # "You wish you had the courage to say hi."
-    ""
+    "Ты мечтаешь, чтобы у тебя хватило смелости сказать \"Привет\""
 
 # game/script.rpy:875
 translate russian bought_button_508a4fa8:
 
     # "Now that's it here, I'm getting kind of excited! Opening a box is like getting a present!"
-    ""
+    "Ну теперь, когда этот гриб уже приехал, меня охватывает радость! Открытие коробки ощущается так же, как получать подарок!"
 
 # game/script.rpy:881
 translate russian bought_button_121d1f5b:
