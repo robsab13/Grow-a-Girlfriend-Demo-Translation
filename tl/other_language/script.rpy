@@ -9606,99 +9606,99 @@ translate other_language strings:
 
     # game/script.rpy:1016
     old "Laptop-chan is too busy downloading anime to care."
-    new ""
+    new "Laptop-chan terlalu sibuk mendownload anime untuk peduli."
 
     # game/script.rpy:1022
     old "It's lasted you since you were preteen, but you're not allowed a new one until it stops working."
-    new ""
+    new "Alat ini telah Anda gunakan sejak usia praremaja, tetapi Anda tidak diizinkan untuk membeli yang baru sampai alat ini rusak."
 
     # game/script.rpy:1026
     old "Blahaj believes in you!"
-    new ""
+    new "Blahaj percaya padamu!"
 
     # game/script.rpy:1029
     old "Noot Noot's button eyes stare unblinkingly into your soul. What is life?"
-    new ""
+    new "Mata Noot Noot menatap Anda tanpa berkedip ke dalam jiwamu. Apa itu hidup?"
 
     # game/script.rpy:1083
     old "Laptop-chan is STILL too busy downloading anime to care."
-    new ""
+    new "Laptop-chan MASIH terlalu sibuk mendownload anime untuk peduli."
 
     # game/script.rpy:1086
     old "Blahaj is so proud of you!"
-    new ""
+    new "Blahaj sangat bangga padamu!"
 
     # game/script.rpy:1089
     old "Noot Noot will be here for you when you need him."
-    new ""
+    new "Noot Noot akan selalu ada untukmu saat Anda membutuhkannya."
 
     # game/script.rpy:1113
     old "Weeks of self-hatred pass..."
-    new ""
+    new "Berminggu-minggu membenci diri sendiri berlalu..."
 
     # game/script.rpy:1115
     old "But you water your mushroom daily."
-    new ""
+    new "Tapi Anda menyirami jamurmu setiap hari."
 
     # game/script.rpy:1150
     old "You can throw it out the window and pretend it never happened, or help it."
-    new ""
+    new "Anda bisa melemparkan keluar jendela dan berpura-pura tidak ada yang pernah terjadi, atau dibantu."
 
     # game/script.rpy:1152
     old "NOPE. 1000 percent NOPE. GET OUT."
-    new ""
+    new "TIDAK. 1000 PERSEN TIDAK. KELUAR!"
 
     # game/script.rpy:1188
     old "Button End 2: Mush-room bound."
-    new ""
+    new "Akhir Button 2: Terikat di kamar."
 
     # game/script.rpy:1204
     old "It said please..."
-    new ""
+    new "Dia mengatakan tolong..."
 
     # game/script.rpy:1268
     old "What's your name?"
-    new ""
+    new "Siapa namamu?"
 
     # game/script.rpy:1353
     old "Still coughing, Button shakes her head."
-    new ""
+    new "Masih batuk, Button menggelengkan kepalanya."
 
     # game/script.rpy:1426
     old "Blahaj senses a new potential friend!"
-    new ""
+    new "Blahaj merasakan adanya calon teman baru!"
 
     # game/script.rpy:1429
     old "Noot Noot stares suspiciously at Button."
-    new ""
+    new "Noot Noot menatap Button dengan curiga."
 
     # game/script.rpy:1432
     old "Filled with instant noodles, the only thing you can muster the effort to prepare nowadays."
-    new ""
+    new "Dipenuhi dengan mie instan, itu satu-satunya yang dapat Anda persiapkan saat ini."
 
     # game/script.rpy:1650
     old "Is she pretty?"
-    new ""
+    new "Bukankah dia cantik?"
 
     # game/script.rpy:1653
     old "Appearance doesn't matter."
-    new ""
+    new "Penampilan tidak penting."
 
     # game/script.rpy:1693
     old "Cute as a button!"
-    new ""
+    new "Imut seperti tombol!"
 
     # game/script.rpy:1734
     old "They're the most widely-consumed type, huh?"
-    new ""
+    new "Itu jenis yang paling banyak dikonsumsi, ya?"
 
     # game/script.rpy:1736
     old "I prefer Shiitake mushrooms."
-    new ""
+    new "Aku lebih suka jamut shiitake."
 
     # game/script.rpy:1762
     old "Cool, but... isn't that murder?"
-    new ""
+    new "Keren, tapi... bukannya itu pembunuhan?"
 
     # game/script.rpy:1796
     old "Should I really tell her everything?"
