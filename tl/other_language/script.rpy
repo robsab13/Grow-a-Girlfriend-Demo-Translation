@@ -9702,279 +9702,279 @@ translate other_language strings:
 
     # game/script.rpy:1796
     old "Should I really tell her everything?"
-    new ""
+    new "Apakah aku benar-benar harus menceritakan semuanya?"
 
     # game/script.rpy:1798
     old "Share your opinion about life, death, and meaning."
-    new ""
+    new "Berbagi opinimu tentang hidup, mati, dan tujuannya."
 
     # game/script.rpy:1800
     old "Not a good idea."
-    new ""
+    new "Bukan ide yang baik."
 
     # game/script.rpy:1882
     old "Why did I choose her?"
-    new ""
+    new "Kenapa aku memilihnya?"
 
     # game/script.rpy:1884
     old "Because she looked the cutest!"
-    new ""
+    new "Karena dia yang terlihat paling imut!"
 
     # game/script.rpy:1916
     old "Everything else was already taken."
-    new ""
+    new "Semua stoknya sudah habis."
 
     # game/script.rpy:1984
     old "Can you take Button out for a moment?"
-    new ""
+    new "Apakah Anda bisa mengajak Button keluar untuk sesaat?"
 
     # game/script.rpy:1986
     old "I can."
-    new ""
+    new "Aku bisa."
 
     # game/script.rpy:2002
     old "I can't! I can't! I CAN'T!!!"
-    new ""
+    new "Aku tidak bisa! Tidak bisa! TIDAK BISA!!!"
 
     # game/script.rpy:2142
     old "Can I put my worries aside and have fun with Button?"
-    new ""
+    new "Apakah aku bisa mengingkirkan kekhawatiranku dan bersenang-senang dengan Button?"
 
     # game/script.rpy:2144
     old "Yes."
-    new ""
+    new "Iya."
 
     # game/script.rpy:2150
     old "What do you think you're doing?"
-    new ""
+    new "Apa yang Anda pikir Anda lakukan?"
 
     # game/script.rpy:2152
     old "You can't salvage this. You can't just \"make it up\" to her."
-    new ""
+    new "Anda tidak bisa menyelamatkan ini. Anda tidak bisa \"menebusnya\" begitu saja."
 
     # game/script.rpy:2154
     old "Did you see her face?"
-    new ""
+    new "Apakah Anda lihat mukanya tadi?"
 
     # game/script.rpy:2156
     old "She's {sc=2}never{/sc} going to forget this. \nYou've already ruined this relationship."
-    new ""
+    new "Dia {sc=2}tidak akan pernah{/sc} melupakan ini. \nAnda sudah menghancurkan relasi ini."
 
     # game/script.rpy:2164
     old "No."
-    new ""
+    new "Tidak."
 
     # game/script.rpy:2195
     old "{sc=1}I'm glad you finally listened to me.{/sc}"
-    new ""
+    new "{sc=1}Saya senang Anda akhirnya mendengarkanku.{/sc}"
 
     # game/script.rpy:2198
     old "{sc=1}Now it's just you and me, and no one to interfere.{/sc}"
-    new ""
+    new "{sc=1}Sekarang hanyalah Anda dan Saya, dan tidak ada seorangpun yang dapat mengganggu.{/sc}"
 
     # game/script.rpy:2202
     old "Doesn't it feel so euphoric...? {sc=2}To hurt yourself like this...?{/sc}"
-    new ""
+    new "Bukankah ini sangat euforia...? {sc=2}Untuk menyakitimu sendiri seperti ini...?{/sc}"
 
     # game/script.rpy:2205
     old "To {sc=2}purposely{/sc} do things you hate? To deny yourself love? It's because..."
-    new ""
+    new "Untuk {sc=2}sengaja{/sc} melakukan apa yang Anda benci? Untuk menolak cinta untuk diri sendiri? Ini karena..."
 
     # game/script.rpy:2208
     old "{sc=1}You {color=#871d17}deserve{/color} it.{/sc}"
-    new ""
+    new "{sc=1}Anda {color=#871d17}pantas{/color} mendapatkannya.{/sc}"
 
     # game/script.rpy:2216
     old "Button End 3: Spore, unfortunate soul."
-    new ""
+    new "Akhir Button 3: Spora, jiwa yang malang."
 
     # game/script.rpy:2402
     old "Should I eat her now?"
-    new ""
+    new "Apakah aku sebaiknya makan dia sekarang?"
 
     # game/script.rpy:2404
     old "I'm hungry..."
-    new ""
+    new "Aku lapar..."
 
     # game/script.rpy:2523
     old "Button End 4: Fast food."
-    new ""
+    new "Akhir Button 4: Fast food."
 
     # game/script.rpy:2694
     old "With Button in your arms, you don't even realise it, but you've fallen asleep..."
-    new ""
+    new "Dengan Button di dalam pelukanmu, Anda tidak menyadari, tapi Anda sudah tertidur..."
 
     # game/script.rpy:2723
     old "At some point, without realising it, your eyes drift closed..."
-    new ""
+    new "Di suatu waktu, tanpa menyadarinya, mata Anda tertutup perlahan..."
 
     # game/script.rpy:2868
     old "Blahaj loves water too!"
-    new ""
+    new "Blahaj suka air juga!"
 
     # game/script.rpy:3475
     old "Anything I want to do?"
-    new ""
+    new "Ada yang ingin kamu lakukan?"
 
     # game/script.rpy:3478
     old "Die."
-    new ""
+    new "Mati."
 
     # game/script.rpy:3495
     old "Hug."
-    new ""
+    new "Peluk."
 
     # game/script.rpy:3574
     old "You wait until he falls asleep..."
-    new ""
+    new "Anda tunggu hingga ia tertidur..."
 
     # game/script.rpy:3602
     old "The following scenes contain descriptions and depictions of self-harm, suicidal ideation, and dismemberment."
-    new ""
+    new "Adegan berikutnya mengandung deskripsi dan penggambaran tentang tindakan menyakiti diri sendiri, pikiran bunuh diri, dan pemotongan anggota tubuh."
 
     # game/script.rpy:3729
     old "\"Help\" her."
-    new ""
+    new "\"Bantu\" dia."
 
     # game/script.rpy:3736
     old "Refuse."
-    new ""
+    new "Tolak."
 
     # game/script.rpy:3763
     old "Help her."
-    new ""
+    new "Bantu dia."
 
     # game/script.rpy:3770
     old "Refuse!"
-    new ""
+    new "Tolak!"
 
     # game/script.rpy:3808
     old "{sc=2}Help her."
-    new ""
+    new "{sc=2}Bantu dia."
 
     # game/script.rpy:3845
     old "{sc=3}PLEASE KILL ME!"
-    new ""
+    new "{sc=3}TOLONG BUNUH AKU!"
 
     # game/script.rpy:3852
     old "NO!"
-    new ""
+    new "TIDAK!"
 
     # game/script.rpy:3885
     old "{sc=4}{b}PLEASE!\nPLEASE!\nPLEASE!"
-    new ""
+    new "{sc=4}{b}KUMOHON!\nKUMOHON\nKUHOMON!"
 
     # game/script.rpy:3904
     old "{sc=2}NO!"
-    new ""
+    new "{sc=2}TIDAK!"
 
     # game/script.rpy:3913
     old "{sc=8}{b}{size=+50}PLEASE!{/size}"
-    new ""
+    new "{sc=8}{b}{size=+50}KUMOHON!{/size}"
 
     # game/script.rpy:4030
     old "{sc=8}{b}{size=+20}Please..."
-    new ""
+    new "{sc=8}{b}{size=+20}Kumohon..."
 
     # game/script.rpy:4034
     old "{b}{size=+100}THIS IS\nTOO MUCH"
-    new ""
+    new "{b}{size=+100}INI TERLALU\nBERLEBIHAN"
 
     # game/script.rpy:4053
     old "{move}{sc=8}{b}{size=+30}Why is this happening!?{/move}"
-    new ""
+    new "{move}{sc=8}{b}{size=+30}Kenapa ini terjadi!?{/move}"
 
     # game/script.rpy:4078
     old "{move}{b}{size=+150}I CAN'T SPEAK!{/move}"
-    new ""
+    new "{move}{b}{size=+150}AKU TIDAK BISA BICARA!{move}"
 
     # game/script.rpy:4088
     old "{move}{sc=8}{b}{size=+50}COME ON JUST SAY SOMETHING ALREADY!{/size}"
-    new ""
+    new "{move}{sc=8}{b}{size=+50}AYOLAH KATAKAN SESUATU!{/size}"
 
     # game/script.rpy:4093
     old "{size=+100}I CAN'T HANDLE THIS!"
-    new ""
+    new "{size=+100}AKU TIDAK BISA MENAHAN INI!"
 
     # game/script.rpy:4096
     old "{size=+100}HOW DO I SAY IT?"
-    new ""
+    new "{size=+100}BAGAIMANA CARA AKU MENGATAKANNYA?"
 
     # game/script.rpy:4099
     old "{size=+100}WHERE IS IT!?"
-    new ""
+    new "{size=+100}DIMANA ITU!?"
 
     # game/script.rpy:4103
     old "{size=+50}I JUST NEED TO FIND IT!"
-    new ""
+    new "{size=+50}AKU HANYA PERLU UNTUK MENEMUKANNYA!"
 
     # game/script.rpy:4107
     old "{size=+50}THE ABILITY TO SAY \"NO\"!?"
-    new ""
+    new "{size=+50}KEMAMPUAN UNTUK BILANG \"TIDAK\"!?"
 
     # game/script.rpy:4119
     old "{color=#8B0000}PLEASE GOD WHY WON'T HE LISTEN? WHY WON'T HE HELP ME? I WANT THE SUFFERING TO END. MY CHEST HURTS. MY BODY HURTS. I WANT TO STOP THINKING. \nI HATE EVERYTHING. I HATE MYSELF. I HATE YOU.\n WHY WHY WHY? I HATE LIFE. I HATE EXISTING. \n SOMEONE PLEASE END ME ALREADY!\n SOMEONE! PLEASE! HELP ME! HELP! HELP! \nNOBODY UNDERSTANDS ME! I'M WORTHLESS!\nIT'S ALL HOPELESS! NOTHING MATTERS!\nI WANNA DIE I WANNA DIE I WANNA DIE\nI WANNA DIE I WANNA DIE\n I WANNA DIE I WANNA DIE\n I WANNA DIE I WANNA DIE I WANNA DIE\n BUT IF NO ONE WILL HELP ME I GUESS I'LL JUST\nJUST END MYSELF! A WORTHLESS PRODUCT!\nI'M GOING TO CUT MYSELF TO PIECES!\nI'M GOING TO KILL MYSELF!\n EVERYTHING WAS A MISTAKE I WISH I COULD\nJUST GO BACK TO HAVING NEVER MET YOU. WHY COULDN'T I JUST BE HAPPIER? I FEEL SO GUILTY FOR FEELING SO BAD\n BUT I CAN'T RECOVER IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE IT'S TOO LATE"
-    new ""
+    new "{color=#8B0000}TOLONG TUHAN KENAPA DIA TIDAK MAU DENGAR? KENAPA TIDAK TAU MAU BANTU AKU? AKU MAU KESENGSARAAN INI SELESAI. DADAKU SAKIT. BADANKU SAKIT. AKU MAU BERHENTI BERPIKIT.\nAKU BENCI SEMUANYA. AKU BENCI AKU SENDIRI. AKU BENCI KAMU.\nKENAPA KENAPA KENAPA? AKU BENCI HIDUP. AKU BENCI DISINI.\nSIAPAPUN TOLONG SELESAIKAN AKU SUDAH!\nSIAPAPUN! KUMOHON! TOLONG AKU! TOLONG! TOLONG!\nTIDAK ADA YANG MENGERTI AKU! AKU TAK BERHARGA!\nSEMUA INI TIDAK ADA HARAPAN! SEMUANYA TIDAK BERARTI!\nAKU MAU MATI AKU MAU MATI AKU MAU MATI\nAKU MAU MATI AKU MAU MATI\nAKU MAU MATI AKU MAU MATI\nAKU MAU MATI AKU MATI MATI AKU MAU MATI\nTAPI JIKA TIDAK ADA SIAPAPUN YANG AKAN MEMBANTUKU AKU PIKIR AKU HANYA\nAKAN AKHIRI INI SENDIRI! PRODUK MURAHAN!AKU AKAN POTONG AKU SENDIRI KECIL-KECIL\nAKU AKAN BUNUH DIRI!\nSEMUA INI KESALAHN AKU BERHADAP AKU BISA\nKEMBALI UNTUK TIDAK BERTEMU KAMU. KENAPA AKU TIDAK BISA LEBIH SENANG? AKU MERASA BERSALAH MERASAKAN INI\nTAPI AKU TIDAK BISA PULIH INI SUDAH TELAT INI SUDAH TELAT INI SUDAH TELAT INI SUDAH TELAT INI SUDAH TELAT INI SUDAH TELAT INI SUDAH TELAT"
 
     # game/script.rpy:4120
     old "{color=#8B0000}THIS IS A NIGHTMARE AND I JUST WANT IT TO END.\n   I CAN REMEMBER BEING HAPPY BUT I CAN NEVER GO BACK.\n  I TRIED SO HARD BUT I'M AT MY BREAKING POINT\nTHERE WAS SO MUCH I WANTED TO DO\n  IT HURTS TO THINK ABOUT IT\nI'M SORRY! I'M SORRY! I'M SORRY! I'M A\n   E M P T Y    B R O K E N    D E A D    A P A T H Y  \nP A I N    S T R E S S E D   I WANNA DISAPPEAR AND NEVER REMEMBER ANYTHING AGAIN \n I HATE THAT I'M SO SAD \n I'M OVER THIS! I'M OVER EVERYTHING!\n   I HATE THE WORLD NOTHING CAN MAKE ME HAPPY\n     WHO'S FAULT IS IT? I DON'T CARE IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS \n IT HURTS SO MUCH IT HURTS SO MUCH IT HURTS"
-    new ""
+    new "{color=#8B0000}INI HANYA MIMPI BURUK DAN AKU MAU INI UNTUK BERAKHIR.\n  AKU BISA INGAT WAKTU SENANG TAPI AKU TIDAK AKAN BISA KEMBALI.\n  AKU SUDAH COBA SEKUAT TENAGAKU TAPI AKU DI BERADA DI UJUNG TANDUKKU.\nADA BANYAK YANG AKU MAU LAKUKAN\nSAKIT UNTUK AKU PIKIRKAN\nAKU MINTA MAAF! AKU MINTA MAAF! AKU MINTA MAAF! AKU\n K O S O N G    H A N C U R    M A T I    A P A T I S\nS A K I T    S T R E S   AKU MAU HILANG DAN TIDAK MENGINGAT APAPUN LAGI\nAKU BENCI KARENA AKU SEDIH\nAKU MUAK! AKU MUAK SEMUANYA!\nAKU BENCI DUNIA INI TIDAK ADA APAPUN YANG BISA MEMBUATKU SENANG\n  SIAPA YANG SALAH? AKU TIDAK PEDULI INI SAKIT\n INI SAKIT SEKALI INI SAKIT SEKALI INI SAKIT\n INI SAKIT SEKALI INI SAKIT SEKALI INI SAKIT\n INI SAKIT SEKALI INI SAKIT SEKALI INI SAKIT\n INI SAKIT SEKALI INI SAKIT SEKALI INI SAKIT"
 
     # game/script.rpy:4122
     old "{color=#FFFFFF}I hate you."
-    new ""
+    new "{color=#FFFFFF}Aku benci kamu."
 
     # game/script.rpy:4146
     old "{size=+150}{color=#7C3333}STOP I'M SO SORRY PLEASE STOP!"
-    new ""
+    new "{size=+150}{color=#7C3333}HENTIKAN AKU SANGAT MINTA MAAF TOLONG HENTIKAN!"
 
     # game/script.rpy:4148
     old "{size=+100}{color=#AA3D3D}AAAAAAA AAAAHH HHHHH"
-    new ""
+    new "{size=+100}{color=#AA3D3D}AAAAAAA AAAAHH HHHHH"
 
     # game/script.rpy:4150
     old "{size=+200}{color=#AA3D3D}I'M SO SORRY! I'M SO SORRY! I'M SO SORRY!"
-    new ""
+    new "{size=+200}{color=#AA3D3D}AKU SANGAT MINTA MAAF! AKU SANGAT MINTA MAAF! AKU SANGAT MINTA MAAF!"
 
     # game/script.rpy:4151
     old "{size=+100}{color=#AA3D3D}AAAA  A AAA AAAAAAA AAAAAAAAAAA  AAAAAAAAAA AAAAAA  AAAA  AAAAAA AAAAAAAA AAAAAAAAAAAAAA AA"
-    new ""
+    new "{size=+100}{color=#AA3D3D}AAAA  A AAA AAAAAAA AAAAAAAAAAA  AAAAAAAAAA AAAAAA  AAAA  AAAAAA AAAAAAAA AAAAAAAAAAAAAA AA"
 
     # game/script.rpy:4153
     old "{size=+150}{color=#AA3D3D}A   AA AAA AAA A  AAAA AAAAA  AA AAAA AAAAAAAAAAAAA     AAAAAAAAAAA     AAA"
-    new ""
+    new "{size=+150}{color=#AA3D3D}A   AA AAA AAA A  AAAA AAAAA  AA AAAA AAAAAAAAAAAAA     AAAAAAAAAAA     AAA"
 
     # game/script.rpy:4155
     old "{size=+500}{color=#AA3D3D}I HATE YOU I HATE YOU I HATE YOU I HATE YOU I HATE YOU"
-    new ""
+    new "{size=+500}{color=#AA3D3D}AKU BENCI KAMU AKU BENCI KAMU AKU BENCI KAMU AKU BENCI KAMU AKU BENCI KAMU"
 
     # game/script.rpy:4156
     old "{size=+150}{color=#AA3D3D}OH MY GOD! YOU'RE-! I-I DON'T-!"
-    new ""
+    new "{size=+150}{color=#AA3D3D}YATUHAN! KAMU-! A-AKU TIDAK-!"
 
     # game/script.rpy:4158
     old "{size=+500}{color=#AA3D3D}WHY WHY WHY!?"
-    new ""
+    new "{size=+500}{color=#AA3D3D}KENAPA KENAPA KENAPA!?"
 
     # game/script.rpy:4167
     old "{color=#FFFFFF}It's not your fault, is it?"
-    new ""
+    new "{color=#FFFFFF}Ini bukan salahmu, kan?"
 
     # game/script.rpy:4169
     old "{color=#FFFFFF}You tried so hard..."
-    new ""
+    new "{color=#FFFFFF}Anda sudah coba dengan keras..."
 
     # game/script.rpy:4171
     old "{color=#FFFFFF}Maybe you can fix your mistakes next time."
-    new ""
+    new "{color=#FFFFFF}Mungkin Anda bisa membetulkan kesalahan Anda di lain kesempatan."
 
     # game/script.rpy:4173
     old "{sc=1}You open up your laptop once more."
-    new ""
+    new "{sc=1}Anda membuka laptop Anda sekali lagi."
 
     # game/script.rpy:4181
     old "Button End 9: Truffled mind."
-    new ""
+    new "Akhir Button 9: Pikiran menjamur."
 
     # game/script.rpy:4271
     old "You can't stop your hands from {sc=2}shaking{/sc}. You can't look away from her smiling face."
@@ -10010,27 +10010,27 @@ translate other_language strings:
 
     # game/script.rpy:4300
     old "Button End 8: Morel dilemma."
-    new ""
+    new "Akhir Button 8: Dilema morel."
 
     # game/script.rpy:4393
     old "Those wide eyes are always watching for anything inappropriate."
-    new ""
+    new "Banyak mata yang selalu melihat apapun yang tidak pantas."
 
     # game/script.rpy:4396
     old "Sometimes, you like it raw."
-    new ""
+    new "Terkadang, Anda suka yang mentah."
 
     # game/script.rpy:4415
     old "Am I eating her tonight?"
-    new ""
+    new "Apakah aku memakannya malam ini?"
 
     # game/script.rpy:4419
     old "Ok..."
-    new ""
+    new "Ok..."
 
     # game/script.rpy:4528
     old "Button End 5: That's yummy! No cap."
-    new ""
+    new "Akhir Button 5: Ini enak! Tidak bohong."
 
     # game/script.rpy:4542
     old "I don't want to."
@@ -10122,7 +10122,7 @@ translate other_language strings:
 
     # game/script.rpy:5486
     old "Button End 7: I'm sorry."
-    new ""
+    new "Akhir Button 7: Aku minta maaf."
 
     # game/script.rpy:5569
     old "After the last 3 days, how could you just go back to mindlessly watching shows?"
@@ -10158,5 +10158,5 @@ translate other_language strings:
 
     # game/script.rpy:5746
     old "Button End 6: Goodbye Button, my new friend."
-    new ""
+    new "Akhir Button 6: Sampai jumpa Button, teman baruku."
 
