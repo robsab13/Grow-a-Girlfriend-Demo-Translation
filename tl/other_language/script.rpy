@@ -9786,7 +9786,7 @@ translate other_language strings:
 
     # game/script.rpy:2216
     old "Button End 3: Spore, unfortunate soul."
-    new "Akhir Button 3: Spora, jiwa yang malang."
+    new "Akhir Button 3: Jiwa yang malang dan lemah."
 
     # game/script.rpy:2402
     old "Should I eat her now?"
@@ -9978,35 +9978,35 @@ translate other_language strings:
 
     # game/script.rpy:4271
     old "You can't stop your hands from {sc=2}shaking{/sc}. You can't look away from her smiling face."
-    new ""
+    new "Anda tidak bisa mengentikan tangan Anda dari {sc=2}gemetar{/sc}. Anda tidak bisa menoleh dari senyumannya."
 
     # game/script.rpy:4274
     old "You don't know why this had to happen. But it's over. It's over."
-    new ""
+    new "Anda tidak tau kenapa ini harus terjadi. Tapi ini sudah selesai. Sudah selesai."
 
     # game/script.rpy:4277
     old "Now you understand how it feels to be surrounded by sadness. Why people stopped talking to you."
-    new ""
+    new "Sekarang Anda mengerti bagaimana rasanya dikelilingi oleh kesedihan. Kenapa orang berhenti mengobrol denganmu."
 
     # game/script.rpy:4280
     old "Because in a horrible way, you feel..."
-    new ""
+    new "Karena dalam pandangan yang buruk, Anda merasa..."
 
     # game/script.rpy:4283
     old "...{i}glad{/i} that she's finally gone."
-    new ""
+    new "...{i}lega{/i} bahwa dia akhirnya tiada."
 
     # game/script.rpy:4286
     old "It's a despicable kind of relief."
-    new ""
+    new "Ini adalah jenis kelegaan yang menjijikkan."
 
     # game/script.rpy:4289
     old "You're glad to be alone again."
-    new ""
+    new "Anda senang untuk kembali sendiri."
 
     # game/script.rpy:4292
     old "Alone... with {sc=2}{color=#871d17}me{/color}.{/sc}"
-    new ""
+    new "Sendiri... bersama {sc=2}{color=#871d17}Saya{/color}.{/sc}"
 
     # game/script.rpy:4300
     old "Button End 8: Morel dilemma."
@@ -10034,91 +10034,91 @@ translate other_language strings:
 
     # game/script.rpy:4542
     old "I don't want to."
-    new ""
+    new "Aku tidak mau."
 
     # game/script.rpy:4859
     old "Even though you tried to stay up, you drift off..."
-    new ""
+    new "Walaupun Anda mencoba untuk tetap bangun, Anda perlahan tertidur..."
 
     # game/script.rpy:4915
     old "You don't track how often you drink. Apparently, you're supposed to."
-    new ""
+    new "Anda tidak memantau sebarapa sering Anda minum. Ternyata, seharusnya Anda pantau."
 
     # game/script.rpy:5104
     old "Should you do it?"
-    new ""
+    new "Apakah aku lebih baik melakukannya?"
 
     # game/script.rpy:5107
     old "Kiss her."
-    new ""
+    new "Cium dia."
 
     # game/script.rpy:5186
     old "Bad idea."
-    new ""
+    new "Ide buruk."
 
     # game/script.rpy:5274
     old "Is this really it?"
-    new ""
+    new "Apakah ini benar-benar?"
 
     # game/script.rpy:5276
     old "She's ready. I am too."
-    new ""
+    new "Dia sudah siap. Aku juga."
 
     # game/script.rpy:5298
     old "I want you to live another day!"
-    new ""
+    new "Aku mau kamu hidup satu hari lagi."
 
     # game/script.rpy:5339
     old "You're having second thoughts..."
-    new ""
+    new "Anda berpikir dua kali..."
 
     # game/script.rpy:5341
     old "I have to listen. I have to do it."
-    new ""
+    new "Anda harus dengar. Aku harus melakukannya."
 
     # game/script.rpy:5358
     old "I'm not giving up like this!"
-    new ""
+    new "Aku tidak akan putus asa seperti ini!"
 
     # game/script.rpy:5387
     old "You hold Button in your arms while you sleep..."
-    new ""
+    new "Anda memegang Button di tanganmu saat Anda tidur..."
 
     # game/script.rpy:5391
     old "But you're stirred awake."
-    new ""
+    new "Tapi Anda tergerak bangun."
 
     # game/script.rpy:5415
     old "The following scene shows beheading."
-    new ""
+    new "Adegan berikutnya menunjukkan pemenggalan kepala."
 
     # game/script.rpy:5432
     old "What are you waiting for!? DO IT!"
-    new ""
+    new "Apa yang kamu tunggu!? LAKUKAN!"
 
     # game/script.rpy:5434
     old "I HAVE TO KILL HER!"
-    new ""
+    new "AKU HARUS BUNUH DIA!"
 
     # game/script.rpy:5466
     old "{sc=1}Why were you so selfish?{/sc}"
-    new ""
+    new "{sc=1}Kenapa kamu sangat egois?{/sc}"
 
     # game/script.rpy:5469
     old "{sc=1}{/sc}You're so ashamed that you can't bring yourself to eat her."
-    new ""
+    new "{sc=1}{/sc}Kamu sangat malu sampai Anda tidak bisa membuatmu untuk mekanannya."
 
     # game/script.rpy:5473
     old "{sc=1}{/sc}You'd kissed her yesterday. Now, her dead face stares at you, those lips agape mid-scream."
-    new ""
+    new "{sc=1}{/sc}Anda sudah cium dia kemarin. Sekarang, wajahnya yang mati menatap Anda, bibirnya menganga di tengah jeritan."
 
     # game/script.rpy:5475
     old "You're not even crying because she's {sc=1}dead."
-    new ""
+    new "Anda tidak nangis karena dia {sc=1}mati."
 
     # game/script.rpy:5478
     old "You're crying because you're scared {sc=2}{color=#871d17}she didn't forgive you."
-    new ""
+    new "Anda mengangis karena Anda takut {sc=2}{color=#871d17}dia tidak memaafkanmu."
 
     # game/script.rpy:5486
     old "Button End 7: I'm sorry."
@@ -10126,35 +10126,35 @@ translate other_language strings:
 
     # game/script.rpy:5569
     old "After the last 3 days, how could you just go back to mindlessly watching shows?"
-    new ""
+    new "Setelah tiga hari belakangan ini, bagaimana mungkin Anda bisa kembali menonton acara tanpa ada pikiran?"
 
     # game/script.rpy:5572
     old "Noot Noot is embarrassed to admit he will miss Button."
-    new ""
+    new "Noot Noot malu untuk mengakui dia akan rindu Button."
 
     # game/script.rpy:5575
     old "Blahaj is ready to comfort you."
-    new ""
+    new "Blahaj siap untuk menenangkanmu."
 
     # game/script.rpy:5578
     old "What are you supposed to do with this now?"
-    new ""
+    new "Apa yang Anda akan lakukan dengan ini sekarang?"
 
     # game/script.rpy:5581
     old "You won't be needing these for a while."
-    new ""
+    new "Anda tidak akan perlu ini untuk beberapa lama."
 
     # game/script.rpy:5598
     old "Noot Noot can't look."
-    new ""
+    new "Noot Noot tidak bisa lihat."
 
     # game/script.rpy:5601
     old "The shark longs for the smell of blood."
-    new ""
+    new "Hiu ini merindukan bau darah."
 
     # game/script.rpy:5618
     old "The following scene depicts and describes beheading."
-    new ""
+    new "Adegan berikut ini menggambarkan dan menjelaskan pemenggalan kepala."
 
     # game/script.rpy:5746
     old "Button End 6: Goodbye Button, my new friend."
