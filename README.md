@@ -65,19 +65,19 @@ Note: Translate "screens.rpy" first, otherwise the buttons to start the game etc
 
 # Common testing problems:
 1. If the game suddenly plays in English in the NotoSans font, you have accidentally deleted a " at the beginning or end of your translations. Adding them back and saving will fix it.
-2. If squares appear instead of letters, the font being used doesn't have the characters for your language! Email me a screenshot of showing the squares and I'll fix that for you.
+2. If squares appear instead of letters, the font being used doesn't have the characters for your language! Email me a screenshot of showing the squares and I'll fix that for you. Or to do it yourself, download a compatiable font, go to your language folder and make a new folder called "fonts", and put the ".ttl" file there. Then open "translation_testing.rpy" and replace the "NotoSans-Regular.ttf" fonts with your exact font name, and save! 
 
 # Step 4: Images
 The image folder contains all images that have English text. Replacing these images with your language will make it easier for players using your translation, but it takes effort and some skill, so if you struggle with image editing, I am willing to do it for you once you translate the necessary files: All you have to do then is open "Image translation text.txt" and put in the exact translations next to each line.
 
 Else, if you want to do it yourself, one way of doing it is opening an image in an image editor, covering all English text with the same colour as the background, inserting translated text on top of it, and saving it so it overwrites the original. Do not change the image's dimensions, else it will not display properly.
 
-If you choose to translate the images yourself, please save the translated images WITH THE SAME NAME as its original, and place it in your translation language folder.
+If you choose to translate the images yourself, ensure the translated images have THE SAME NAME as its original, and place it in your translation language folder.
 
 --------------------------------------
    
 # Step 5: Send it to me
-When you have finished translating, preferably create a fork and a pull request for my repo so that I can incorporate the changes automatically. Alternatively, if you do not know how to do that please email me at true.blue.eyes@icloud.com with your updated folder. In your email, please include all the volunteers names as they would like it to be shown in the credits. If you want me to edit images for you, please also include the translation for each image.
+When you have finished translating, preferably create a fork and a pull request for my repo so that I can incorporate the changes automatically. Alternatively, if you do not know how to do that, please email me at true.blue.eyes@icloud.com with your updated folder. In your email, please include all the volunteers names as they would like it to be shown in the credits. If you want me to edit images for you, make sure you include "Image translation text.txt" with the translations!
 
 After I play play test it, communicate with you, and solve any issues, I'll add your translation to the official demo and add you to the credits!
 
