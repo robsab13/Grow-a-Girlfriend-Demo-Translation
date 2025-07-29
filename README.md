@@ -50,7 +50,9 @@ Some sentences have text effects like bold{b}, italic{i}, shake{sc=1}, sized up/
 
 --------------------------------------
 
-Note on the "common.rpy" file: Translating this file is optional. You can ignore it, translate some, or all if you want. It is mostly for debugging and will likely never been seen by the player. If you are up to it, I recommend that you only translate the months, days and save/load text (These can be found around line 150, or if you ctrl+F search for old "{#weekday}Monday". This will show on the save and load screen.
+Note on the "common.rpy" file: Translating this file is annoying. You can translate some or all if you want. MOST of it is for debugging and will likely never been seen by the player. But I recommend that you translate at least:
+1. the months, days and save/load text (These can be found around line 150, or if you ctrl+F search for "{#weekday}Monday". This will show on the save and load screen.
+2. From line 446 - 500, which show during overwriting saves, loading, and going to main menu. (ctrl+F search for "Are you sure?")
 
 --------------------------------------
 # Testing:
