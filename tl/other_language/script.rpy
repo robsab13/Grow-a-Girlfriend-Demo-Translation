@@ -3190,13 +3190,13 @@ translate other_language leavehouse_98ff3a29:
 translate other_language leavehouse_8e775b82:
 
     # "She stares at EVERYTHING - buildings, sidewalks, recycling bins, cars... she even smiles and waves to passing people! Ugh."
-    "Dia melihat ke SEGALANYA - bagunan, pinggiran jalan, tong sampah, mobil... dia juga senyum dan melambai ke orang yang lewat! Ugh."
+    "Dia melihat ke SEGALANYA - bangunan, pinggiran jalan, tong sampah, mobil... dia juga senyum dan melambai ke orang yang lewat! Ugh."
 
 # game/script.rpy:2261
 translate other_language leavehouse_6a701210:
 
     # "It's too obvious. It's embarrassing."
-    "Itu sangahlah jelas. Sungguh memalukan."
+    "Ini terlalu nampak jelas. Sungguh memalukan."
 
 # game/script.rpy:2262
 translate other_language leavehouse_c15826b1:
@@ -3208,7 +3208,7 @@ translate other_language leavehouse_c15826b1:
 translate other_language leavehouse_4e261b0f:
 
     # "One passerby compliments her \"cosplay\". She beams back confusedly. You'll have to explain the concept later."
-    "Satu pejalan kaki memujinya untuk \"cosplaynya\". Dia menoleh bingung. Anda harus menjelaskan konsep tersebut nanti."
+    "Satu pejalan kaki memujinya untuk \"cosplay\"-nya. Dia menoleh bingung. Anda harus menjelaskan konsep tersebut nanti."
 
 # game/script.rpy:2264
 translate other_language leavehouse_7e2c269a:
@@ -3232,7 +3232,7 @@ translate other_language leavehouse_8cc85c82:
 translate other_language leavehouse_3bf8734f:
 
     # "She watches the children from afar and mimics their play, rolling around on the hills and screaming with delight."
-    "Dua melihat anak-anak tersebut dan mencoba meniru permainan mereka, bergelinding di atas perbukitan dan berteriak kegirangan."
+    "Dia melihat anak-anak tersebut dan mencoba meniru permainan mereka, bergelinding di atas perbukitan dan berteriak kegirangan."
 
 # game/script.rpy:2277
 translate other_language leavehouse_c32f17ee:
@@ -3250,7 +3250,7 @@ translate other_language leavehouse_fd718669:
 translate other_language leavehouse_15911943:
 
     # m "Your clothes are going to get dirty."
-    m "Pakaianmu akan menjadi kotor."
+    m "Pakaianmu akan kotor."
 
 # game/script.rpy:2286
 translate other_language leavehouse_eb809b9f:
@@ -3274,7 +3274,7 @@ translate other_language leavehouse_f8a4e96c:
 translate other_language leavehouse_11ae7d6f:
 
     # "The both of you roll down the hill. Despite your initial dislike of the childish activity, you've got to admit:"
-    "Anda berdua bergelinding ke bawah bukit. Walaupun Anda awalnya tidak suka aktivitas kenakan-kanakan ini, Anda harus mengakui:"
+    "Anda berdua bergelinding ke bawah bukit. Walaupun Anda awalnya tidak suka aktivitas kekanak-kanakan ini, Anda harus mengakui:"
 
 # game/script.rpy:2293
 translate other_language leavehouse_39777f36:
@@ -3358,7 +3358,7 @@ translate other_language leavehouse_2fad6346:
 translate other_language leavehouse_2bf3bbf1:
 
     # b "The outside is AMAZING!"
-    b "Luar sangatlah HEBAT!"
+    b "Di luar sangatlah HEBAT!"
 
 # game/script.rpy:2363
 translate other_language leavehouse_383bd91f:
@@ -3412,7 +3412,7 @@ translate other_language leavehouse_3b89fb22:
 translate other_language leavehouse_50fa5fcb:
 
     # m "Now?... Um, just lie down and recharge, honestly. If that's ok."
-    m "Sekarang?... Um, hanya berbaring dan {i}recharge{/i}, sejujurnya. Jika itu ok untukmu."
+    m "Sekarang?... Um, hanya berbaring dan istirahat, sejujurnya. Jika itu ok untukmu."
 
 # game/script.rpy:2381
 translate other_language leavehouse_898e97f4:
@@ -3424,13 +3424,13 @@ translate other_language leavehouse_898e97f4:
 translate other_language leavehouse_78f1208b:
 
     # m "More like... I need to relax for a while after all the excitement."
-    m "Lebih seperti... Aku butuh rileks untuk sesaat setelah semua kegirangan."
+    m "Lebih seperti... Aku butuh rileks sejenak setelah semua keseruan tadi."
 
 # game/script.rpy:2385
 translate other_language leavehouse_72517409:
 
     # b "Then let's lie down together! A lil snuggie will help you recharge!"
-    b "Kalau begitu mari berbaring bersama! Sedikit berbaring sambil berpelukan akan membantumu {i}recharge{/i}!"
+    b "Kalau begitu mari berbaring bersama! Sedikit berbaring dan berpelukan akan membantumu {i}recharge{/i}!"
 
 # game/script.rpy:2387
 translate other_language leavehouse_28bd1877:
@@ -3670,7 +3670,7 @@ translate other_language leavehouse_5b49266f:
 translate other_language leavehouse_c25c841b:
 
     # b "Yup! I'm ready anytime you want to eat me!"
-    b "Yap! Aku bersedia kapanpun kamu mau makan aku!"
+    b "Yap! Aku bersedia kapanpun kamu mau!"
 
 # game/script.rpy:2468
 translate other_language leavehouse_6861974f:
@@ -3730,13 +3730,13 @@ translate other_language leavehouse_61201179:
 translate other_language leavehouse_a828fc20:
 
     # "Once it's diced up, you really can't tell it used to be her face."
-    "Setelah sudah dipotong dadu, Anda tidak bisa membedakan dengan wajahnya yang dulu."
+    "Setelah dipotong dadu, Anda tidak bisa membedakan dengan wajahnya yang dulu."
 
 # game/script.rpy:2485
 translate other_language leavehouse_205eea19:
 
     # "Isn't this messed up?"
-    "Bukankah ini suatu yang kacau?"
+    "Bukankah ini kacau?"
 
 # game/script.rpy:2486
 translate other_language leavehouse_43d63a0a:
@@ -4804,7 +4804,7 @@ translate other_language park_a9b926bf:
 translate other_language park_c8a996b3:
 
     # "You can't stand the attention that Button's outfit is gathering. {sc=3}{color=#000000}The Stares!{/sc}"
-    "Anda tidak kuat dengan perhatian yang ditimbulkan oleh pakaian Button. {sc=3}{color=#000000}Tatapannya!{/sc}"
+    "Anda tidak kuat dengan perhatian yang ditimbulkan oleh penampilan Button. {sc=3}{color=#000000}Tatapannya!{/sc}"
 
 # game/script.rpy:2940
 translate other_language park_2f8607fb:
@@ -4834,13 +4834,13 @@ translate other_language park_c4f76045:
 translate other_language park_2163498d:
 
     # "You feel anxious as you watch her try to play there, despite being a fully-grown adult."
-    "Anda merasa cemas saat menontonnya mencoba bermain di sana, walaupun dia sepenuhnya dewasa."
+    "Anda merasa cemas saat menontonnya mencoba bermain di sana, walaupun dia sudah sepenuhnya dewasa."
 
 # game/script.rpy:2957
 translate other_language park_1011626c:
 
     # "She's soon caught the attention of two kids on the slide, one of whom starts asking her what exactly she's supposed to be."
-    "Tidak lama kemudian dia menarik perhatian dua anak di perosota, salah satunya mulai bertanya apa dia semestinya."
+    "Tidak lama kemudian dia menarik perhatian dua anak di perosota, salah satunya mulai bertanya apakah dia semestinya."
 
 # game/script.rpy:2960
 translate other_language park_850ef128:
@@ -5224,13 +5224,13 @@ translate other_language park_e629b92c:
 translate other_language park_c6d2647b:
 
     # na "I heard you're not feeling that great. Don't worry, it's on the house."
-    na "Saya dengan Anda tidak merasa begitu baik. Tidak perlu khawatir, sudah Saya siapkan."
+    na "Saya dengar Anda tidak merasa begitu baik. Tidak perlu khawatir, sudah Saya siapkan."
 
 # game/script.rpy:3093
 translate other_language park_3c8b81ad:
 
     # "She promptly hands you a fresh hotdog."
-    "Dia kemudian menyodorkan sebuah hotdog yang masih hangat."
+    "Kemudian sebuah hotdog yang masih hangat disodorkan olehnya."
 
 # game/script.rpy:3094
 translate other_language park_622ec6e7:
@@ -5260,7 +5260,7 @@ translate other_language park_dc0346be:
 translate other_language park_3ff51a91:
 
     # b "Then she took a loooong look at you and said you \"certainly looked sick!\"."
-    b "Lalu dia melihat ke kamu yang laaaama dan berkata \"tentunya keliatan sakit!\"."
+    b "Lalu dia melihat laaama ke arah kamu dan berkata \"sepertinya betul keliatan sakit!\"."
 
 # game/script.rpy:3103
 translate other_language park_850ef128_3:
@@ -5338,19 +5338,19 @@ translate other_language park_46da0dff:
 translate other_language park_32f73a70:
 
     # b "But... why? Why kill something so cute, so innocently adorable?"
-    b "Tapi... kenapa? Kenapa bunuh sesuatu yang imut, sangat polos."
+    b "Tapi... kenapa? Kenapa bunuh suatu yang imut, sangat polos."
 
 # game/script.rpy:3128
 translate other_language park_77b051b9:
 
     # b "It's awful..."
-    b "Itu menerikan..."
+    b "Itu mengerikan..."
 
 # game/script.rpy:3130
 translate other_language park_731e73c1:
 
     # m "Are you talking about yourself? I don't have to-"
-    m "Apakah kamu berbicara tentang kamu sendiri? Aku tidak harus-"
+    m "Apa kamu berbicara tentang kamu sendiri? Aku tidak harus-"
 
 # game/script.rpy:3132
 translate other_language park_df44d03d:
@@ -5362,7 +5362,7 @@ translate other_language park_df44d03d:
 translate other_language park_dfb87501:
 
     # b "You know I want you to eat me!"
-    b "Kamu tau aku mau kamu makan aku!"
+    b "Kamu tau aku mau dimakan olehmu!"
 
 # game/script.rpy:3136
 translate other_language park_9c6e37e7:
@@ -5422,25 +5422,25 @@ translate other_language park_5d675163:
 translate other_language park_91c24dca:
 
     # m "Those are two separate things. They're animals, yes. We've domesticated them for our food."
-    m "Mereka dua hal yang berbeda. Mereka hewan, iya. Manusia sudah menternakkan mereka untuk makanan."
+    m "Mereka dua hal yang berbeda. Mereka hewan, iya. Manusia sudah menternakkannya untuk makanan."
 
 # game/script.rpy:3154
 translate other_language park_82b753f7:
 
     # m "Even so, how they're treated is still unethical in my opinion..."
-    m "Walaupun begitu, bagaimana mereka dirawat masih kurang etis menurutku..."
+    m "Walaupun begitu, cara mereka dirawat masih kurang etis menurutku..."
 
 # game/script.rpy:3156
 translate other_language park_3b1c08a6:
 
     # b "I'm kinda lost."
-    b "Aku merasa belum paham."
+    b "Aku kurang paham."
 
 # game/script.rpy:3158
 translate other_language park_89263d33:
 
     # b "But if it's not a dog, it's ok!"
-    b "Tapi jika mereka bukan anjing, itu baik-baik saja!"
+    b "Tapi jika mereka bukan anjing, itu tidak apa-apa!"
 
 # game/script.rpy:3161
 translate other_language park_2257ccba:
@@ -6754,7 +6754,7 @@ translate other_language killher_37aa2ed2:
 translate other_language killher_30b26dd6:
 
     # b "Nah... It feels sooooo much nicer when you do it!"
-    b "Enggak... Rasanya jaaaaaug lebih baik saat kamu yang melakukannya!"
+    b "Enggak... Rasanya jaaaaauh lebih baik saat kamu yang melakukannya!"
 
 # game/script.rpy:4407
 translate other_language day1_watered_4_19adf484:
@@ -6958,7 +6958,7 @@ translate other_language day1_watered_4_f16d2bd6:
 translate other_language day1_watered_4_7eb7b9ee:
 
     # "Its nutritious, comforting juices spread over your tongue, instantly dissipating your mournful thoughts."
-    "Kuah saus yang bernutrisi dan memenangkan menyebar di lidahmu, seketika perasaan sedihmu menghilang."
+    "Kuah saus yang bernutrisi dan menenangkan menyebar di lidahmu, seketika perasaan sedihmu menghilang."
 
 # game/script.rpy:4518
 translate other_language day1_watered_4_c9772a96:
@@ -7144,7 +7144,7 @@ translate other_language day1_watered_4_6d6eb4b9:
 translate other_language day1_watered_4_3e303240:
 
     # m "Yeah... I guess I would too."
-    m "Iya... Aku kira aku juga."
+    m "Iya... Aku kira juga."
 
 # game/script.rpy:4596
 translate other_language day1_watered_4_d177536a:
@@ -7162,7 +7162,7 @@ translate other_language day1_watered_4_7fe99276:
 translate other_language pizza_ae471c6c:
 
     # b "So you're going to eat noodles? You didn't seem that excited about it though."
-    b "Jadi aku akan makan mie instan? Tapi sepertinya kamu tidak terlihat antusias."
+    b "Jadi kamu akan makan mie instan? Tapi sepertinya kamu tidak terlihat antusias."
 
 # game/script.rpy:4609
 translate other_language pizza_ab13a212:
@@ -7174,7 +7174,7 @@ translate other_language pizza_ab13a212:
 translate other_language pizza_e3caa20f:
 
     # b "Then why don't you treat yourself!? Get something that makes you smile on the outside and inside!"
-    b "Kalau begitu kenapa tidak membeli untukmu sendiri? Makanan yang akan membuatnya senang di luar dan di dalam!"
+    b "Kalau begitu kenapa tidak membeli untukmu sendiri? Makanan yang akan membuatmu senang di luar dan di dalam!"
 
 # game/script.rpy:4613
 translate other_language pizza_639924ad:
@@ -7198,7 +7198,7 @@ translate other_language pizza_410a70c4:
 translate other_language pizza_5451b25f:
 
     # m "Haha... It's embarrassing, but I'm scared of talking over the phone."
-    m "Haha... itu memalukan, tapi aku takut berbicara melewati telepon."
+    m "Haha... itu memalukan, tapi aku takut berbicara di telepon."
 
 # game/script.rpy:4620
 translate other_language pizza_6804d82f:
@@ -7210,7 +7210,7 @@ translate other_language pizza_6804d82f:
 translate other_language pizza_cf947c15:
 
     # m "I once made a conversation diagram of every possible response so I could just follow that instead of having to worry, but nope."
-    m "Aku penah membuat diagram percakapan dengan semua kemungkinan respon sehingga aku bisa mengikutinya daripada harus khawatir, tapi tidak bekerja."
+    m "Aku penah membuat diagram percakapan dengan semua kemungkinan respon biar aku bisa mengikutinya daripada harus khawatir, tapi ini tidak bekerja."
 
 # game/script.rpy:4622
 translate other_language pizza_512d5a82:
@@ -7282,7 +7282,7 @@ translate other_language pizza_26a0e3d3:
 translate other_language pizza_1a7a1d77:
 
     # b "Hmm, just an instinct to outcompete my sisters so they wouldn't absorb me."
-    b "Hmm, hanya insting untuk bersaing dengan saudara-saudaraku agak mereka tidak memakanku."
+    b "Hmm, hanya insting untuk bersaing dengan saudara-saudaraku agar mereka tidak memakanku."
 
 # game/script.rpy:4644
 translate other_language pizza_e612037c:
@@ -7312,7 +7312,7 @@ translate other_language pizza_4da52a1a:
 translate other_language pizza_0bf7e4c7:
 
     # "At your insistence, you pretend to be the receiver and run through the scenario with Button a few times."
-    "Dengan bantuan Anda, anda berpura-pura menjadi penerima telepon dan melalui beberapa skenario bersama Button beberapa kali."
+    "Dengan bantuan Anda, Anda berpura-pura menjadi penerima telepon dan melalui beberapa skenario bersama Button beberapa kali."
 
 # game/script.rpy:4657
 translate other_language pizza_17cfeaa2:
@@ -7354,19 +7354,19 @@ translate other_language pizza_26677143:
 translate other_language pizza_58915475:
 
     # b "Hi! I wanted to order a pizza with you. Is that ok?"
-    b "Halo! Aku mau memesan satu pizza denganmu. Apakah itu boleh?"
+    b "Halo! Aku mau memesan satu pizza denganmu. Apa boleh?"
 
 # game/script.rpy:4670
 translate other_language pizza_1ee92cac:
 
     # b "...Yes. My order is..."
-    b "...Iya. Pesananku adalah..."
+    b "...Iya. Pesananku itu..."
 
 # game/script.rpy:4672
 translate other_language pizza_23e1eb07:
 
     # "You're a grown up. Will you ever get better?"
-    "Anda sudah dewasa. Kapan kamu akan menjadi lebih baik?"
+    "Anda sudah dewasa. Kapan Anda akan menjadi lebih baik?"
 
 # game/script.rpy:4674
 translate other_language pizza_533f0214:
@@ -7420,7 +7420,7 @@ translate other_language pizza_bec96a11:
 translate other_language pizza_d3b08c4d:
 
     # b "You just need to stay calm, and then you can try next time!"
-    b "Kamu hanya perlu untuk tenang, dan kamu bisa coba melakukannya kemudian."
+    b "Kamu hanya perlu tenang, dan kamu bisa coba melakukannya kemudian."
 
 # game/script.rpy:4690
 translate other_language pizza_d4949453:
@@ -7462,7 +7462,7 @@ translate other_language pizza_b0ab60ec:
 translate other_language pizza_a198a1ac:
 
     # m "Yeah, maybe next time my instinct won't be to throw my phone across the room."
-    m "Iya, mungkin lain kali instingku tidak akan ingin melempar teleponku ke ujung ruangan."
+    m "Iya, mungkin lain kali instingku tidak ingin melempar teleponku ke ujung ruangan."
 
 # game/script.rpy:4711
 translate other_language pizza_c321ef8a:
@@ -7600,7 +7600,7 @@ translate other_language pizza_5805ba1d:
 translate other_language pizza_bf91708d:
 
     # m "Stupid piece of shit pizza mix-up. I gave that guy a good tip too! This pizza probably..."
-    m "Kebodohan pizza yang tertukar. Tadi aku juga sudah kasih tip yang besar juga! Pizza untuk mungkin..."
+    m "Bodohnya pizza yang tertukar. Tadi aku juga sudah kasih tip yang besar pula! Pizza ini mungkin..."
 
 # game/script.rpy:4775
 translate other_language pizza_33ba6430:
@@ -7684,7 +7684,7 @@ translate other_language pizza_fc663050:
 translate other_language pizza_4ecd9df2:
 
     # "You decide to stay up all night with her, since it should be her last one."
-    "Anda memuruskan untuk tetap bangun semalaman dnegannya, karena ini tontonan terakhirnya."
+    "Anda memutuskan untuk tetap bangun semalaman dengannya, karena ini tontonan terakhirnya."
 
 # game/script.rpy:4798
 translate other_language pizza_3411529b:
@@ -7798,7 +7798,7 @@ translate other_language pizza_f9eff4d4:
 translate other_language pizza_af9fdfcb:
 
     # m "Shit! What if someone heard you? I'll never live it down..."
-    m "Soal! Bagaimana jika seseorang mendengarmu? Aku tidak akan pernah bisa melupakannya..."
+    m "Sial! Bagaimana jika seseorang mendengarmu? Aku tidak akan pernah bisa melupakannya..."
 
 # game/script.rpy:4826
 translate other_language pizza_b69eb05d:
@@ -7852,7 +7852,7 @@ translate other_language pizza_ac897c93:
 translate other_language pizza_d5a4b245:
 
     # m "You're ok to watch this? Isn't it awkward for you?"
-    m "Apakah kamu tidak apa menonton ini? Bukannya ini terasa canggung untukmu?"
+    m "Apakah kamu tidak apa menonton ini? Bukannya ini terasa aneh untukmu?"
 
 # game/script.rpy:4844
 translate other_language pizza_7cbae85c:
@@ -7888,7 +7888,7 @@ translate other_language pizza_1f54054e:
 translate other_language pizza_e7f433a2:
 
     # "You just reeeeeeeally hope that nobody heard Button's yell."
-    "Anda benar-beeeenar berhadap tidak ada siapapun yang mendengar teriakan Button."
+    "Anda benar-beeeenar berharap tidak ada siapapun yang mendengar teriakan Button."
 
 # game/script.rpy:4875
 translate other_language pizza_e612037c_1:
@@ -7906,7 +7906,7 @@ translate other_language pizza_0af8dd76:
 translate other_language pizza_a6b99bb2:
 
     # "As you open your eyes, you realise that you've been holding Button's arm in place of your plushie."
-    "Saat Anda membuka matamu, Anda menyadari bahwa Anda telah memegang lengan Button sebagai pengganti boneka empukmu."
+    "Saat Anda membuka matamu, Anda menyadari bahwa Anda sedang memegang lengan Button sebagai pengganti boneka empukmu."
 
 # game/script.rpy:4880
 translate other_language pizza_6b7abe4f:
@@ -8122,7 +8122,7 @@ translate other_language day1_watered_5_51cfdc34:
 translate other_language day1_watered_5_af2f605e:
 
     # "She loves buying the ticket, climbing onboard, and feeling the train accelerate and turn. It makes you smile."
-    "Dia suka membeli tiket, naik ke kereta, dan merasakan akselerasi kereta dan berbelok. Itu membuatmu tersenyum."
+    "Dia senang membeli tiket, naik ke kereta, dan merasakan akselerasi kereta dan berbelok. Itu membuatmu tersenyum."
 
 # game/script.rpy:4989
 translate other_language day1_watered_5_20c834e6:
@@ -8152,7 +8152,7 @@ translate other_language day1_watered_5_9fdc1d3f:
 translate other_language day1_watered_5_1f6c0107:
 
     # "She finds a really cute one! It's pricey, but who cares! It's perfect."
-    "Dia menemukan yang imut! Itu mahal, tapi siapa peduli! Ini sempurna!"
+    "Dia menemukan baju raneng yang imut! Itu mahal, tapi siapa peduli! Ini sempurna!"
 
 # game/script.rpy:4994
 translate other_language day1_watered_5_8465b8e5:
@@ -8224,7 +8224,7 @@ translate other_language day1_watered_5_1dd48aca:
 translate other_language day1_watered_5_cc30f8e4:
 
     # m "I thought it was like... your head or something."
-    m "Aku kita itu seperti... kepalamu atau sesuatu."
+    m "Aku kira itu seperti... kepalamu atau sesuatu."
 
 # game/script.rpy:5031
 translate other_language day1_watered_5_59c03e84:
@@ -8272,13 +8272,13 @@ translate other_language day1_watered_5_c63bca40:
 translate other_language day1_watered_5_63df47ac:
 
     # b "Come ooooon! Please just be my doormat and swim more!"
-    b "Ayolaaah! Tolonglah menjadi pelayanku dan berenang lebih!"
+    b "Ayolaaah! Tolonglah menjadi pelayanku dan berenang lebih lama!"
 
 # game/script.rpy:5046
 translate other_language day1_watered_5_a1a5c743:
 
     # m "Who taught you to speak like that?"
-    m "Siapa yang mengajamu berbicara seperti itu?"
+    m "Siapa yang mengajarmu berbicara seperti itu?"
 
 # game/script.rpy:5047
 translate other_language day1_watered_5_ce10a2cf:
@@ -8662,7 +8662,7 @@ translate other_language day1_watered_5_6f0f2874:
 translate other_language day1_watered_5_dd387d2b:
 
     # m "Ugh, finally home. I've got sand literally everywhere."
-    m "Ugh, akhirnya sampai ke rumah. Pasir menempelku dimana-mana."
+    m "Ugh, akhirnya sampai ke rumah. Pasir menempel dimana-mana."
 
 # game/script.rpy:5224
 translate other_language day1_watered_5_00b87bea:
@@ -8908,7 +8908,7 @@ translate other_language day1_watered_5_e528c179:
 translate other_language day1_watered_5_6d2c438f:
 
     # b "I loved the beach, but all that saltwater probably wasn't the best idea. I feel really weird."
-    b "Aku suka pantai tadi, tapi semua air laut tidak bukan ide yang terbaik. Aku merasa aneh."
+    b "Aku suka pantai tadi, tapi semua air laut bukan ide yang terbaik. Aku merasa aneh."
 
 # game/script.rpy:5315
 translate other_language day1_watered_5_d343a3e3:
@@ -8944,7 +8944,7 @@ translate other_language day1_watered_5_0e45cf21:
 translate other_language day1_watered_5_51ec8fbb:
 
     # b "You think I want to die!?"
-    b "Kamu pikit aku mau mati!?"
+    b "Kamu pikir aku mau mati!?"
 
 # game/script.rpy:5325
 translate other_language day1_watered_5_ab7471a6:
@@ -9514,7 +9514,7 @@ translate other_language now_killing_button_a3948f68:
 translate other_language now_killing_button_76e3144c:
 
     # "You don't despair that she's gone. You just feel like maybe everything isn't so bad."
-    "Anda tidak merasa putus asa karena dia sudah tiasa. Anda merasa seolah-olah mungkin semuanya seburuk yang Anda kira."
+    "Anda tidak merasa putus asa karena dia sudah tiasa. Anda merasa seolah-olah mungkin semuanya tidak seburuk yang Anda kira."
 
 # game/script.rpy:5740
 translate other_language now_killing_button_bb65f961:
@@ -10014,7 +10014,7 @@ translate other_language strings:
 
     # game/script.rpy:4393
     old "Those wide eyes are always watching for anything inappropriate."
-    new "Banyak mata yang selalu melihat apapun yang tidak pantas."
+    new "Mata yang yang lebar itu selalu melihat apapun yang tidak pantas."
 
     # game/script.rpy:4396
     old "Sometimes, you like it raw."
@@ -10030,7 +10030,7 @@ translate other_language strings:
 
     # game/script.rpy:4528
     old "Button End 5: That's yummy! No cap."
-    new "Akhir Button 5: Ini enak! Tidak bohong."
+    new "Akhir Button 5: Ini enak! Jamurly."
 
     # game/script.rpy:4542
     old "I don't want to."
@@ -10094,7 +10094,7 @@ translate other_language strings:
 
     # game/script.rpy:5432
     old "What are you waiting for!? DO IT!"
-    new "Apa yang kamu tunggu!? LAKUKAN!"
+    new "Apa yang Anda tunggu!? LAKUKAN!"
 
     # game/script.rpy:5434
     old "I HAVE TO KILL HER!"
@@ -10106,7 +10106,7 @@ translate other_language strings:
 
     # game/script.rpy:5469
     old "{sc=1}{/sc}You're so ashamed that you can't bring yourself to eat her."
-    new "{sc=1}{/sc}Kamu sangat malu sampai Anda tidak bisa membuatmu untuk mekanannya."
+    new "{sc=1}{/sc}Kamu sangat malu sampai Anda tidak bisa membuatmu untuk memakannya."
 
     # game/script.rpy:5473
     old "{sc=1}{/sc}You'd kissed her yesterday. Now, her dead face stares at you, those lips agape mid-scream."
@@ -10126,7 +10126,7 @@ translate other_language strings:
 
     # game/script.rpy:5569
     old "After the last 3 days, how could you just go back to mindlessly watching shows?"
-    new "Setelah tiga hari belakangan ini, bagaimana mungkin Anda bisa kembali menonton acara tanpa ada pikiran?"
+    new "Setelah tiga hari belakangan ini, bagaimana mungkin Anda bisa kembali menonton acara ini tanpa ada pikiran?"
 
     # game/script.rpy:5572
     old "Noot Noot is embarrassed to admit he will miss Button."
