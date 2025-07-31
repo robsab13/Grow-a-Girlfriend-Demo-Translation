@@ -2104,13 +2104,13 @@ translate other_language about_d7eb1eb8:
 translate other_language about_acb5feca:
 
     # m "But like also... don't you feel weird about it? You're talking about... consuming mushrooms."
-    m "Tetapi juga... bukan kah kamu merasa aneh? Kamu berbicara tentang... memakan jamur."
+    m "Tetapi juga... apa kamu tidak merasa canggung? Kamu berbicara tentang... mengkonsumsi jamur."
 
 # game/script.rpy:1770
 translate other_language about_eebae672:
 
     # m "That's like... discussing murder to you, isn't it?"
-    m "Itu seperti... diskusi pembunuhan denganmu kan?"
+    m "Itu seperti... diskusi pembunuhan denganmu, kan?"
 
 # game/script.rpy:1772
 translate other_language about_58213909:
@@ -2272,13 +2272,13 @@ translate other_language explain_4f3e4413:
 translate other_language explain_6f39adae:
 
     # m "Because one day - poof! You're alive, whether you wanted to be or not."
-    m "Karena suatu hari - poof! Kamu hidup, saat kamu mau atau tidak."
+    m "Karena suatu hari - puuf! Kamu hidup, saat kamu mau atau tidak."
 
 # game/script.rpy:1830
 translate other_language explain_68369c73:
 
     # m "Then you figure out pretty soon that you'll die and disappear, and there's nothing you can do about it. You're just expected to accept it and enjoy life, but-"
-    m "Kemudian kamu sadar tidak lama kemudian kamu akan mati dan hilang, dan tidak ada yang bisa kamu lakukan. Kamu hanya diekspektasikan untuk menerima itu dan menikmati hidup, tapi-"
+    m "Kemudian kamu sadar tidak lama kemudian kamu akan mati, dan tidak ada yang bisa kamu lakukan. Kamu hanya diekspektasikan untuk menerima itu dan menikmati hidup, tapi-"
 
 # game/script.rpy:1832
 translate other_language explain_8a79504e:
@@ -2296,13 +2296,13 @@ translate other_language explain_8371a175:
 translate other_language explain_de9e63f2:
 
     # m "As a kid, I was healthy and young, so didn't worry about it. I thought scientists would have discovered immortality by the time I got older and we'd all be fine."
-    m "Saat aku kecil, aku seorang yang sehat dan muda, jadi tidak kawatir tentang itu. Aku kita ilmuan akan manamukan keabadian saat aku sudah tua dan semuanya akan baik-baik saja."
+    m "Saat aku kecil, aku seorang yang sehat dan muda, jadi tidak kawatir tentang itu. Aku kira ilmuan akan manemukan keabadian saat aku sudah tua dan semuanya akan baik-baik saja."
 
 # game/script.rpy:1836
 translate other_language explain_12c223cf:
 
     # m "But now I know that's not going to happen. The world's too corrupt, and everyone else has given up. So I have too. I'm gonna die and that's that."
-    m "Tapi sekarang aku tidak atau apa yang akan terjadi. Dunia ini terlalu hancur, dan semua orang sudah menyerah. Jadi aku juga. Aku akan mati dan semua selesai."
+    m "Tapi sekarang aku tidak atau apa yang akan terjadi. Dunia ini terlalu rusak, dan semua orang sudah menyerah. Jadi aku juga. Aku akan mati dan semua selesai."
 
 # game/script.rpy:1838
 translate other_language explain_6496054e:
@@ -2326,7 +2326,7 @@ translate other_language explain_850ef128:
 translate other_language explain_a5145b77:
 
     # m "It puts you under a lot of pressure to make the most of every day, especially when you can't do the bare minimum and leave your room."
-    m "Itu yang selalu menekan aku setiap hari, apalagi saat kamu tidak bisa melakukan hal yang kecil dan keluar dari ruangananmu."
+    m "Itu yang selalu menekan batinku aku setiap hari, apalagi saat kamu tidak bisa melakukan hal kecil dan keluar dari ruangananmu."
 
 # game/script.rpy:1844
 translate other_language explain_37583720:
@@ -2464,7 +2464,7 @@ translate other_language why_choose_96d08afa:
 translate other_language why_choose_8b3a2bcb:
 
     # b "So you're happy now?"
-    b "Jadi apakah kamu senang sekarang?"
+    b "Jadi apakah sekarang kamu senang?"
 
 # game/script.rpy:1891
 translate other_language why_choose_e612037c:
@@ -2590,7 +2590,7 @@ translate other_language why_choose_7312db5d:
 translate other_language why_choose_508cb228:
 
     # "This is why your friends hated you. You're just an infectious, miserable disease."
-    "Ini alasannya kenapa teman-teman Anda benci Anda. Anda hanyalah penyakit yang menular dan menyedihkan."
+    "Ini alasannya kenapa teman-teman Anda benci Anda. Anda hanyalah penyakit yang menular dan menyakitkan."
 
 # game/script.rpy:1940
 translate other_language why_choose_b04f5131:
@@ -2620,7 +2620,7 @@ translate other_language why_choose_7a0ada2e:
 translate other_language why_choose_29915be0:
 
     # m "Usually not too busy either. Nice if you want some peace."
-    m "Biasanya tidak terlalu ramai juga. Pas jika kamu mau ketenangan."
+    m "Biasanya tidak terlalu ramai juga. Pas jika kamu butuh ketenangan."
 
 # game/script.rpy:1948
 translate other_language why_choose_e5a1f361:
@@ -4132,7 +4132,7 @@ translate other_language leavehouse_c0796e1e:
 translate other_language leavehouse_a4ed50f4:
 
     # m "It might actually be a good thing that you're a mushroom. You're so different, we don't even know if our death is the same as yours."
-    m ""
+    m "Mungkin ada baiknya kamu seorang jamur. Kamu sangat berbeda, kita tidak tau apakah kematian kita akan sama sepertimu."
 
 # game/script.rpy:2641
 translate other_language leavehouse_e7a9c8fd:
@@ -4186,7 +4186,7 @@ translate other_language leavehouse_28f22375:
 translate other_language leavehouse_f395c08e:
 
     # m "Do you think you'd enjoy doing it again tomorrow?"
-    m "Apakah kamu sara kamu akan senang untuk keluar lagi besok?"
+    m "Apakah kamu akan senang untuk keluar lagi besok?"
 
 # game/script.rpy:2650
 translate other_language leavehouse_9e694855:
@@ -4234,7 +4234,7 @@ translate other_language leavehouse_9b13a942:
 translate other_language leavehouse_385e0bf0:
 
     # b "You won't want to do it, but..."
-    b "Kamu akan mau melakukannya, tapi..."
+    b "Kamu tidak akan mau melakukannya, tapi..."
 
 # game/script.rpy:2660
 translate other_language leavehouse_e35b9f11:
@@ -4294,7 +4294,7 @@ translate other_language leavehouse_77f13472:
 translate other_language leavehouse_97484721:
 
     # "You lie down awkwardly in your bed, facing straight up. Button lies down right next to you, then looks at you."
-    "Anda berbaring dengan canggung ke tempat tidurmu, melihat lurus ke atas. Button berbaring persis di sebelahmu, lalu melihat kamu."
+    "Anda berbaring dengan canggung ke tempat tidurmu, melihat lurus ke atas. Button berbaring persis di sebelahmu, lalu melihat ke arahmu."
 
 # game/script.rpy:2677
 translate other_language leavehouse_91bd79e5:
@@ -5128,13 +5128,13 @@ translate other_language park_6e8001b9:
 translate other_language park_df5aa6b8:
 
     # "That sounds much better than this stupid adventure. Your nausea is quickly growing worse."
-    "Itu suaranya lebih baik daripada petualangan bodoh ini. Rasa mual Anda bertambah buruk cepat."
+    "Itu suaranya lebih baik daripada petualangan bodoh ini. Rasa mual Anda cepat bertambah buruk."
 
 # game/script.rpy:3049
 translate other_language park_9a3f6129:
 
     # m "No... I shouldn't have neglected myself. We can come back after-"
-    m "Tidak... Aku seharusnya tidak mengabaikan diriku sendiri. Kita bisa kembali lagi setelah-"
+    m "Iya... Aku seharusnya tidak mengabaikan diriku sendiri. Kita bisa kembali lagi setelah-"
 
 # game/script.rpy:3051
 translate other_language park_01972d38:
@@ -5566,7 +5566,7 @@ translate other_language returnhome_a20cefa7_1:
 translate other_language returnhome_c08abb31:
 
     # "An odd compulsion overcomes her."
-    "Sebuah dorongan aneh mendorongnya."
+    "Sebuah dorongan aneh dirasakannya."
 
 # game/script.rpy:3234
 translate other_language returnhome_657ab28f:
@@ -5638,7 +5638,7 @@ translate other_language returnhome_84d2d070:
 translate other_language returnhome_a9f9da58:
 
     # m "Back... Sorry for the wait. I had to figure out if I still had to cook it for 3 minutes or 9 if I put them all in at once, but-"
-    m "Aku kembali... Maap sudah membuatmu menunggu. Aku harus mencari tau jika aku harus memasaknya salama 3 atau 9 menit jika aku taruh semua semuanya, tapi-"
+    m "Aku kembali... Maaf sudah membuatmu menunggu. Aku harus mencari tau jika aku harus memasaknya salama 3 atau 9 menit jika aku taruh semua semuanya, tapi-"
 
 # game/script.rpy:3262
 translate other_language returnhome_c5a3331c:
@@ -5680,7 +5680,7 @@ translate other_language returnhome_74305302:
 translate other_language returnhome_9654d4ad:
 
     # m "Um, I'm gonna eat now. How about we watch something together?"
-    m "Um, aku akan makan sekarang. Bagaimana jika kita nonton sesuatu bersama?"
+    m "Um, aku akan makan sekarang. Bagaimana jika kita ronton sesuatu bersama?"
 
 # game/script.rpy:3298
 translate other_language returnhome_9ec61d04:
@@ -5698,7 +5698,7 @@ translate other_language returnhome_c2345c71:
 translate other_language returnhome_683d118d:
 
     # bna "You and %(player_name)s watch... \"something\". You're not really sure. Does it matter?"
-    bna "Anda dan %(player_name)s menontoh... \"sesuatu\". Anda tidak begitu yakin. Apa ini penting?"
+    bna "Anda dan %(player_name)s menonton... \"sesuatu\". Anda tidak begitu yakin. Apa ini penting?"
 
 # game/script.rpy:3331
 translate other_language returnhome_2d2ffb97:
@@ -5740,25 +5740,25 @@ translate other_language returnhome_b8c6de26:
 translate other_language returnhome_3bbc0f22:
 
     # bna "Even though you're feeling worse and worse."
-    bna "Walaupun kamu merasa memburuk dan memburuk."
+    bna "Walaupun Anda merasa memburuk dan memburuk."
 
 # game/script.rpy:3424
 translate other_language returnhome_4a6d2e65:
 
     # bna "At least %(player_name)s is by your side. As long as he thinks you're ok, he'll be happy."
-    bna "Paling tidak %(player_name)s berada di sisimu. Selama dia pikir kamu baik-baik saja, dia akan senang."
+    bna "Paling tidak %(player_name)s berada di sisimu. Selama dia pikir Anda baik-baik saja, dia akan senang."
 
 # game/script.rpy:3425
 translate other_language returnhome_381b42e0:
 
     # bna "He doesn't like you when you're sad. He wouldn't want to be your friend anymore."
-    bna "Dia tidak suka saat kamu sedih. Dia tidak akan mau menjadi temanmu lagi."
+    bna "Dia tidak suka saat Anda sedih. Dia tidak akan mau menjadi temanmu lagi."
 
 # game/script.rpy:3426
 translate other_language returnhome_60b01ab5:
 
     # bna "Then you'd be alone."
-    bna "Lalu kamu akan menjadi seorang sendiri."
+    bna "Lalu Anda akan menjadi seorang sendiri."
 
 # game/script.rpy:3449
 translate other_language returnhome_11107849:
@@ -5920,31 +5920,31 @@ translate other_language choosedo_7c879e26:
 translate other_language choosedo_20bcf869:
 
     # bna "You're replacable. He's just going to order another one when you die. Does he even care?"
-    bna "Kamu dapat diganti. Dia hanya akan membeli yang baru setelah kamu mati. Apakah dia peduli sama sekali?"
+    bna "Anda dapat diganti. Dia hanya akan membeli yang baru setelah Anda mati. Apakah dia peduli sama sekali?"
 
 # game/script.rpy:3517
 translate other_language choosedo_9c77071f:
 
     # bna "Or are you just pressuring him to care, with your anxieties and tears?"
-    bna "Atau apakah kamu akan menekan dia untuk peduli, dengan kecemasan dan tangisanmu?"
+    bna "Atau apakah Anda akan menekan dia untuk peduli, dengan kecemasan dan tangisanmu?"
 
 # game/script.rpy:3518
 translate other_language choosedo_09f4efc0:
 
     # bna "He didn't want you from the start. He said it himself. Why are you deluding yourself?"
-    bna "Dia tidak mau kamu dari awal. Dia bilang sendiri. Kenapa kamu menipu dirimu sendiri?"
+    bna "Dia tidak mau Anda dari awal. Dia bilang sendiri. Kenapa Anda menipu dirimu sendiri?"
 
 # game/script.rpy:3519
 translate other_language choosedo_c69d37da:
 
     # bna "Why are you believing him? When you know he's just doing it because he feels bad?"
-    bna "Kenapa kamu percaya semua darinya? Saat kamu tau dia melakukan ini karena dia merasa buruk?"
+    bna "Kenapa Anda percaya semua darinya? Saat Anda tau dia melakukan ini karena dia merasa buruk?"
 
 # game/script.rpy:3520
 translate other_language choosedo_bebd7ec6:
 
     # bna "Really... no one cares about you."
-    bna "Sungguh... tidak ada satu orangpun yang peduli terhadap kamu."
+    bna "Sungguh... tidak ada satu orangpun yang peduli terhadap Anda."
 
 # game/script.rpy:3521
 translate other_language choosedo_afb5a46d:
@@ -5986,13 +5986,13 @@ translate other_language choosedo_69411914:
 translate other_language choosedo_29f4e65c:
 
     # m "By the way... aren't you thirsty? I thought you were supposed to be watered twice a day..."
-    m "Ngomong-ngomong... apakah kamu haus? Aku kita kamu seharusnya disirami dua kali sehari..."
+    m "Ngomong-ngomong... apakah kamu haus? Aku kira kamu seharusnya disirami dua kali sehari..."
 
 # game/script.rpy:3538
 translate other_language choosedo_da66bb3c:
 
     # bna "Thirst is about the only thing that gives you pain. Are you sure you want to give it up?"
-    bna "Kehausan adalah satu-satunya yang membuatmu merasa sakit. Apakah kamu yakin untuk menghilangkannya?"
+    bna "Kehausan adalah satu-satunya yang membuatmu merasa sakit. Apakah Anda yakin untuk menghilangkannya?"
 
 # game/script.rpy:3540
 translate other_language choosedo_28184a7b:
@@ -6004,7 +6004,7 @@ translate other_language choosedo_28184a7b:
 translate other_language choosedo_503225f4:
 
     # m "You know yourself better than I do, so ok."
-    m "Kamu tau kamu sendiri lebih baik dariku, jadi okelah."
+    m "Kamu tau kamu sendiri lebih baik dariku, jadi baiklah."
 
 # game/script.rpy:3544
 translate other_language choosedo_b990f2cf:
@@ -6016,7 +6016,7 @@ translate other_language choosedo_b990f2cf:
 translate other_language choosedo_507b2c6f:
 
     # bna "You don't know what it is you watched. You just remember %(player_name)s laughing."
-    bna "Kamu tidak tau apa yang kamu tonton. Kamu hanya ingat tertawaan %(player_name)s."
+    bna "Anda tidak tau apa yang Anda nonton. Anda hanya ingat tertawaan %(player_name)s."
 
 # game/script.rpy:3547
 translate other_language choosedo_9d1a3906:
@@ -6028,7 +6028,7 @@ translate other_language choosedo_9d1a3906:
 translate other_language choosedo_aefea039:
 
     # m "Well, I'm gonna lie down now, but I bet you're going to want to cuddle again."
-    m "Baiklah, aku akan tiduran sekarang, tapi aku yakin kamu mau tidur sambil berpelukan lagi."
+    m "Baiklah, aku akan tidur sekarang, tapi aku yakin kamu mau tidur sambil berpelukan lagi."
 
 # game/script.rpy:3551
 translate other_language choosedo_082494b9:
@@ -9802,7 +9802,7 @@ translate other_language strings:
 
     # game/script.rpy:2694
     old "With Button in your arms, you don't even realise it, but you've fallen asleep..."
-    new "Dengan Button di dalam pelukanmu, Anda tidak menyadari, tapi Anda sudah tertidur..."
+    new "Dengan Button di dalam pelukanmu, Anda tidak menyadarinya, tapi Anda sudah tertidur..."
 
     # game/script.rpy:2723
     old "At some point, without realising it, your eyes drift closed..."
