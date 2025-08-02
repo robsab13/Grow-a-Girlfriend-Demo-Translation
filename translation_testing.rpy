@@ -11,7 +11,15 @@ init python:
                     available_translations.append(folder_name)
         return available_translations
 
+
+
 translate russian style default:
+    font "NotoSans-Regular.ttf"
+
+translate russian style choice_button_text:
+    font "NotoSans-Regular.ttf"
+
+translate russian style input:
     font "NotoSans-Regular.ttf"
 
 translate russian style check_button_text:
