@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2025-07-14 20:26
+﻿# TODO: Translation updated at 2025-07-19
 
-translate other_language strings:
+translate indonesian strings:
 
     # game/album.rpy:132
     old "You can enable alerts with descriptive warnings in the options menu!"
-    new ""
+    new "Anda bisa menyalakan peringatan berdeskripsi di menu opsi!"
 
     # game/album.rpy:150
     old "This game contains discussions and depictions of topics which some may find unsettling:"
-    new ""
+    new "Game ini mengandung diskusi dan gambar dengan topik yang dapat membuat orang resah:"
 
     # game/album.rpy:155
     old "Anxiety"
-    new ""
+    new "Kecemasan"
 
     # game/album.rpy:156
     old "Depression"
-    new ""
+    new "Depresi"
 
     # game/album.rpy:157
     old "Self-harm/Suicide"
-    new ""
+    new "Menyakiti diri sendiri/Bunuh diri"
 

@@ -1,256 +1,256 @@
-﻿# TODO: Translation updated at 2025-07-14 20:26
+﻿# TODO: Translation updated at 2025-07-19
 
-translate other_language strings:
+translate indonesian strings:
 
     # game/screens.rpy:359
     old "Start"
-    new ""
+    new "Mulai"
 
     # game/screens.rpy:365
     old "History"
-    new ""
+    new "Riwayat"
 
     # game/screens.rpy:367
     old "Save"
-    new ""
+    new "Simpan"
 
     # game/screens.rpy:369
     old "Load"
-    new ""
+    new "Muat"
 
     # game/screens.rpy:373
     old "Options"
-    new ""
+    new "Opsi"
 
     # game/screens.rpy:379
     old "End Replay"
-    new ""
+    new "Akhiri Replay"
 
     # game/screens.rpy:383
     old "Main Menu"
-    new ""
+    new "Menu Utama"
 
     # game/screens.rpy:390
     old "Help"
-    new ""
+    new "Bantuan"
 
     # game/screens.rpy:398
     old "Quit"
-    new ""
+    new "Keluar"
 
     # game/screens.rpy:885
     old "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}gallery"
-    new ""
+    new "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}galeri"
 
     # game/screens.rpy:897
     old "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}credits"
-    new ""
+    new "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}Pujian"
 
     # game/screens.rpy:908
     old "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}content\nwarning"
-    new ""
+    new "{color=#000000}{font=NotoSans-Regular.ttf}{size=30}peringaran\nkonten"
 
     # game/screens.rpy:1042
     old "Return"
-    new ""
+    new "Kembali"
 
     # game/screens.rpy:1119
     old "About"
-    new ""
+    new "Tentang"
 
     # game/screens.rpy:1126
     old "Version [config.version!t]\n"
-    new ""
+    new "Versi [config.version!t]\n"
 
     # game/screens.rpy:1132
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Dibuat dengan {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:1212
     old "Page {}"
-    new ""
+    new "Halaman {}"
 
     # game/screens.rpy:1212
     old "Automatic saves"
-    new ""
+    new "Otomatis simpan"
 
     # game/screens.rpy:1212
     old "Quick saves"
-    new ""
+    new "Simpan cepat"
 
     # game/screens.rpy:1233
     old "{#file_time}%B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%B %d %Y, %H:%M"
 
     # game/screens.rpy:1370
     old "Display"
-    new ""
+    new "Tampilan"
 
     # game/screens.rpy:1371
     old "Window"
-    new ""
+    new "Jendela"
 
     # game/screens.rpy:1372
     old "Fullscreen"
-    new ""
+    new "Layar Penuh"
 
     # game/screens.rpy:1379
     old "Content Warnings"
-    new ""
+    new "Peringatan konten"
 
     # game/screens.rpy:1381
     old "Alert on"
-    new ""
+    new "Peringatan hidup"
 
     # game/screens.rpy:1383
     old "Danger zone"
-    new ""
+    new "Zona bahaya"
 
     # game/screens.rpy:1384
     old "Delete saves"
-    new ""
+    new "Hapus simpanan"
 
     # game/screens.rpy:1384
     old "Are you sure you want to delete all your save files and progress?\nThis action cannot be undone.\nNotice: The game will relaunch if you click \"Yes\"!"
-    new ""
+    new "Apakah anda yakin ingin menghapus semua file simpanan dan progress?\nAksi ini tidak dapat dibalikkan.\nInfo: Game akan dimuat ulang jika Anda klik \"Iya\"!"
 
     # game/screens.rpy:1389
     old "Skip"
-    new ""
+    new "Lompati"
 
     # game/screens.rpy:1390
     old "Unseen Text"
-    new ""
+    new "Belum Terlihat"
 
     # game/screens.rpy:1391
     old "After Choices"
-    new ""
+    new "Setelah Pilihan"
 
     # game/screens.rpy:1392
     old "Transitions"
-    new ""
+    new "Transisi"
 
     # game/screens.rpy:1394
     old "Cursor Style"
-    new ""
+    new "Gaya Kursor"
 
     # game/screens.rpy:1395
     old "System"
-    new ""
+    new "Sistem"
 
     # game/screens.rpy:1396
     old "Custom"
-    new ""
+    new "Khusus"
 
     # game/screens.rpy:1414
     old "Text Speed"
-    new ""
+    new "Kecepatan Text"
 
     # game/screens.rpy:1418
     old "Auto-Forward Time"
-    new ""
+    new "Waktu Otomatis-Maju"
 
     # game/screens.rpy:1425
     old "Music Volume"
-    new ""
+    new "Volume Musik"
 
     # game/screens.rpy:1432
     old "Sound Volume"
-    new ""
+    new "Volume Suara"
 
     # game/screens.rpy:1438
     old "Test"
-    new ""
+    new "Tes"
 
     # game/screens.rpy:1442
     old "Voice Volume"
-    new ""
+    new "Volume Vokal"
 
     # game/screens.rpy:1452
     old "Mute All"
-    new ""
+    new "Senyapkan Semua"
 
     # game/screens.rpy:1458
     old "Languages"
-    new ""
+    new "Bahasa"
 
     # game/screens.rpy:1460
     old "English"
-    new ""
+    new "Inggris"
 
     # game/screens.rpy:1605
     old "The dialogue history is empty."
-    new ""
+    new "Riwayat dialog kosong."
 
     # game/screens.rpy:1778
     old "Enter/Space"
-    new ""
+    new "Enter/Spasi"
 
     # game/screens.rpy:1779
     old "Advances text."
-    new ""
+    new "Lanjutkan teks."
 
     # game/screens.rpy:1782
     old "Escape/Right click"
-    new ""
+    new "Escape/Klik kanan"
 
     # game/screens.rpy:1783
     old "Accesses the game menu."
-    new ""
+    new "Akses menu permainan."
 
     # game/screens.rpy:1786
     old "Tab/Ctrl"
-    new ""
+    new "Tab/Ctrl"
 
     # game/screens.rpy:1787
     old "Skip."
-    new ""
+    new "Lompati."
 
     # game/screens.rpy:1790
     old "Scroll/Page Up"
-    new ""
+    new "Gulir/Page Up"
 
     # game/screens.rpy:1791
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Putar mundur ke dialog sebelumnya."
 
     # game/screens.rpy:1795
     old "Toggles assistive voicing."
-    new ""
+    new "Aktif/Nonaktifkan suara bantuan."
 
     # game/screens.rpy:1798
     old "H/Middle click"
-    new ""
+    new "H/Klik tengah"
 
     # game/screens.rpy:1799
     old "Hide user interface."
-    new ""
+    new "Sembunyikan antarmuka pengguna."
 
     # game/screens.rpy:1803
     old "Opens the accessibility menu."
-    new ""
+    new "Buka menu aksesibilitas."
 
     # game/screens.rpy:1873
     old "Yes"
-    new ""
+    new "Iya"
 
     # game/screens.rpy:1874
     old "No"
-    new ""
+    new "Tidak"
 
     # game/screens.rpy:1920
     old "Skipping"
-    new ""
+    new "Melompati"
 
     # game/screens.rpy:2242
     old "Back"
-    new ""
+    new "Kembali"
 
     # game/screens.rpy:2244
     old "Auto"
-    new ""
+    new "Otomatis"
 
     # game/screens.rpy:2245
     old "Menu"
-    new ""
+    new "Menu"
 
