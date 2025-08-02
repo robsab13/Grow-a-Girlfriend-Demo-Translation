@@ -1942,7 +1942,7 @@ translate other_language about_83d70ab2:
 translate other_language about_2fe3751f:
 
     # b "You can do it! Try to say every word in order clearly."
-    b "Kamu pasti bisa! Coba untuk mengungkapkan semua kata berurutan secara jelas."
+    b "Kamu pasti bisa! Coba ungkapkan tiap kata berurutan dan jelas."
 
 # game/script.rpy:1704
 translate other_language about_55d84bd1:
@@ -1954,7 +1954,7 @@ translate other_language about_55d84bd1:
 translate other_language about_e7d95b4b:
 
     # b "Say it! Who am I going to tell? No one!"
-    b "Katakanlah! Siapa yang bisa kukasih tau? Tidak siapapun!"
+    b "Ayo katakan! Siapa juga yang bisa kuberi tau? Tidak siapapun!"
 
 # game/script.rpy:1709
 translate other_language about_a3bce6ec:
@@ -1978,7 +1978,7 @@ translate other_language about_e1dab11c:
 translate other_language about_50a79452:
 
     # m "as a button! There!"
-    m "...button yang lucu! Selesai!"
+    m "...kancing yang lucu! Selesai!"
 
 # game/script.rpy:1717
 translate other_language about_502770b2:
@@ -6148,7 +6148,7 @@ translate other_language choosedo_a3da8194:
 translate other_language choosedo_84390db2:
 
     # b "I'm just broken now."
-    b "Aku sudah rusak sekarang."
+    b "Sekarang aku sudah rusak."
 
 # game/script.rpy:3669
 translate other_language choosedo_f3ef3ecf:
@@ -6310,7 +6310,7 @@ translate other_language choosedo_668f1762:
 translate other_language choosedo_0e4b9515:
 
     # m "No, you haven't! It's ok. I'll forgive a few angry words."
-    m "Tidak, kamu masih baik! Tidak apa. Aku akan memaafkan beberapa perkataan marah."
+    m "Tidak, kamu masih baik! Tidak apa. Aku akan memaafkan beberapa perkataan marahmu."
 
 # game/script.rpy:3712
 translate other_language choosedo_030f1b85:
@@ -6328,7 +6328,7 @@ translate other_language choosedo_f9626455:
 translate other_language choosedo_eb7a0a73:
 
     # b "I know you mean well, but it's too late for me."
-    b "Aku tau maksudmu baik, tapi ini semua sudah terlalu terlambat buatku."
+    b "Aku tau maksudmu baik, tapi ini semua sudah terlambat buatku."
 
 # game/script.rpy:3715
 translate other_language choosedo_e2022202:
@@ -6376,7 +6376,7 @@ translate other_language no1_47ba7d94:
 translate other_language no1_c59b9a71:
 
     # m "You still have time left, even if it's just a little. You can't ask me to cut that short."
-    m "Kamu masih punya waktu, walaupun hanya sedikit. Kamu tidak bisa meminta aku untuk memotongnya begitu saja."
+    m "Kamu masih punya waktu, walaupun hanya sedikit. Kamu tidak bisa memintaku untuk memotongnya begitu saja."
 
 # game/script.rpy:3742
 translate other_language no1_5ef085c5:
@@ -6394,7 +6394,7 @@ translate other_language no1_88967e40:
 translate other_language no1_931f0921:
 
     # b "Happiness doesn't want me back."
-    b "Kesenang tidak mau aku kembali."
+    b "Kesenangan tidak mau aku kembali."
 
 # game/script.rpy:3753
 translate other_language no1_45a6f05c:
@@ -6442,13 +6442,13 @@ translate other_language no2_e94af96c:
 translate other_language no2_bcea5446:
 
     # b "You're not listening! You would have eaten me tonight anyway. There's no point."
-    b "Kamu tidak mendengarkan! Ujung-ujungnya kamu akan memakanku malam ini. Tidak ada gunanya."
+    b "Kamu tidak mendengarkanku! Ujung-ujungnya kamu akan memakanku malam ini. Tidak ada gunanya."
 
 # game/script.rpy:3788
 translate other_language no2_35f0e4c9:
 
     # m "But, right now, we could still maybe have some fun! It can end on a good note!"
-    m "Tapi, saat ini, kita masih bisa untuk mungkin bersenang-senang! Dan kita bisa selesai disitu."
+    m "Tapi, saat ini, kita mungkin masih bisa untuk bersenang-senang! Dan kita bisa selesai disitu."
 
 # game/script.rpy:3789
 translate other_language no2_83a3f187:
@@ -8476,7 +8476,7 @@ translate other_language day1_watered_5_e7c15a9d:
 translate other_language day1_watered_5_0265e29c:
 
     # m "I know I said I wanted to be friends, but..."
-    m "Aku tau aku sebelumnya bilang kalau kita hanya temenan, tapi..."
+    m "Aku tau aku sebelumnya bilang kalau kita hanya temanan, tapi..."
 
 # game/script.rpy:5113
 translate other_language day1_watered_5_7d33ab3d:
@@ -8524,7 +8524,7 @@ translate other_language day1_watered_5_23296d76:
 translate other_language day1_watered_5_f75dcfeb:
 
     # m "(Ugh, you're right. What do I do? HOW do I-?)"
-    m "(Ugh, kamu benar. Apa yang harus kulakukan? BAGAMANA aku-?)"
+    m "(Ugh, kamu benar. Apa yang harus kulakukan? BAGAIMANA aku-?)"
 
 # game/script.rpy:5135
 translate other_language day1_watered_5_d7004fe6:
@@ -8566,7 +8566,7 @@ translate other_language day1_watered_5_35423a57:
 translate other_language day1_watered_5_52cc4315:
 
     # "It's like a bolt of electricity running up your spine, frying your brain, leaving you stunned."
-    "Itu seperti petir yang bergerak ke atas tulang belakangmu, membuat otakmu panas, dan Anda menjadi terpana."
+    "Terasa seperti petir yang bergerak ke atas tulang belakangmu, membuat otakmu panas, dan Anda menjadi terpana."
 
 # game/script.rpy:5162
 translate other_language day1_watered_5_1a18ae7e:
@@ -8986,7 +8986,7 @@ translate other_language day1_watered_5_acb7483c:
 translate other_language day1_watered_5_206ad3fc:
 
     # b "I don't want to! I want to stop fighting. I want the pain to stop."
-    b "Aku tidak mau! Aku mau untuk mengentikan perdebatan ini. Aku mau rasa sakit ini berhenti."
+    b "Aku tidak mau! Aku mau untuk menghentikan perdebatan ini. Aku mau rasa sakit ini berhenti."
 
 # game/script.rpy:5337
 translate other_language day1_watered_5_59f2f5b9:
@@ -9382,7 +9382,7 @@ translate other_language now_killing_button_490da564:
 translate other_language now_killing_button_97bca493:
 
     # b "Be happy. Don't forget to season me, okay?"
-    b "Bersukacitalah. Jangan lupa untuk membumbuiku, ok?"
+    b "Bersenanglah. Jangan lupa untuk membumbuiku, ok?"
 
 # game/script.rpy:5677
 translate other_language now_killing_button_304963e8:
@@ -9978,7 +9978,7 @@ translate other_language strings:
 
     # game/script.rpy:4271
     old "You can't stop your hands from {sc=2}shaking{/sc}. You can't look away from her smiling face."
-    new "Anda tidak bisa mengentikan tangan Anda dari {sc=2}gemetar{/sc}. Anda tidak bisa menoleh dari senyumannya."
+    new "Anda tidak bisa menghentikan {sc=2}gemetaran{/sc} tangan Anda. Anda tidak bisa menoleh dari senyumannya."
 
     # game/script.rpy:4274
     old "You don't know why this had to happen. But it's over. It's over."
@@ -10014,7 +10014,7 @@ translate other_language strings:
 
     # game/script.rpy:4393
     old "Those wide eyes are always watching for anything inappropriate."
-    new "Mata yang yang lebar itu selalu melihat apapun yang tidak pantas."
+    new "Matanya yang lebar itu selalu melihat apapun yang tidak pantas."
 
     # game/script.rpy:4396
     old "Sometimes, you like it raw."
