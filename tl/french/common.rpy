@@ -148,155 +148,155 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Lundi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Mardi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Mercredi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Jeudi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Vendredi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Samedi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Dimanche"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Mer"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Jeu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Ven"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sam"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Dim"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Janvier"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Février"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Mars"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Avril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Mai"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Juin"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Juillet"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Aout"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Septembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Octobre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Novembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Décembre"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Fev"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Avr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Mai"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Jui"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Aou"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dec"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
@@ -476,55 +476,55 @@ translate french strings:
 
     # renpy/common/00gui.rpy:446
     old "Are you sure?"
-    new ""
+    new "Etes-vous sûrs?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Etes-vous sûrs de voulouir effacer cette sauvegarde?"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Etes-vous sûrs de vouloir écraser cette sauvegarde?"
 
     # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Charger causera une perte des données non sauvegardées.\nEtes-vous sûrs de vouloir faire ça?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to quit?"
-    new ""
+    new "Etes-vous sûrs de voulouir quitter?"
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Etes-vous sûrs de vouloir revenir au menu principal?\nCela causera une perte des données non sauvegardées."
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "Etes-vous sûrs de vouloir continuer là ou vous vous etiez arrêtés?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Etes-vous sûrs de vouloir finir le replay?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Etes-vous sûrs de vouloir commencer à passer?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Etes-vous sûrs de vouloir passer jusqu'au prochain choix?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Etes-vous sûrs de vouloir passer le dialogue non-lu jusqu'au prochain choix?"
 
     # renpy/common/00gui.rpy:457
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new ""
+    new "Cette sauvegarde a été créée sur un appareil différent. Les sauvegardes construites malicieusement peuvent endommager votre ordinateur. Voulez-vous faire confiance au créateur de cette sauvegarde et à ceux qui auraient pu changer ce fichier?"
 
     # renpy/common/00gui.rpy:458
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new ""
+    new "Faites-vous confiance à l'appareil où cette sauvegarde à été créée? Vous ne devriez choisir oui que si vous êtes le seul utilisateur de cet appareil."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
