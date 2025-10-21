@@ -14,277 +14,277 @@ translate vietnamese start_be4321ac:
 translate vietnamese start_62ebeb28:
 
     # "{sc=1}{color=#000000}Pressure{/sc}."
-    b "Nhưng tớ cảm thấy thực sự mệt mỏi, ngày càng nhiều hơn. Giống như tớ đang bị... rút cạn, theo một cách nào đó."
+    b "Áp lực."
 
 # game/script.rpy:679
 translate vietnamese start_36532e04:
 
     # "Today is a new day."
-    b "Tớ nghĩ đã đến lúc tớ phải đi."
+    b "Hôm nay là một ngày mới."
 
 # game/script.rpy:680
 translate vietnamese start_26cb8853:
 
     # "You're supposed to make the most of it."
-    m "Như... bây giờ?"
+    m "Bạn phải làm tất cả điều đó"
 
 # game/script.rpy:681
 translate vietnamese start_a4c96fd2:
 
     # "You're supposed to finally exercise."
-    b "Ừ."
+    b "Cuối cùng thì bạn cũng phải tập thể dục."
 
 # game/script.rpy:682
 translate vietnamese start_21e1cd13:
 
     # "Go to lectures again."
-    m "... Cậu có phải không?"
+    m "Đi đến giảng đường một lần nữa."
 
 # game/script.rpy:683
 translate vietnamese start_33b03b8c:
 
     # "Make friends."
-    b "Đừng lo! Tớ đã có một cuộc sống tuyệt vời. Tớ không thể yêu cầu một người bạn tốt hơn cậu."
+    b "Làm quen thêm bạn mới."
 
 # game/script.rpy:684
 translate vietnamese start_53a40e4b:
 
     # "Call your mom."
-    "Điều đó có thực sự đúng không? Bạn chỉ đưa cô ấy đến một cánh đồng, một công viên, và một bãi biển!"
+    "Gọi cho mẹ bạn."
 
 # game/script.rpy:685
 translate vietnamese start_f09d318c:
 
     # "Literally achieve any goal."
-    "Còn rạp chiếu phim? Lễ hội? Nhảy múa? Pháo hoa? Công viên giải trí?"
+    "Thực sự đạt được bất kỳ mục tiêu nào."
 
 # game/script.rpy:686
 translate vietnamese start_a20cefa7:
 
     # "..."
-    "Nếu bạn chủ động hơn, cô ấy sẽ hạnh phúc hơn."
+    "..."
 
 # game/script.rpy:687
 translate vietnamese start_468676bd:
 
     # "But you just... {i}can't{/i}."
-    "Bạn là người đã giữ cô ấy lại."
+    "Nhưng bạn chỉ... {i}không thể{/i}."
 
 # game/script.rpy:688
 translate vietnamese start_44b3a675:
 
     # "Not today."
-    b "Dừng lại. Tớ biết cậu đang làm gì."
+    b "Không phải là ngày hôm nay."
 
 # game/script.rpy:689
 translate vietnamese start_d7508480:
 
     # "Now you're both stressed AND disappointed in yourself."
-    m "Tớ-"
+    m "Bây giờ bạn vừa căng thẳng VỪA thất vọng về bản thân."
 
 # game/script.rpy:693
 translate vietnamese start_8e41dfce:
 
     # "You need to distract yourself from these feelings. How about an impulse purchase?"
-    b "Im lặng. Tớ sắp cho cậu biết thực tế của mọi thứ."
+    b "Bạn cần tự làm mình sao lãng khỏi những cảm xúc này. Mua sắm linh tinh thì sao?"
 
 # game/script.rpy:694
 translate vietnamese start_8fd80b70:
 
     # "It's not like you'll need all the money your parents gave you for very long anyway."
-    b "Cậu đã làm tớ trở thành một nấm rất hạnh phúc."
+    b "Dù sao thì bạn cũng sẽ không cần tất cả số tiền mà bố mẹ bạn đã cho bạn trong thời gian dài đâu."
 
 # game/script.rpy:697
 translate vietnamese start_c21eef51:
 
     # m "But... what if I do need it later on?"
-    b "Nếu không có cậu, có lẽ tớ sẽ kết thúc như nhiều chị em của tớ - ở nhà, chăm sóc chủ của họ."
+    b "Nhưng... nếu sau này tớ cần nó thì sao?"
 
 # game/script.rpy:698
 translate vietnamese start_b480baf0:
 
     # "Hesitant, as always."
-    b "Không nhất thiết là một cuộc sống tồi, nhưng..."
+    b "Cậu vẫn luôn DO DỰ mà."
 
 # game/script.rpy:699
 translate vietnamese start_9f4bfce8:
 
     # "Don't worry. It's easier to just shut up and listen to me."
-    b "Tớ rất vui vì đó không phải của tớ."
+    b "Đừng lo. Mày chỉ cần câm miệng và nghe tao thôi."
 
 # game/script.rpy:700
 translate vietnamese start_3413f642:
 
     # "Remember: There's no point to anything anymore."
-    b "Tớ đã sẵn sàng, %(player_name)s. Cậu có thể tin tớ về điều đó."
+    b "Nhớ nhé: Bây giờ mày chẳng có mục đích gì cả."
 
 # game/script.rpy:702
 translate vietnamese start_7681bbef:
 
     # m "I guess so..."
-    m "Tớ sẽ làm điều đó."
+    m "Tôi đoán vậy..."
 
 # game/script.rpy:703
 translate vietnamese start_af419542:
 
     # "Maybe get something you can grow. Since you'll never have children of your own anyway."
-    b "Woah, thật sao?"
+    b "Có lẽ hãy lấy thứ gì đó mà mày có thể trồng. Vì dù sao mày cũng sẽ không bao giờ có con của riêng mình."
 
 # game/script.rpy:704
 translate vietnamese start_8dac78be:
 
     # "Also low-maintenance. You're not very good at taking care of things."
-    m "Ý cậu là gì với \"thật sao\"? Đó không phải là điều cậu muốn tớ làm sao?"
+    m "Và cũng dễ chăm sóc. Mày không giỏi trong việc quan tâm tới mọi thứ."
 
 # game/script.rpy:705
 translate vietnamese start_53d72305:
 
     # "What kind of plant would enjoy your dark, dank, dungeon?"
-    b "Tớ chỉ chuẩn bị để tranh luận với cậu về điều này-"
+    b "Cái loại cây nào mà có thể thích nghi với cái căn phòng tối tăm ẩm ướt của mày?"
 
 # game/script.rpy:707
 translate vietnamese start_64d91354:
 
     # m "I don't know."
-    b "Nhưng không saoooooo! Tuyệt! Hoàn hảo! Cảm ơn!"
+    b "Tao không biết."
 
 # game/script.rpy:708
 translate vietnamese start_d2061e25:
 
     # "Huh, so you really ARE an idiot."
-    m "Cậu và tính cách của cậu."
+    m "Huh, vậy mày thực sự LÀ một thằng đần."
 
 # game/script.rpy:709
 translate vietnamese start_7cabce7d:
 
     # "How does it feel, knowing that you've wasted your life in school and nothing came out of it?"
-    m "Có điều gì đó tớ cần nói."
+    m "Cảm giác thế nào khi biết rằng mày đã lãng phí cuộc đời mình ở trường học mà chẳng có gì ra hồn?"
 
 # game/script.rpy:710
 translate vietnamese start_6109150a:
 
     # "Think of all the money you've wasted. All of your precious time spent doing something you hated."
-    b "Ok."
+    b "Hãy nghĩ về tất cả số tiền mày đã lãng phí. Tất cả thời gian quý báu của mày đã dành để làm điều mà mày ghét."
 
 # game/script.rpy:711
 translate vietnamese start_d79b8cc8:
 
     # "Go on. Do what idiots do, and go ask the internet mommy for help."
-    m "Nếu... tớ ăn cậu vào ngày mai? Và chúng ta có thể đi chơi lại?"
+    m "Đi đi. Hãy làm những gì mà những thằng đần làm, và đi hỏi ai đó trên mạng giúp đỡ mày đi."
 
 # game/script.rpy:736
 translate vietnamese buy_mushroom_1f82217c:
 
     # "{size=*2.0}WELL DONE!{size=*2.0}"
-    m "Chỉ thêm một ngày nữa thôi! Cậu trông ổn bây giờ, có lẽ-"
+    m "{size=*2.0}TỐT RỒI!{size=*2.0}"
 
 # game/script.rpy:737
 translate vietnamese buy_mushroom_15c5ad6f:
 
     # "You did it! You searched for:"
-    b "Ừ, tớ TRÔNG ổn."
+    b "Bạn đã làm được! Bạn đã tìm kiếm:"
 
 # game/script.rpy:738
 translate vietnamese buy_mushroom_63e3dce0:
 
     # "<what gros in daurk humid palces?>"
-    b "Nhưng tớ thực sự mệt mỏi, ok?"
+    b "<thứ gì phát triển trong những nơi ẩm ướt tối tăm?>"
 
 # game/script.rpy:739
 translate vietnamese buy_mushroom_04cf4a2b:
 
     # "Pathetic."
-    b "Theo một cách mà tớ biết tớ không bao giờ có thể hồi phục."
+    b "Thật thảm hại."
 
 # game/script.rpy:741
 translate vietnamese buy_mushroom_222d9148:
 
     # m "Oh... mushrooms!"
-    b "Tớ đã qua thời kỳ đỉnh cao, và bây giờ... nó bắt đầu đau hơn và hơn nữa, mỗi giờ."
+    b "Ồ... là nấm!"
 
 # game/script.rpy:742
 translate vietnamese buy_mushroom_8474b4a3:
 
     # "Good. Get them."
-    b "Tớ yêu bãi biển, nhưng tất cả nước mặn đó có lẽ không phải là ý tưởng tốt nhất. Tớ cảm thấy thực sự kỳ lạ."
+    b "Tốt. Lấy chúng đi."
 
 # game/script.rpy:743
 translate vietnamese buy_mushroom_9a377f1d:
 
     # "Look, you can buy a starter-kit there. Surely you couldn't mess this up too, right?"
-    b "Không sao. Tớ sẵn sàng chết! Tớ luôn như vậy, nhớ không?"
+    b "Nhìn này, bạn có thể mua một bộ dụng cụ trồng nấm ở đó. Chắc chắn bạn không thể làm hỏng việc này nữa, đúng không?"
 
 # game/script.rpy:749
 translate vietnamese buy_mushroom_4aa4a1c4:
 
     # m "Which one should I get? Though it's not like I get much of a choice..."
-    m "Không, không ok! Tớ không thể giết cậu!"
+    m "Tôi nên lấy loại nào? Mặc dù tôi không có nhiều lựa chọn lắm..."
 
 # game/script.rpy:750
 translate vietnamese buy_mushroom_af8e07c0:
 
     # "Ah, just like life: You must resignedly drift down the path forced unto you."
-    b "Cậu muốn tớ chịu đựng?"
+    b "À, giống như cuộc sống: Bạn phải cam chịu theo con đường mà người khác bắt bạn đi."
 
 # game/script.rpy:769
 translate vietnamese bought_gt_d22ae335:
 
     # m "This one looks weird..."
-    m "Không! Nhưng làm sao cậu có thể yêu cầu tớ {sc=3}{color=#000000}GIẾT{/sc} cậu!?"
+    m "Cái này trông kỳ lạ quá..."
 
 # game/script.rpy:770
 translate vietnamese bought_gt_deb6353a:
 
     # "Then it would have been a perfect match!"
-    m "Làm sao cậu có thể háo hức chết như vậy!?"
+    m "Vậy thì nó sẽ là một sự lựa chọn hoàn hảo!"
 
 # game/script.rpy:771
 translate vietnamese bought_gt_5d583721:
 
     # "Unfortunately, the illusion of choice here is too shallow. You have'll to go with the generic, boring mushroom."
-    b "Cậu nghĩ tớ muốn chết!?"
+    b "Thật không may là, mày ảo tưởng về sự lựa chọn ở đây. Mày sẽ phải chọn loại nấm nhàm chán, tẻ nhạt."
 
 # game/script.rpy:772
 translate vietnamese bought_gt_537684e0:
 
     # "Hmm, maybe that's a good match for you after all!"
-    b "Cậu nghĩ tớ không sợ? Rằng tớ chưa nghĩ về nó?"
+    b "Hmm, có lẽ đó là sự lựa chọn tốt cho mày sau tất cả!"
 
 # game/script.rpy:778
 translate vietnamese bought_red_a1c9d913:
 
     # m "Aren't red mushrooms supposed to be poisonous?"
-    b "Tớ sẽ chết dù tớ thích hay không! Hoặc chết nhanh bởi tay cậu và tớ nuôi dưỡng cậu-"
+    b "Nấm đỏ không phải là loại có độc sao?"
 
 # game/script.rpy:779
 translate vietnamese bought_red_841bb29e:
 
     # "Maybe you could kill yourself with it! Then everyone will feel bad for you. That DOES sound alluring..."
-    b "Hoặc tớ từ từ thối rữa!"
+    b "Mày có thể tự tử bằng nó đó! Rồi mọi người sẽ thương hại bạn. NGHE có vẻ hấp dẫn đấy..."
 
 # game/script.rpy:780
 translate vietnamese bought_red_e8a503db:
 
     # "Too bad they're out of stock, huh?"
-    b "{sc=4}{color=#000000}ÍT NHẤT ĐỂ CÁI CHẾT CỦA TỚ CÓ Ý NGHĨA!{/sc}"
+    b "Tiếc là hết hàng rồi, phải không?"
 
 # game/script.rpy:793
 translate vietnamese x_2fafdade:
 
     # "Stalling for time. Your favourite facade of being in control."
-    m "Chỉ thêm một ngày nữa!"
+    m "Câu giờ. Lựa chọn ưa thích của bạn khi muốn kiểm soát thứ gì đó."
 
 # game/script.rpy:797
 translate vietnamese x_16421445:
 
     # "What? Can't make up your mind?"
-    m "Chúng ta không thể thử sao?"
+    m "Cái gì? Mày không thể quyết định sao?"
 
 # game/script.rpy:829
 translate vietnamese bought_button_9d025055:
 
     # m "You're kind of...cute."
-    b "Tớ không muốn! Tớ muốn ngừng chiến đấu. Tớ muốn nỗi đau dừng lại."
+    b "Mày cũng khá là... đáng yêu nhỉ"
 
 # game/script.rpy:830
 translate vietnamese bought_button_ac458a06:
@@ -296,7 +296,7 @@ translate vietnamese bought_button_ac458a06:
 translate vietnamese bought_button_1513cf83:
 
     # "Well, enjoy those leftovers that no one else wanted."
-    "Chà, hãy tận hưởng những món đồ thừa mà không ai muốn."
+    "Chà, hãy tận hưởng những món đồ thừa mà chẳng ai muốn."
 
 # game/script.rpy:833
 translate vietnamese bought_button_ebfa8efb:
@@ -326,7 +326,7 @@ translate vietnamese bought_button_dd731022:
 translate vietnamese bought_button_0103548d:
 
     # "We both know you can't do this."
-    "Chúng ta đều biết bạn không thể làm được điều này."
+    "Chúng ta đều biết mày không thể làm được điều này."
 
 # game/script.rpy:853
 translate vietnamese bought_button_cfa78aa1:
