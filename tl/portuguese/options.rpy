@@ -4,5 +4,5 @@ translate portuguese strings:
 
     # game/options.rpy:24
     old "Grow A Girlfriend Demo"
-    new ""
+    new "Grow A Girlfriend (Demonstração)"
 
